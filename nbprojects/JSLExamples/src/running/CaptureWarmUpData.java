@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package jsl.utilities.welch;
+package running;
 
-import examples.modeling.DriveThroughPharmacy;
+import models.DriveThroughPharmacy;
 import java.io.File;
 import java.io.IOException;
 import jsl.modeling.Model;
@@ -16,6 +16,10 @@ import jsl.modeling.elements.variable.TimeWeighted;
 import jsl.utilities.random.distributions.Exponential;
 import jsl.utilities.reporting.JSL;
 import jsl.utilities.statistic.BatchStatistic;
+import jsl.utilities.welch.WelchDataCollectorTW;
+import jsl.utilities.welch.WelchDataFileAnalyzer;
+import jsl.utilities.welch.WelchDataFileCollector;
+import jsl.utilities.welch.WelchDataFileCollectorTW;
 
 /**
  * Illustrates the use of the classes in the jsl.utilities.welch package
