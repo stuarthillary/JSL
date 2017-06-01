@@ -1,0 +1,26 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../processview/description/commands/Seize.AllocationListener.html" title="jsl.modeling.elements.processview.description.commands.Seize.AllocationListener" alt="" coords="735,18,1017,54"/>
+<area shape="rect" id="node1" href="../processview/description/commands/Seize.AllocationListener.html" title="&lt;TABLE&gt;" alt="" coords="725,12,1027,60"/>
+<area shape="rect" id="node8_1" href="./Request.html" title="jsl.modeling.elements.resource.Request" alt="" coords="559,127,622,151"/>
+<area shape="rect" id="node8" href="./Request.html" title="&lt;TABLE&gt;" alt="" coords="549,115,633,163"/>
+<area shape="rect" id="node2_2" href="./SeizeResources.AllocationSetListener.html" title="jsl.modeling.elements.resource.SeizeResources.AllocationSetListener" alt="" coords="773,323,904,347"/>
+<area shape="rect" id="node2" href="./SeizeResources.AllocationSetListener.html" title="&lt;TABLE&gt;" alt="" coords="763,311,915,359"/>
+<area shape="rect" id="node3_3" href="./ResourceSet.html" title="jsl.modeling.elements.resource.ResourceSet" alt="" coords="141,224,229,248"/>
+<area shape="rect" id="node3" href="./ResourceSet.html" title="&lt;TABLE&gt;" alt="" coords="131,212,240,260"/>
+<area shape="rect" id="node4_4" href="./ResourceSelectionRuleIfc.html" title="jsl.modeling.elements.resource.ResourceSelectionRuleIfc" alt="" coords="15,315,171,354"/>
+<area shape="rect" id="node4" href="./ResourceSelectionRuleIfc.html" title="&lt;TABLE&gt;" alt="" coords="5,310,182,359"/>
+<area shape="rect" id="node6_5" href="./Resource.html" title="jsl.modeling.elements.resource.Resource" alt="" coords="217,323,287,347"/>
+<area shape="rect" id="node6" href="./Resource.html" title="&lt;TABLE&gt;" alt="" coords="207,311,297,359"/>
+<area shape="rect" id="node5_6" href="./ResourceReleaseListenerIfc.html" title="jsl.modeling.elements.resource.ResourceReleaseListenerIfc" alt="" coords="275,217,445,255"/>
+<area shape="rect" id="node5" href="./ResourceReleaseListenerIfc.html" title="&lt;TABLE&gt;" alt="" coords="265,211,455,261"/>
+<area shape="rect" id="node7_7" href="./RequestQueue.html" title="jsl.modeling.elements.resource.RequestQueue" alt="" coords="359,24,457,48"/>
+<area shape="rect" id="node7" href="./RequestQueue.html" title="&lt;TABLE&gt;" alt="" coords="348,12,468,60"/>
+<area shape="rect" id="node9_8" href="./Request.State.html" title="jsl.modeling.elements.resource.Request.State" alt="" coords="541,217,640,255"/>
+<area shape="rect" id="node9" href="./Request.State.html" title="&lt;TABLE&gt;" alt="" coords="531,211,651,261"/>
+<area shape="rect" id="node10_9" href="./Entity.html" title="jsl.modeling.elements.resource.Entity" alt="" coords="687,224,735,248"/>
+<area shape="rect" id="node10" href="./Entity.html" title="&lt;TABLE&gt;" alt="" coords="675,212,747,260"/>
+<area shape="rect" id="node11_10" href="./AllocationListenerIfc.html" title="jsl.modeling.elements.resource.AllocationListenerIfc" alt="" coords="832,217,957,255"/>
+<area shape="rect" id="node11" href="./AllocationListenerIfc.html" title="&lt;TABLE&gt;" alt="" coords="821,211,968,261"/>
+<area shape="rect" id="node12_11" href="../spatial/transporter/TransporterAllocationRuleIfc.html" title="jsl.modeling.elements.spatial.transporter.TransporterAllocationRuleIfc" alt="" coords="503,11,687,61"/>
+<area shape="rect" id="node12" href="../spatial/transporter/TransporterAllocationRuleIfc.html" title="&lt;TABLE&gt;" alt="" coords="492,5,697,67"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../ProcessCommand.html" title="jsl.modeling.elements.processview.description.ProcessCommand" alt="" coords="139,11,347,47"/>
+<area shape="rect" id="node1" href="../ProcessCommand.html" title="&lt;TABLE&gt;" alt="" coords="128,5,357,53"/>
+<area shape="rect" id="node2_1" href="./Record.html" title="jsl.modeling.elements.processview.description.commands.Record" alt="" coords="214,113,271,137"/>
+<area shape="rect" id="node2" href="./Record.html" title="&lt;TABLE&gt;" alt="" coords="203,101,282,149"/>
+<area shape="rect" id="node3_2" href="../../../variable/ResponseVariable.html" title="jsl.modeling.elements.variable.ResponseVariable" alt="" coords="16,210,157,246"/>
+<area shape="rect" id="node3" href="../../../variable/ResponseVariable.html" title="&lt;TABLE&gt;" alt="" coords="5,204,168,252"/>
+<area shape="rect" id="node4_3" href="../../../../../utilities/GetValueIfc.html" title="jsl.utilities.GetValueIfc" alt="" coords="203,203,283,253"/>
+<area shape="rect" id="node4" href="../../../../../utilities/GetValueIfc.html" title="&lt;TABLE&gt;" alt="" coords="192,197,293,259"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../GetValueIfc.html" title="jsl.utilities.GetValueIfc" alt="" coords="16,205,96,256"/>
+<area shape="rect" id="node1" href="../GetValueIfc.html" title="&lt;TABLE&gt;" alt="" coords="5,200,107,261"/>
+<area shape="rect" id="node2_1" href="./WeightedStatistic.html" title="jsl.utilities.statistic.WeightedStatistic" alt="" coords="142,219,253,243"/>
+<area shape="rect" id="node2" href="./WeightedStatistic.html" title="&lt;TABLE&gt;" alt="" coords="131,207,263,255"/>
+<area shape="rect" id="node3_2" href="./SaveDataIfc.html" title="jsl.utilities.statistic.SaveDataIfc" alt="" coords="155,11,239,50"/>
+<area shape="rect" id="node3" href="./SaveDataIfc.html" title="&lt;TABLE&gt;" alt="" coords="145,6,250,55"/>
+<area shape="rect" id="node7_3" href="./AbstractCollector.html" title="jsl.utilities.statistic.AbstractCollector" alt="" coords="143,116,252,140"/>
+<area shape="rect" id="node7" href="./AbstractCollector.html" title="&lt;TABLE&gt;" alt="" coords="132,104,263,152"/>
+<area shape="rect" id="node4_4" href="./ExceedanceEstimator.html" title="jsl.utilities.statistic.ExceedanceEstimator" alt="" coords="298,219,433,243"/>
+<area shape="rect" id="node4" href="./ExceedanceEstimator.html" title="&lt;TABLE&gt;" alt="" coords="287,207,443,255"/>
+<area shape="rect" id="node5_5" href="./CollectorIfc.html" title="jsl.utilities.statistic.CollectorIfc" alt="" coords="27,11,106,50"/>
+<area shape="rect" id="node5" href="./CollectorIfc.html" title="&lt;TABLE&gt;" alt="" coords="17,6,117,55"/>
+<area shape="rect" id="node6_6" href="./AbstractStatistic.html" title="jsl.utilities.statistic.AbstractStatistic" alt="" coords="479,219,583,243"/>
+<area shape="rect" id="node6" href="./AbstractStatistic.html" title="&lt;TABLE&gt;" alt="" coords="468,207,593,255"/>
+</map>

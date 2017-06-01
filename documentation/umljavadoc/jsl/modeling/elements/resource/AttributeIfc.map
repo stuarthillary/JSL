@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./Entity.html" title="jsl.modeling.elements.resource.Entity" alt="" coords="17,68,65,92"/>
+<area shape="rect" id="node1" href="./Entity.html" title="&lt;TABLE&gt;" alt="" coords="5,56,77,104"/>
+<area shape="rect" id="node2_1" href="./AttributeIfc.html" title="jsl.modeling.elements.resource.AttributeIfc" alt="" coords="47,267,124,306"/>
+<area shape="rect" id="node2" href="./AttributeIfc.html" title="&lt;TABLE&gt;" alt="" coords="36,262,135,311"/>
+<area shape="rect" id="node5_2" href="../../../utilities/GetValueIfc.html" title="jsl.utilities.GetValueIfc" alt="" coords="45,157,125,208"/>
+<area shape="rect" id="node5" href="../../../utilities/GetValueIfc.html" title="&lt;TABLE&gt;" alt="" coords="35,152,136,213"/>
+<area shape="rect" id="node3_3" href="./Attribute.html" title="jsl.modeling.elements.resource.Attribute" alt="" coords="54,372,117,396"/>
+<area shape="rect" id="node3" href="./Attribute.html" title="&lt;TABLE&gt;" alt="" coords="43,360,127,408"/>
+<area shape="rect" id="node4_4" href="../variable/SetValueIfc.html" title="jsl.modeling.elements.variable.SetValueIfc" alt="" coords="171,157,312,208"/>
+<area shape="rect" id="node4" href="../variable/SetValueIfc.html" title="&lt;TABLE&gt;" alt="" coords="160,152,323,213"/>
+</map>

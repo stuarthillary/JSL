@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./WelchDataCollector.html" title="jsl.observers.variable.WelchDataCollector" alt="" coords="15,17,139,41"/>
+<area shape="rect" id="node1" href="./WelchDataCollector.html" title="&lt;TABLE&gt;" alt="" coords="5,5,150,53"/>
+<area shape="rect" id="node2_1" href="./VariableTraceTextReport.html" title="jsl.observers.variable.VariableTraceTextReport" alt="" coords="185,17,335,41"/>
+<area shape="rect" id="node2" href="./VariableTraceTextReport.html" title="&lt;TABLE&gt;" alt="" coords="175,5,345,53"/>
+<area shape="rect" id="node3_2" href="./STSStatisicalObserver.html" title="jsl.observers.variable.STSStatisicalObserver" alt="" coords="380,17,519,41"/>
+<area shape="rect" id="node3" href="./STSStatisicalObserver.html" title="&lt;TABLE&gt;" alt="" coords="369,5,529,53"/>
+<area shape="rect" id="node4_3" href="./PercentageOfTime.html" title="jsl.observers.variable.PercentageOfTime" alt="" coords="565,17,683,41"/>
+<area shape="rect" id="node4" href="./PercentageOfTime.html" title="&lt;TABLE&gt;" alt="" coords="554,5,694,53"/>
+<area shape="rect" id="node5_4" href="./MultipleComparisonDataCollector.html" title="jsl.observers.variable.MultipleComparisonDataCollector" alt="" coords="729,17,927,41"/>
+<area shape="rect" id="node5" href="./MultipleComparisonDataCollector.html" title="&lt;TABLE&gt;" alt="" coords="719,5,937,53"/>
+<area shape="rect" id="node6_5" href="./CounterObserver.html" title="jsl.observers.variable.CounterObserver" alt="" coords="973,17,1083,41"/>
+<area shape="rect" id="node6" href="./CounterObserver.html" title="&lt;TABLE&gt;" alt="" coords="962,5,1094,53"/>
+<area shape="rect" id="node7_6" href="./AcrossReplicationRelativePrecisionChecker.html" title="jsl.observers.variable.AcrossReplicationRelativePrecisionChecker" alt="" coords="1129,17,1380,41"/>
+<area shape="rect" id="node7" href="./AcrossReplicationRelativePrecisionChecker.html" title="&lt;TABLE&gt;" alt="" coords="1119,5,1391,53"/>
+<area shape="rect" id="node8_7" href="./AcrossReplicationHalfWidthChecker.html" title="jsl.observers.variable.AcrossReplicationHalfWidthChecker" alt="" coords="1425,17,1636,41"/>
+<area shape="rect" id="node8" href="./AcrossReplicationHalfWidthChecker.html" title="&lt;TABLE&gt;" alt="" coords="1415,5,1647,53"/>
+</map>

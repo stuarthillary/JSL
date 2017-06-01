@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../../ModelElement.html" title="jsl.modeling.ModelElement" alt="" coords="15,107,110,143"/>
+<area shape="rect" id="node1" href="../../ModelElement.html" title="&lt;TABLE&gt;" alt="" coords="5,101,121,149"/>
+<area shape="rect" id="node2_1" href="../../Model.html" title="jsl.modeling.Model" alt="" coords="30,203,95,239"/>
+<area shape="rect" id="node2" href="../../Model.html" title="&lt;TABLE&gt;" alt="" coords="19,197,106,245"/>
+<area shape="rect" id="node3_2" href="./QueueDiscipline.html" title="jsl.modeling.elements.queue.QueueDiscipline" alt="" coords="141,209,246,233"/>
+<area shape="rect" id="node3" href="./QueueDiscipline.html" title="&lt;TABLE&gt;" alt="" coords="130,197,257,245"/>
+<area shape="rect" id="node4_3" href="./LIFODiscipline.html" title="jsl.modeling.elements.queue.LIFODiscipline" alt="" coords="80,305,176,329"/>
+<area shape="rect" id="node4" href="./LIFODiscipline.html" title="&lt;TABLE&gt;" alt="" coords="69,293,187,341"/>
+</map>

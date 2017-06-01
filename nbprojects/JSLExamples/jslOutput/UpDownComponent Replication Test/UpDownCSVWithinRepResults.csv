@@ -1,0 +1,5 @@
+SimName,ModelName,ExpName,RepNum,ResponseType,ResponseID,ResponseName,Statistic Name,Count,Average,Minimum,Maximum,Weighted Sum,Sum of Weights,Weighted sum of squares
+UpDownComponent Replication Test,UpDownComponent Replication Test_Model,Experiment,1,TimeWeighted,11,state,state,18.0,0.188609587062639,0.0,1.0,9.43047935313195,50.0,9.43047935313195
+UpDownComponent Replication Test,UpDownComponent Replication Test_Model,Experiment,1,ResponseVariable,12,cycle length,cycle length,6.0,7.2559582044105015,0.5717992271538215,12.29278730801104,43.53574922646301,6.0,429.31054574642843
+UpDownComponent Replication Test,UpDownComponent Replication Test_Model,Experiment,1,TimeWeighted,14,count failures TW shadow,count failures TW shadow,10.0,3.8016129378334824,0.0,8.0,190.08064689167412,50.0,942.4103109765861
+UpDownComponent Replication Test,UpDownComponent Replication Test_Model,Experiment,1,Counter,13,count failures,count failures,8.0

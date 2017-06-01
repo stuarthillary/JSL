@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../../observers/variable/STSStatisicalObserver.html" title="jsl.observers.variable.STSStatisicalObserver" alt="" coords="16,11,155,47"/>
+<area shape="rect" id="node1" href="../../observers/variable/STSStatisicalObserver.html" title="&lt;TABLE&gt;" alt="" coords="5,5,165,53"/>
+<area shape="rect" id="node2_1" href="./Statistic.html" title="jsl.utilities.statistic.Statistic" alt="" coords="139,209,199,233"/>
+<area shape="rect" id="node2" href="./Statistic.html" title="&lt;TABLE&gt;" alt="" coords="129,197,210,245"/>
+<area shape="rect" id="node3_2" href="./StandardizedTimeSeriesStatistic.html" title="jsl.utilities.statistic.StandardizedTimeSeriesStatistic" alt="" coords="74,113,265,137"/>
+<area shape="rect" id="node3" href="./StandardizedTimeSeriesStatistic.html" title="&lt;TABLE&gt;" alt="" coords="63,101,275,149"/>
+<area shape="rect" id="node4_3" href="./AbstractStatistic.html" title="jsl.utilities.statistic.AbstractStatistic" alt="" coords="231,17,335,41"/>
+<area shape="rect" id="node4" href="./AbstractStatistic.html" title="&lt;TABLE&gt;" alt="" coords="220,5,345,53"/>
+</map>

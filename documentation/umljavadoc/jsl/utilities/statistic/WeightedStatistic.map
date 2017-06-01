@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../../modeling/BatchingElement.TWBatchStatisticObserver.html" title="jsl.modeling.BatchingElement.TWBatchStatisticObserver" alt="" coords="15,111,174,147"/>
+<area shape="rect" id="node1" href="../../modeling/BatchingElement.TWBatchStatisticObserver.html" title="&lt;TABLE&gt;" alt="" coords="5,105,185,153"/>
+<area shape="rect" id="node4_1" href="./WeightedStatistic.html" title="jsl.utilities.statistic.WeightedStatistic" alt="" coords="277,215,387,239"/>
+<area shape="rect" id="node4" href="./WeightedStatistic.html" title="&lt;TABLE&gt;" alt="" coords="266,203,398,251"/>
+<area shape="rect" id="node2_2" href="../../modeling/elements/variable/ResponseVariable.html" title="jsl.modeling.elements.variable.ResponseVariable" alt="" coords="173,13,315,49"/>
+<area shape="rect" id="node2" href="../../modeling/elements/variable/ResponseVariable.html" title="&lt;TABLE&gt;" alt="" coords="163,7,325,55"/>
+<area shape="rect" id="node3_3" href="./WeightedStatisticIfc.html" title="jsl.utilities.statistic.WeightedStatisticIfc" alt="" coords="271,110,393,149"/>
+<area shape="rect" id="node3" href="./WeightedStatisticIfc.html" title="&lt;TABLE&gt;" alt="" coords="260,105,404,154"/>
+<area shape="rect" id="node5_4" href="./GetCSVStatisticIfc.html" title="jsl.utilities.statistic.GetCSVStatisticIfc" alt="" coords="371,11,488,50"/>
+<area shape="rect" id="node5" href="./GetCSVStatisticIfc.html" title="&lt;TABLE&gt;" alt="" coords="360,6,499,55"/>
+<area shape="rect" id="node6_5" href="./AbstractCollector.html" title="jsl.utilities.statistic.AbstractCollector" alt="" coords="489,117,599,141"/>
+<area shape="rect" id="node6" href="./AbstractCollector.html" title="&lt;TABLE&gt;" alt="" coords="479,105,609,153"/>
+</map>

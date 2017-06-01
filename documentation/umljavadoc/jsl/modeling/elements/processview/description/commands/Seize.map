@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../ProcessCommand.html" title="jsl.modeling.elements.processview.description.ProcessCommand" alt="" coords="323,11,531,47"/>
+<area shape="rect" id="node1" href="../ProcessCommand.html" title="&lt;TABLE&gt;" alt="" coords="312,5,541,53"/>
+<area shape="rect" id="node2_1" href="./Seize.html" title="jsl.modeling.elements.processview.description.commands.Seize" alt="" coords="403,113,451,137"/>
+<area shape="rect" id="node2" href="./Seize.html" title="&lt;TABLE&gt;" alt="" coords="391,101,463,149"/>
+<area shape="rect" id="node3_2" href="./Seize.AllocationListener.html" title="jsl.modeling.elements.processview.description.commands.Seize.AllocationListener" alt="" coords="16,209,128,233"/>
+<area shape="rect" id="node3" href="./Seize.AllocationListener.html" title="&lt;TABLE&gt;" alt="" coords="5,197,139,245"/>
+<area shape="rect" id="node4_3" href="../../../queue/Queue.html" title="jsl.modeling.elements.queue.Queue" alt="" coords="174,203,309,239"/>
+<area shape="rect" id="node4" href="../../../queue/Queue.html" title="&lt;TABLE&gt;" alt="" coords="163,197,319,245"/>
+<area shape="rect" id="node5_4" href="../../../resource/Resource.html" title="jsl.modeling.elements.resource.Resource" alt="" coords="354,203,499,239"/>
+<area shape="rect" id="node5" href="../../../resource/Resource.html" title="&lt;TABLE&gt;" alt="" coords="343,197,510,245"/>
+<area shape="rect" id="node6_5" href="../../../variable/Variable.html" title="jsl.modeling.elements.variable.Variable" alt="" coords="545,203,687,239"/>
+<area shape="rect" id="node6" href="../../../variable/Variable.html" title="&lt;TABLE&gt;" alt="" coords="535,197,697,245"/>
+</map>

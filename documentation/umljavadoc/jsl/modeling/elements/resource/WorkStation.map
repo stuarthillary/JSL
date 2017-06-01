@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../queue/Queue.html" title="jsl.modeling.elements.queue.Queue" alt="" coords="587,251,722,287"/>
+<area shape="rect" id="node1" href="../queue/Queue.html" title="&lt;TABLE&gt;" alt="" coords="577,245,733,293"/>
+<area shape="rect" id="node6_1" href="../variable/ResponseVariable.html" title="jsl.modeling.elements.variable.ResponseVariable" alt="" coords="584,354,725,390"/>
+<area shape="rect" id="node6" href="../variable/ResponseVariable.html" title="&lt;TABLE&gt;" alt="" coords="573,348,736,396"/>
+<area shape="rect" id="node2_2" href="./WorkStation.html" title="jsl.modeling.elements.resource.WorkStation" alt="" coords="447,161,529,185"/>
+<area shape="rect" id="node2" href="./WorkStation.html" title="&lt;TABLE&gt;" alt="" coords="436,149,540,197"/>
+<area shape="rect" id="node3_3" href="./WorkStation.EndServiceListener.html" title="jsl.modeling.elements.resource.WorkStation.EndServiceListener" alt="" coords="16,257,139,281"/>
+<area shape="rect" id="node3" href="./WorkStation.EndServiceListener.html" title="&lt;TABLE&gt;" alt="" coords="5,245,149,293"/>
+<area shape="rect" id="node4_4" href="./Resource.html" title="jsl.modeling.elements.resource.Resource" alt="" coords="184,257,253,281"/>
+<area shape="rect" id="node4" href="./Resource.html" title="&lt;TABLE&gt;" alt="" coords="173,245,264,293"/>
+<area shape="rect" id="node7_5" href="../variable/RandomVariable.html" title="jsl.modeling.elements.variable.RandomVariable" alt="" coords="299,251,440,287"/>
+<area shape="rect" id="node7" href="../variable/RandomVariable.html" title="&lt;TABLE&gt;" alt="" coords="288,245,451,293"/>
+<area shape="rect" id="node8_6" href="../../../utilities/random/RandomIfc.html" title="jsl.utilities.random.RandomIfc" alt="" coords="324,347,415,397"/>
+<area shape="rect" id="node8" href="../../../utilities/random/RandomIfc.html" title="&lt;TABLE&gt;" alt="" coords="313,341,425,403"/>
+<area shape="rect" id="node5_7" href="./EntityReceiver.html" title="jsl.modeling.elements.resource.EntityReceiver" alt="" coords="581,65,677,89"/>
+<area shape="rect" id="node5" href="./EntityReceiver.html" title="&lt;TABLE&gt;" alt="" coords="571,53,688,101"/>
+</map>

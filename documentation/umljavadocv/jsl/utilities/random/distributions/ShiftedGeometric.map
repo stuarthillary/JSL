@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./ShiftedGeometric.html" title="jsl.utilities.random.distributions.ShiftedGeometric" alt="" coords="63,116,174,140"/>
+<area shape="rect" id="node1" href="./ShiftedGeometric.html" title="&lt;TABLE&gt;" alt="" coords="53,104,185,152"/>
+<area shape="rect" id="node4_1" href="../rng/RngIfc.html" title="jsl.utilities.random.rng.RngIfc" alt="" coords="181,205,288,256"/>
+<area shape="rect" id="node4" href="../rng/RngIfc.html" title="&lt;TABLE&gt;" alt="" coords="171,200,299,261"/>
+<area shape="rect" id="node2_2" href="./Distribution.html" title="jsl.utilities.random.distributions.Distribution" alt="" coords="195,19,274,43"/>
+<area shape="rect" id="node2" href="./Distribution.html" title="&lt;TABLE&gt;" alt="" coords="185,7,285,55"/>
+<area shape="rect" id="node3_3" href="./DiscreteDistributionIfc.html" title="jsl.utilities.random.distributions.DiscreteDistributionIfc" alt="" coords="15,11,150,50"/>
+<area shape="rect" id="node3" href="./DiscreteDistributionIfc.html" title="&lt;TABLE&gt;" alt="" coords="5,6,161,55"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../queue/QObject.html" title="jsl.modeling.elements.queue.QObject" alt="" coords="27,302,162,338"/>
+<area shape="rect" id="node1" href="../queue/QObject.html" title="&lt;TABLE&gt;" alt="" coords="17,296,173,344"/>
+<area shape="rect" id="node2_1" href="./TwoWayByChanceQObjectSender.html" title="jsl.modeling.elements.station.TwoWayByChanceQObjectSender" alt="" coords="69,212,270,236"/>
+<area shape="rect" id="node2" href="./TwoWayByChanceQObjectSender.html" title="&lt;TABLE&gt;" alt="" coords="58,200,281,248"/>
+<area shape="rect" id="node3_2" href="./Station.html" title="jsl.modeling.elements.station.Station" alt="" coords="16,17,72,41"/>
+<area shape="rect" id="node3" href="./Station.html" title="&lt;TABLE&gt;" alt="" coords="5,5,83,53"/>
+<area shape="rect" id="node4_3" href="./SendQObjectIfc.html" title="jsl.modeling.elements.station.SendQObjectIfc" alt="" coords="67,107,170,146"/>
+<area shape="rect" id="node4" href="./SendQObjectIfc.html" title="&lt;TABLE&gt;" alt="" coords="57,102,181,151"/>
+<area shape="rect" id="node5_4" href="./NWayByChanceQObjectSender.html" title="jsl.modeling.elements.station.NWayByChanceQObjectSender" alt="" coords="315,212,503,236"/>
+<area shape="rect" id="node5" href="./NWayByChanceQObjectSender.html" title="&lt;TABLE&gt;" alt="" coords="305,200,514,248"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../queue/Queue.html" title="jsl.modeling.elements.queue.Queue" alt="" coords="418,203,552,239"/>
+<area shape="rect" id="node1" href="../queue/Queue.html" title="&lt;TABLE&gt;" alt="" coords="407,197,563,245"/>
+<area shape="rect" id="node2_1" href="../queue/QObject.html" title="jsl.modeling.elements.queue.QObject" alt="" coords="567,306,702,342"/>
+<area shape="rect" id="node2" href="../queue/QObject.html" title="&lt;TABLE&gt;" alt="" coords="556,300,712,348"/>
+<area shape="rect" id="node6_2" href="../variable/TimeWeighted.html" title="jsl.modeling.elements.variable.TimeWeighted" alt="" coords="44,306,185,342"/>
+<area shape="rect" id="node6" href="../variable/TimeWeighted.html" title="&lt;TABLE&gt;" alt="" coords="33,300,196,348"/>
+<area shape="rect" id="node8_3" href="../../../utilities/statistic/WeightedStatisticIfc.html" title="jsl.utilities.statistic.WeightedStatisticIfc" alt="" coords="230,299,353,349"/>
+<area shape="rect" id="node8" href="../../../utilities/statistic/WeightedStatisticIfc.html" title="&lt;TABLE&gt;" alt="" coords="220,293,364,355"/>
+<area shape="rect" id="node9_4" href="../../../utilities/statistic/StatisticAccessorIfc.html" title="jsl.utilities.statistic.StatisticAccessorIfc" alt="" coords="398,299,521,349"/>
+<area shape="rect" id="node9" href="../../../utilities/statistic/StatisticAccessorIfc.html" title="&lt;TABLE&gt;" alt="" coords="388,293,532,355"/>
+<area shape="rect" id="node7_5" href="../../../utilities/GetValueIfc.html" title="jsl.utilities.GetValueIfc" alt="" coords="269,408,349,459"/>
+<area shape="rect" id="node7" href="../../../utilities/GetValueIfc.html" title="&lt;TABLE&gt;" alt="" coords="258,403,360,464"/>
+<area shape="rect" id="node3_6" href="./Station.html" title="jsl.modeling.elements.station.Station" alt="" coords="430,17,486,41"/>
+<area shape="rect" id="node3" href="./Station.html" title="&lt;TABLE&gt;" alt="" coords="420,5,497,53"/>
+<area shape="rect" id="node4_7" href="./SingleQueueStation.html" title="jsl.modeling.elements.station.SingleQueueStation" alt="" coords="202,113,328,137"/>
+<area shape="rect" id="node4" href="./SingleQueueStation.html" title="&lt;TABLE&gt;" alt="" coords="192,101,338,149"/>
+<area shape="rect" id="node5_8" href="./SingleQueueStation.EndServiceAction.html" title="jsl.modeling.elements.station.SingleQueueStation.EndServiceAction" alt="" coords="156,209,270,233"/>
+<area shape="rect" id="node5" href="./SingleQueueStation.EndServiceAction.html" title="&lt;TABLE&gt;" alt="" coords="146,197,280,245"/>
+</map>

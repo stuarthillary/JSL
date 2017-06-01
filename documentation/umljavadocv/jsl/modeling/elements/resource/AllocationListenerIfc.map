@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../processview/description/commands/Seize.AllocationListener.html" title="jsl.modeling.elements.processview.description.commands.Seize.AllocationListener" alt="" coords="67,11,349,47"/>
+<area shape="rect" id="node1" href="../processview/description/commands/Seize.AllocationListener.html" title="&lt;TABLE&gt;" alt="" coords="57,5,359,53"/>
+<area shape="rect" id="node6_1" href="./Request.html" title="jsl.modeling.elements.resource.Request" alt="" coords="137,113,199,137"/>
+<area shape="rect" id="node6" href="./Request.html" title="&lt;TABLE&gt;" alt="" coords="126,101,210,149"/>
+<area shape="rect" id="node2_2" href="./SQSRWorkStation.AllocationListener.html" title="jsl.modeling.elements.resource.SQSRWorkStation.AllocationListener" alt="" coords="192,308,304,332"/>
+<area shape="rect" id="node2" href="./SQSRWorkStation.AllocationListener.html" title="&lt;TABLE&gt;" alt="" coords="181,296,315,344"/>
+<area shape="rect" id="node3_3" href="./SeizeResources.AllocationListener.html" title="jsl.modeling.elements.resource.SeizeResources.AllocationListener" alt="" coords="349,308,461,332"/>
+<area shape="rect" id="node3" href="./SeizeResources.AllocationListener.html" title="&lt;TABLE&gt;" alt="" coords="339,296,472,344"/>
+<area shape="rect" id="node4_4" href="./SeizeResources.AllocationSetListener.html" title="jsl.modeling.elements.resource.SeizeResources.AllocationSetListener" alt="" coords="16,308,147,332"/>
+<area shape="rect" id="node4" href="./SeizeResources.AllocationSetListener.html" title="&lt;TABLE&gt;" alt="" coords="5,296,157,344"/>
+<area shape="rect" id="node5_5" href="./ResourceProvider.AllocationListener.html" title="jsl.modeling.elements.resource.ResourceProvider.AllocationListener" alt="" coords="507,308,619,332"/>
+<area shape="rect" id="node5" href="./ResourceProvider.AllocationListener.html" title="&lt;TABLE&gt;" alt="" coords="496,296,629,344"/>
+<area shape="rect" id="node7_6" href="./AllocationListenerIfc.html" title="jsl.modeling.elements.resource.AllocationListenerIfc" alt="" coords="185,203,311,242"/>
+<area shape="rect" id="node7" href="./AllocationListenerIfc.html" title="&lt;TABLE&gt;" alt="" coords="175,198,321,247"/>
+</map>

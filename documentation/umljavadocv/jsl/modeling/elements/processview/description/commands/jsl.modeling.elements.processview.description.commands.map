@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./Terminate.html" title="jsl.modeling.elements.processview.description.commands.Terminate" alt="" coords="15,17,86,41"/>
+<area shape="rect" id="node1" href="./Terminate.html" title="&lt;TABLE&gt;" alt="" coords="5,5,97,53"/>
+<area shape="rect" id="node2_1" href="./Seize.html" title="jsl.modeling.elements.processview.description.commands.Seize" alt="" coords="133,17,181,41"/>
+<area shape="rect" id="node2" href="./Seize.html" title="&lt;TABLE&gt;" alt="" coords="121,5,193,53"/>
+<area shape="rect" id="node3_2" href="./Seize.AllocationListener.html" title="jsl.modeling.elements.processview.description.commands.Seize.AllocationListener" alt="" coords="101,113,213,137"/>
+<area shape="rect" id="node3" href="./Seize.AllocationListener.html" title="&lt;TABLE&gt;" alt="" coords="91,101,224,149"/>
+<area shape="rect" id="node4_3" href="./Release.html" title="jsl.modeling.elements.processview.description.commands.Release" alt="" coords="229,17,291,41"/>
+<area shape="rect" id="node4" href="./Release.html" title="&lt;TABLE&gt;" alt="" coords="218,5,302,53"/>
+<area shape="rect" id="node5_4" href="./Record.html" title="jsl.modeling.elements.processview.description.commands.Record" alt="" coords="337,17,394,41"/>
+<area shape="rect" id="node5" href="./Record.html" title="&lt;TABLE&gt;" alt="" coords="326,5,405,53"/>
+<area shape="rect" id="node6_5" href="./Delay.html" title="jsl.modeling.elements.processview.description.commands.Delay" alt="" coords="441,17,490,41"/>
+<area shape="rect" id="node6" href="./Delay.html" title="&lt;TABLE&gt;" alt="" coords="429,5,501,53"/>
+<area shape="rect" id="node7_6" href="./Assign.html" title="jsl.modeling.elements.processview.description.commands.Assign" alt="" coords="536,17,589,41"/>
+<area shape="rect" id="node7" href="./Assign.html" title="&lt;TABLE&gt;" alt="" coords="525,5,600,53"/>
+<area shape="rect" id="node8_7" href="./Assign.Assignment.html" title="jsl.modeling.elements.processview.description.commands.Assign.Assignment" alt="" coords="523,113,603,137"/>
+<area shape="rect" id="node8" href="./Assign.Assignment.html" title="&lt;TABLE&gt;" alt="" coords="512,101,613,149"/>
+</map>

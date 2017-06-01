@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../queue/QObject.html" title="jsl.modeling.elements.queue.QObject" alt="" coords="15,210,150,246"/>
+<area shape="rect" id="node1" href="../queue/QObject.html" title="&lt;TABLE&gt;" alt="" coords="5,204,161,252"/>
+<area shape="rect" id="node6_1" href="../../../utilities/GetValueIfc.html" title="jsl.utilities.GetValueIfc" alt="" coords="275,312,355,363"/>
+<area shape="rect" id="node6" href="../../../utilities/GetValueIfc.html" title="&lt;TABLE&gt;" alt="" coords="264,307,365,368"/>
+<area shape="rect" id="node2_2" href="./Station.html" title="jsl.modeling.elements.station.Station" alt="" coords="347,17,403,41"/>
+<area shape="rect" id="node2" href="./Station.html" title="&lt;TABLE&gt;" alt="" coords="336,5,413,53"/>
+<area shape="rect" id="node3_3" href="./DelayStation.html" title="jsl.modeling.elements.station.DelayStation" alt="" coords="438,113,525,137"/>
+<area shape="rect" id="node3" href="./DelayStation.html" title="&lt;TABLE&gt;" alt="" coords="427,101,535,149"/>
+<area shape="rect" id="node4_4" href="./DelayStation.EndDelayAction.html" title="jsl.modeling.elements.station.DelayStation.EndDelayAction" alt="" coords="196,216,300,240"/>
+<area shape="rect" id="node4" href="./DelayStation.EndDelayAction.html" title="&lt;TABLE&gt;" alt="" coords="185,204,311,252"/>
+<area shape="rect" id="node5_5" href="../variable/TimeWeighted.html" title="jsl.modeling.elements.variable.TimeWeighted" alt="" coords="345,210,487,246"/>
+<area shape="rect" id="node5" href="../variable/TimeWeighted.html" title="&lt;TABLE&gt;" alt="" coords="335,204,497,252"/>
+<area shape="rect" id="node7_6" href="../../../utilities/statistic/WeightedStatisticIfc.html" title="jsl.utilities.statistic.WeightedStatisticIfc" alt="" coords="607,203,729,253"/>
+<area shape="rect" id="node7" href="../../../utilities/statistic/WeightedStatisticIfc.html" title="&lt;TABLE&gt;" alt="" coords="596,197,740,259"/>
+<area shape="rect" id="node8_7" href="../../../utilities/statistic/StatisticAccessorIfc.html" title="jsl.utilities.statistic.StatisticAccessorIfc" alt="" coords="775,203,897,253"/>
+<area shape="rect" id="node8" href="../../../utilities/statistic/StatisticAccessorIfc.html" title="&lt;TABLE&gt;" alt="" coords="764,197,908,259"/>
+</map>

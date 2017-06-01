@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../RandomElement.html" title="jsl.modeling.elements.RandomElement" alt="" coords="15,251,145,287"/>
+<area shape="rect" id="node1" href="../RandomElement.html" title="&lt;TABLE&gt;" alt="" coords="5,245,155,293"/>
+<area shape="rect" id="node2_1" href="./NWayByChanceEntitySender.html" title="jsl.modeling.elements.resource.NWayByChanceEntitySender" alt="" coords="174,161,349,185"/>
+<area shape="rect" id="node2" href="./NWayByChanceEntitySender.html" title="&lt;TABLE&gt;" alt="" coords="163,149,359,197"/>
+<area shape="rect" id="node4_2" href="../variable/RandomVariable.html" title="jsl.modeling.elements.variable.RandomVariable" alt="" coords="191,251,332,287"/>
+<area shape="rect" id="node4" href="../variable/RandomVariable.html" title="&lt;TABLE&gt;" alt="" coords="180,245,343,293"/>
+<area shape="rect" id="node5_3" href="../../../utilities/random/RandomIfc.html" title="jsl.utilities.random.RandomIfc" alt="" coords="216,347,307,397"/>
+<area shape="rect" id="node5" href="../../../utilities/random/RandomIfc.html" title="&lt;TABLE&gt;" alt="" coords="205,341,317,403"/>
+<area shape="rect" id="node3_4" href="./EntityReceiver.html" title="jsl.modeling.elements.resource.EntityReceiver" alt="" coords="213,65,309,89"/>
+<area shape="rect" id="node3" href="./EntityReceiver.html" title="&lt;TABLE&gt;" alt="" coords="203,53,320,101"/>
+</map>

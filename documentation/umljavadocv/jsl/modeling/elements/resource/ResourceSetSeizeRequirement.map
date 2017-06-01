@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./SeizeRequirement.html" title="jsl.modeling.elements.resource.SeizeRequirement" alt="" coords="51,17,168,41"/>
+<area shape="rect" id="node1" href="./SeizeRequirement.html" title="&lt;TABLE&gt;" alt="" coords="40,5,179,53"/>
+<area shape="rect" id="node2_1" href="./ResourceSetSeizeRequirement.html" title="jsl.modeling.elements.resource.ResourceSetSeizeRequirement" alt="" coords="16,113,203,137"/>
+<area shape="rect" id="node2" href="./ResourceSetSeizeRequirement.html" title="&lt;TABLE&gt;" alt="" coords="5,101,213,149"/>
+<area shape="rect" id="node3_2" href="./ResourceSet.html" title="jsl.modeling.elements.resource.ResourceSet" alt="" coords="20,209,108,233"/>
+<area shape="rect" id="node3" href="./ResourceSet.html" title="&lt;TABLE&gt;" alt="" coords="9,197,119,245"/>
+<area shape="rect" id="node4_3" href="./ResourceSelectionRuleIfc.html" title="jsl.modeling.elements.resource.ResourceSelectionRuleIfc" alt="" coords="31,299,187,338"/>
+<area shape="rect" id="node4" href="./ResourceSelectionRuleIfc.html" title="&lt;TABLE&gt;" alt="" coords="21,294,198,343"/>
+</map>

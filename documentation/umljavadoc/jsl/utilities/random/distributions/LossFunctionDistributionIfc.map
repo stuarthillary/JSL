@@ -1,0 +1,30 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./ShiftedLossFunctionDistribution.html" title="jsl.utilities.random.distributions.ShiftedLossFunctionDistribution" alt="" coords="205,311,392,335"/>
+<area shape="rect" id="node1" href="./ShiftedLossFunctionDistribution.html" title="&lt;TABLE&gt;" alt="" coords="195,299,403,347"/>
+<area shape="rect" id="node2_1" href="./ShiftedDistribution.html" title="jsl.utilities.random.distributions.ShiftedDistribution" alt="" coords="15,19,131,43"/>
+<area shape="rect" id="node2" href="./ShiftedDistribution.html" title="&lt;TABLE&gt;" alt="" coords="5,7,142,55"/>
+<area shape="rect" id="node8_2" href="./LossFunctionDistributionIfc.html" title="jsl.utilities.random.distributions.LossFunctionDistributionIfc" alt="" coords="416,110,579,149"/>
+<area shape="rect" id="node8" href="./LossFunctionDistributionIfc.html" title="&lt;TABLE&gt;" alt="" coords="405,105,589,154"/>
+<area shape="rect" id="node3_3" href="./SecondOrderLossFunctionIfc.html" title="jsl.utilities.random.distributions.SecondOrderLossFunctionIfc" alt="" coords="200,11,373,50"/>
+<area shape="rect" id="node3" href="./SecondOrderLossFunctionIfc.html" title="&lt;TABLE&gt;" alt="" coords="189,6,384,55"/>
+<area shape="rect" id="node4_4" href="./Poisson.html" title="jsl.utilities.random.distributions.Poisson" alt="" coords="127,215,188,239"/>
+<area shape="rect" id="node4" href="./Poisson.html" title="&lt;TABLE&gt;" alt="" coords="116,203,199,251"/>
+<area shape="rect" id="node5_5" href="./Normal.html" title="jsl.utilities.random.distributions.Normal" alt="" coords="234,215,291,239"/>
+<area shape="rect" id="node5" href="./Normal.html" title="&lt;TABLE&gt;" alt="" coords="223,203,302,251"/>
+<area shape="rect" id="node6_6" href="./NegativeBinomial.html" title="jsl.utilities.random.distributions.NegativeBinomial" alt="" coords="337,215,449,239"/>
+<area shape="rect" id="node6" href="./NegativeBinomial.html" title="&lt;TABLE&gt;" alt="" coords="327,203,460,251"/>
+<area shape="rect" id="node7_7" href="./MTP.html" title="jsl.utilities.random.distributions.MTP" alt="" coords="499,215,541,239"/>
+<area shape="rect" id="node7" href="./MTP.html" title="&lt;TABLE&gt;" alt="" coords="484,203,556,251"/>
+<area shape="rect" id="node9_8" href="./Lognormal.html" title="jsl.utilities.random.distributions.Lognormal" alt="" coords="591,215,665,239"/>
+<area shape="rect" id="node9" href="./Lognormal.html" title="&lt;TABLE&gt;" alt="" coords="580,203,676,251"/>
+<area shape="rect" id="node10_9" href="./Geometric.html" title="jsl.utilities.random.distributions.Geometric" alt="" coords="711,215,785,239"/>
+<area shape="rect" id="node10" href="./Geometric.html" title="&lt;TABLE&gt;" alt="" coords="701,203,795,251"/>
+<area shape="rect" id="node11_10" href="./Gamma.html" title="jsl.utilities.random.distributions.Gamma" alt="" coords="831,215,892,239"/>
+<area shape="rect" id="node11" href="./Gamma.html" title="&lt;TABLE&gt;" alt="" coords="820,203,903,251"/>
+<area shape="rect" id="node14_11" href="./Binomial.html" title="jsl.utilities.random.distributions.Binomial" alt="" coords="937,215,1001,239"/>
+<area shape="rect" id="node14" href="./Binomial.html" title="&lt;TABLE&gt;" alt="" coords="927,203,1012,251"/>
+<area shape="rect" id="node12_12" href="./FirstOrderLossFunctionIfc.html" title="jsl.utilities.random.distributions.FirstOrderLossFunctionIfc" alt="" coords="419,11,575,50"/>
+<area shape="rect" id="node12" href="./FirstOrderLossFunctionIfc.html" title="&lt;TABLE&gt;" alt="" coords="409,6,586,55"/>
+<area shape="rect" id="node13_13" href="./DistributionFunctionIfc.html" title="jsl.utilities.random.distributions.DistributionFunctionIfc" alt="" coords="621,11,758,50"/>
+<area shape="rect" id="node13" href="./DistributionFunctionIfc.html" title="&lt;TABLE&gt;" alt="" coords="610,6,769,55"/>
+</map>

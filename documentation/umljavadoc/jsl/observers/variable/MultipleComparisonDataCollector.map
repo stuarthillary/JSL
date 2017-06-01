@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../../modeling/ModelElement.html" title="jsl.modeling.ModelElement" alt="" coords="15,203,110,239"/>
+<area shape="rect" id="node1" href="../../modeling/ModelElement.html" title="&lt;TABLE&gt;" alt="" coords="5,197,121,245"/>
+<area shape="rect" id="node2_1" href="../../modeling/elements/variable/ResponseVariable.html" title="jsl.modeling.elements.variable.ResponseVariable" alt="" coords="156,203,297,239"/>
+<area shape="rect" id="node2" href="../../modeling/elements/variable/ResponseVariable.html" title="&lt;TABLE&gt;" alt="" coords="145,197,308,245"/>
+<area shape="rect" id="node3_2" href="../ModelElementObserver.html" title="jsl.observers.ModelElementObserver" alt="" coords="72,11,216,47"/>
+<area shape="rect" id="node3" href="../ModelElementObserver.html" title="&lt;TABLE&gt;" alt="" coords="61,5,227,53"/>
+<area shape="rect" id="node4_3" href="./MultipleComparisonDataCollector.html" title="jsl.observers.variable.MultipleComparisonDataCollector" alt="" coords="123,113,320,137"/>
+<area shape="rect" id="node4" href="./MultipleComparisonDataCollector.html" title="&lt;TABLE&gt;" alt="" coords="112,101,331,149"/>
+<area shape="rect" id="node5_4" href="../../utilities/statistic/MultipleComparisonAnalyzer.html" title="jsl.utilities.statistic.MultipleComparisonAnalyzer" alt="" coords="343,203,513,239"/>
+<area shape="rect" id="node5" href="../../utilities/statistic/MultipleComparisonAnalyzer.html" title="&lt;TABLE&gt;" alt="" coords="332,197,524,245"/>
+</map>

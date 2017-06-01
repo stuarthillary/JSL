@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./PearsonType6.html" title="jsl.utilities.random.distributions.PearsonType6" alt="" coords="144,116,240,140"/>
+<area shape="rect" id="node1" href="./PearsonType6.html" title="&lt;TABLE&gt;" alt="" coords="133,104,251,152"/>
+<area shape="rect" id="node4_1" href="./Beta.html" title="jsl.utilities.random.distributions.Beta" alt="" coords="164,212,207,236"/>
+<area shape="rect" id="node4" href="./Beta.html" title="&lt;TABLE&gt;" alt="" coords="149,200,221,248"/>
+<area shape="rect" id="node5_2" href="../rng/RngIfc.html" title="jsl.utilities.random.rng.RngIfc" alt="" coords="16,301,123,352"/>
+<area shape="rect" id="node5" href="../rng/RngIfc.html" title="&lt;TABLE&gt;" alt="" coords="5,296,133,357"/>
+<area shape="rect" id="node2_3" href="./Distribution.html" title="jsl.utilities.random.distributions.Distribution" alt="" coords="17,19,95,43"/>
+<area shape="rect" id="node2" href="./Distribution.html" title="&lt;TABLE&gt;" alt="" coords="6,7,106,55"/>
+<area shape="rect" id="node3_4" href="./ContinuousDistributionIfc.html" title="jsl.utilities.random.distributions.ContinuousDistributionIfc" alt="" coords="188,11,340,50"/>
+<area shape="rect" id="node3" href="./ContinuousDistributionIfc.html" title="&lt;TABLE&gt;" alt="" coords="177,6,351,55"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./MobileResource.html" title="jsl.modeling.elements.spatial.MobileResource" alt="" coords="53,17,158,41"/>
+<area shape="rect" id="node1" href="./MobileResource.html" title="&lt;TABLE&gt;" alt="" coords="42,5,169,53"/>
+<area shape="rect" id="node2_1" href="./MobileResource.TransportCompletedListener.html" title="jsl.modeling.elements.spatial.MobileResource.TransportCompletedListener" alt="" coords="166,113,335,137"/>
+<area shape="rect" id="node2" href="./MobileResource.TransportCompletedListener.html" title="&lt;TABLE&gt;" alt="" coords="155,101,346,149"/>
+<area shape="rect" id="node3_2" href="./transporter/Transporter.html" title="jsl.modeling.elements.spatial.transporter.Transporter" alt="" coords="16,203,200,239"/>
+<area shape="rect" id="node3" href="./transporter/Transporter.html" title="&lt;TABLE&gt;" alt="" coords="5,197,211,245"/>
+<area shape="rect" id="node4_3" href="./transporter/TransportCompletionIfc.html" title="jsl.modeling.elements.spatial.transporter.TransportCompletionIfc" alt="" coords="87,299,271,349"/>
+<area shape="rect" id="node4" href="./transporter/TransportCompletionIfc.html" title="&lt;TABLE&gt;" alt="" coords="76,293,281,355"/>
+</map>

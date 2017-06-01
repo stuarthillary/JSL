@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./TwoWayByChanceEntitySender.Sender.html" title="jsl.modeling.elements.resource.TwoWayByChanceEntitySender.Sender" alt="" coords="15,260,73,284"/>
+<area shape="rect" id="node1" href="./TwoWayByChanceEntitySender.Sender.html" title="&lt;TABLE&gt;" alt="" coords="5,248,83,296"/>
+<area shape="rect" id="node2_1" href="./NWayByChanceEntitySender.Sender.html" title="jsl.modeling.elements.resource.NWayByChanceEntitySender.Sender" alt="" coords="118,260,175,284"/>
+<area shape="rect" id="node2" href="./NWayByChanceEntitySender.Sender.html" title="&lt;TABLE&gt;" alt="" coords="107,248,186,296"/>
+<area shape="rect" id="node3_2" href="./EntitySenderIfc.html" title="jsl.modeling.elements.resource.EntitySenderIfc" alt="" coords="45,155,145,194"/>
+<area shape="rect" id="node3" href="./EntitySenderIfc.html" title="&lt;TABLE&gt;" alt="" coords="34,150,155,199"/>
+<area shape="rect" id="node4_3" href="./EntityReceiver.html" title="jsl.modeling.elements.resource.EntityReceiver" alt="" coords="47,65,143,89"/>
+<area shape="rect" id="node4" href="./EntityReceiver.html" title="&lt;TABLE&gt;" alt="" coords="36,53,153,101"/>
+</map>

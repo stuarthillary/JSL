@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./Statistic.html" title="jsl.utilities.statistic.Statistic" alt="" coords="66,305,126,329"/>
+<area shape="rect" id="node1" href="./Statistic.html" title="&lt;TABLE&gt;" alt="" coords="55,293,137,341"/>
+<area shape="rect" id="node2_1" href="./Histogram.html" title="jsl.utilities.statistic.Histogram" alt="" coords="59,209,133,233"/>
+<area shape="rect" id="node2" href="./Histogram.html" title="&lt;TABLE&gt;" alt="" coords="49,197,143,245"/>
+<area shape="rect" id="node3_2" href="./CachedHistogram.html" title="jsl.utilities.statistic.CachedHistogram" alt="" coords="116,113,231,137"/>
+<area shape="rect" id="node3" href="./CachedHistogram.html" title="&lt;TABLE&gt;" alt="" coords="105,101,241,149"/>
+<area shape="rect" id="node4_3" href="./AbstractStatistic.html" title="jsl.utilities.statistic.AbstractStatistic" alt="" coords="16,17,120,41"/>
+<area shape="rect" id="node4" href="./AbstractStatistic.html" title="&lt;TABLE&gt;" alt="" coords="5,5,131,53"/>
+</map>

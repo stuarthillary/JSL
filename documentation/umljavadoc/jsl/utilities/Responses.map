@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../modeling/elements/variable/WithinReplicationStatisticIfc.html" title="jsl.modeling.elements.variable.WithinReplicationStatisticIfc" alt="" coords="16,157,181,208"/>
+<area shape="rect" id="node1" href="../modeling/elements/variable/WithinReplicationStatisticIfc.html" title="&lt;TABLE&gt;" alt="" coords="5,152,192,213"/>
+<area shape="rect" id="node2_1" href="../modeling/elements/variable/BatchStatisticsIfc.html" title="jsl.modeling.elements.variable.BatchStatisticsIfc" alt="" coords="227,157,368,208"/>
+<area shape="rect" id="node2" href="../modeling/elements/variable/BatchStatisticsIfc.html" title="&lt;TABLE&gt;" alt="" coords="216,152,379,213"/>
+<area shape="rect" id="node6_2" href="./statistic/StatisticAccessorIfc.html" title="jsl.utilities.statistic.StatisticAccessorIfc" alt="" coords="591,267,713,317"/>
+<area shape="rect" id="node6" href="./statistic/StatisticAccessorIfc.html" title="&lt;TABLE&gt;" alt="" coords="580,261,724,323"/>
+<area shape="rect" id="node3_3" href="../modeling/elements/variable/AcrossReplicationStatisticIfc.html" title="jsl.modeling.elements.variable.AcrossReplicationStatisticIfc" alt="" coords="413,157,581,208"/>
+<area shape="rect" id="node3" href="../modeling/elements/variable/AcrossReplicationStatisticIfc.html" title="&lt;TABLE&gt;" alt="" coords="403,152,592,213"/>
+<area shape="rect" id="node4_4" href="./Responses.html" title="jsl.utilities.Responses" alt="" coords="458,68,537,92"/>
+<area shape="rect" id="node4" href="./Responses.html" title="&lt;TABLE&gt;" alt="" coords="447,56,547,104"/>
+<area shape="rect" id="node5_5" href="./ResponseMakerIfc.html" title="jsl.utilities.ResponseMakerIfc" alt="" coords="627,163,746,202"/>
+<area shape="rect" id="node5" href="./ResponseMakerIfc.html" title="&lt;TABLE&gt;" alt="" coords="617,158,757,207"/>
+</map>

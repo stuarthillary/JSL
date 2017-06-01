@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../../modeling/ModelElement.html" title="jsl.modeling.ModelElement" alt="" coords="15,203,110,239"/>
+<area shape="rect" id="node1" href="../../modeling/ModelElement.html" title="&lt;TABLE&gt;" alt="" coords="5,197,121,245"/>
+<area shape="rect" id="node2_1" href="../../modeling/elements/variable/ResponseVariable.html" title="jsl.modeling.elements.variable.ResponseVariable" alt="" coords="156,203,297,239"/>
+<area shape="rect" id="node2" href="../../modeling/elements/variable/ResponseVariable.html" title="&lt;TABLE&gt;" alt="" coords="145,197,308,245"/>
+<area shape="rect" id="node3_2" href="../ModelElementObserver.html" title="jsl.observers.ModelElementObserver" alt="" coords="45,11,189,47"/>
+<area shape="rect" id="node3" href="../ModelElementObserver.html" title="&lt;TABLE&gt;" alt="" coords="35,5,200,53"/>
+<area shape="rect" id="node4_3" href="./WelchDataCollector.html" title="jsl.observers.variable.WelchDataCollector" alt="" coords="111,113,235,137"/>
+<area shape="rect" id="node4" href="./WelchDataCollector.html" title="&lt;TABLE&gt;" alt="" coords="101,101,246,149"/>
+</map>

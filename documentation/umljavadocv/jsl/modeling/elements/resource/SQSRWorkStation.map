@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../queue/Queue.html" title="jsl.modeling.elements.queue.Queue" alt="" coords="15,251,150,287"/>
+<area shape="rect" id="node1" href="../queue/Queue.html" title="&lt;TABLE&gt;" alt="" coords="5,245,161,293"/>
+<area shape="rect" id="node2_1" href="./SQSRWorkStation.html" title="jsl.modeling.elements.resource.SQSRWorkStation" alt="" coords="341,161,459,185"/>
+<area shape="rect" id="node2" href="./SQSRWorkStation.html" title="&lt;TABLE&gt;" alt="" coords="331,149,469,197"/>
+<area shape="rect" id="node3_2" href="./SQSRWorkStation.AllocationListener.html" title="jsl.modeling.elements.resource.SQSRWorkStation.AllocationListener" alt="" coords="196,257,308,281"/>
+<area shape="rect" id="node3" href="./SQSRWorkStation.AllocationListener.html" title="&lt;TABLE&gt;" alt="" coords="185,245,319,293"/>
+<area shape="rect" id="node4_3" href="./Resource.html" title="jsl.modeling.elements.resource.Resource" alt="" coords="353,257,423,281"/>
+<area shape="rect" id="node4" href="./Resource.html" title="&lt;TABLE&gt;" alt="" coords="343,245,433,293"/>
+<area shape="rect" id="node6_4" href="./Delay.html" title="jsl.modeling.elements.resource.Delay" alt="" coords="519,257,569,281"/>
+<area shape="rect" id="node6" href="./Delay.html" title="&lt;TABLE&gt;" alt="" coords="508,245,580,293"/>
+<area shape="rect" id="node7_5" href="../../../utilities/random/RandomIfc.html" title="jsl.utilities.random.RandomIfc" alt="" coords="461,347,552,397"/>
+<area shape="rect" id="node7" href="../../../utilities/random/RandomIfc.html" title="&lt;TABLE&gt;" alt="" coords="451,341,563,403"/>
+<area shape="rect" id="node5_6" href="./EntityReceiver.html" title="jsl.modeling.elements.resource.EntityReceiver" alt="" coords="405,65,501,89"/>
+<area shape="rect" id="node5" href="./EntityReceiver.html" title="&lt;TABLE&gt;" alt="" coords="395,53,512,101"/>
+</map>

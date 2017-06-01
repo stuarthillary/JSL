@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./VariableIfc.html" title="jsl.modeling.elements.variable.VariableIfc" alt="" coords="308,121,385,159"/>
+<area shape="rect" id="node1" href="./VariableIfc.html" title="&lt;TABLE&gt;" alt="" coords="297,115,396,165"/>
+<area shape="rect" id="node2_1" href="./Variable.html" title="jsl.modeling.elements.variable.Variable" alt="" coords="316,225,377,249"/>
+<area shape="rect" id="node2" href="./Variable.html" title="&lt;TABLE&gt;" alt="" coords="305,213,388,261"/>
+<area shape="rect" id="node3_2" href="./TimeWeightedIfc.html" title="jsl.modeling.elements.variable.TimeWeightedIfc" alt="" coords="16,17,123,55"/>
+<area shape="rect" id="node3" href="./TimeWeightedIfc.html" title="&lt;TABLE&gt;" alt="" coords="5,11,133,61"/>
+<area shape="rect" id="node4_3" href="./SetValueIfc.html" title="jsl.modeling.elements.variable.SetValueIfc" alt="" coords="169,17,247,55"/>
+<area shape="rect" id="node4" href="./SetValueIfc.html" title="&lt;TABLE&gt;" alt="" coords="158,11,258,61"/>
+<area shape="rect" id="node5_4" href="./PreviousValueIfc.html" title="jsl.modeling.elements.variable.PreviousValueIfc" alt="" coords="293,17,400,55"/>
+<area shape="rect" id="node5" href="./PreviousValueIfc.html" title="&lt;TABLE&gt;" alt="" coords="283,11,411,61"/>
+<area shape="rect" id="node6_5" href="./InitialValueIfc.html" title="jsl.modeling.elements.variable.InitialValueIfc" alt="" coords="445,17,533,55"/>
+<area shape="rect" id="node6" href="./InitialValueIfc.html" title="&lt;TABLE&gt;" alt="" coords="435,11,544,61"/>
+<area shape="rect" id="node7_6" href="../../../utilities/GetValueIfc.html" title="jsl.utilities.GetValueIfc" alt="" coords="579,11,659,61"/>
+<area shape="rect" id="node7" href="../../../utilities/GetValueIfc.html" title="&lt;TABLE&gt;" alt="" coords="568,5,669,67"/>
+</map>

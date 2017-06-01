@@ -1,0 +1,142 @@
+<project name="JSLDocs" default="help" basedir=".">
+    <description>
+        A build file for generating JSL javadocs
+    </description>
+    
+    <!-- set global properties for this build -->
+	<property name="src" location="nbprojects/JSLCore/src"/>
+	<property name="build" location="nbprojects/JSLCore/build"/>
+	<property name="dist"  location="nbprojects/JSLCore/dist"/>
+	<property name="docs"  location="documentation"/>
+	<property name="umlgraphjar"  location="/Users/rossetti/Desktop/Desktop/Development/UMLDoc/UMLGraph-5.4/lib/UMLGraph.jar"/>
+	<property name="ydocjar"  location="/Users/rossetti/Desktop/Desktop/Development/UMLDoc/yworks-uml-doclet-3.0_01-jdk1.5/lib/ydoc.jar"/>
+	<property name="ydocresources"  location="/Users/rossetti/Desktop/Desktop/Development/UMLDoc/yworks-uml-doclet-3.0_01-jdk1.5/resources"/>
+	<property name="ydocdoc"  location="/Users/rossetti/Desktop/Desktop/Development/UMLDoc/yworks-uml-doclet-3.0_01-jdk1.5/doc"/>
+	<property name="app.name" value="JSL"/>
+	<property name="year" value="2012"/>
+	<tstamp><format property='build.time' pattern='yyyy-MM-dd HH:mm:ss'/></tstamp>
+
+	<echo>
+		Application			: ${app.name} 
+		Build File 			: ${ant.file} 
+		Run Date   			: ${build.time}
+		Run by     			: ${user.name}
+		Build Dir  			: ${build}
+		Base Dir   			: ${basedir}
+		Dist Dir   			: ${dist}
+		Doc Dir    			: ${docs}
+		Source Dir 			: ${src}
+		UMLGraph Lib jar	: ${umlgraphjar}
+		YDoc Lib jar		: ${ydocjar}
+		YDoc resources		: ${ydocresources}
+		YDoc doc			: ${ydocdoc}
+		Year       			: ${year}
+	</echo>
+  
+    <!-- help: list important targets -->
+    <target name="help">
+        <echo>Target help was run</echo>
+        <echo>Useful targets include:</echo>
+        <echo>jsl-javadoc - builds docs using only javadoc</echo>
+        <echo>jsl-umldoc - builds docs using UMLGraphDoc</echo>        
+        <echo>jsl-ydoc - builds docs using yDoc</echo>
+        <echo>jsl-docs - builds all docs using jsl-javadoc, jsl-umldoc, jsl-yDoc</echo>
+    </target>
+
+    <target name="jsl-javadoc" description="generates standard javadocs for JSL">
+        <javadoc
+            source="1.5"
+            author="true"
+            version="true"
+            use ="true"
+            destdir="${docs}/stdjavadoc"
+            windowtitle="${app.name} API"
+            doctitle="${app.name}"
+            bottom="Copyright © ${year} Manuel D. Rossetti. All Rights Reserved."
+            additionalparam="-breakiterator">
+            <packageset dir="${src}" defaultexcludes="yes">
+                <include name="**"/>
+            </packageset>
+        </javadoc>
+    </target>
+
+	<target name="jsl-umldoc" description="generates UMLGraph based javadocs for JSL">
+		<javadoc 
+		    source="1.5"
+            author="true"
+            version="true"
+            use ="true"
+            destdir="${docs}/umljavadoc"
+            windowtitle="${app.name} API"
+            doctitle="${app.name}"
+            private = "true"
+            bottom="Copyright © ${year} Manuel D. Rossetti. All Rights Reserved."
+            additionalparam="-breakiterator">
+            <packageset dir="${src}" defaultexcludes="yes">
+                <include name="**"/>
+            </packageset>
+			<doclet name="org.umlgraph.doclet.UmlGraphDoc" path="${umlgraphjar}">
+				<param name="-inferrel"/>
+				<param name="-inferdep"/>
+				<param name="-hide" value="java.*"/>
+				<param name="-collpackages" value="java.util.*"/>
+				<param name="-qualify"/>
+				<param name="-postfixpackage"/>
+				<param name="-nodefontsize" value="9"/>
+				<param name="-nodefontpackagesize" value="7"/>
+				<param name="-link" value="http://java.sun.com/j2se/1.5.0/docs/guide/javadoc/doclet/spec"/>
+				<param name="-link" value="http://java.sun.com/j2se/1.5/docs/api"/>
+			</doclet>
+		</javadoc>
+		<apply executable="dot" dest="${docs}/umljavadoc" parallel="false">
+			<arg value="-Tpng"/>
+			<arg value="-o"/>
+		<targetfile/>
+			<srcfile/>
+			<fileset dir="${docs}/umljavadoc" includes="*.dot"/>
+			<mapper type="glob" from="*.dot" to="*.png"/>
+		</apply>
+	</target>
+
+    <target name="jsl-ydoc" description="generates YDoc based javadocs for JSL">
+        <property name="ps" value="${path.separator}"/>
+		<javadoc 
+		    source="1.5"
+            author="true"
+            version="true"
+            use ="true"
+            destdir="${docs}/ydocjavadoc"
+            windowtitle="${app.name} API"
+            doctitle="${app.name}"
+            private = "true"
+            bottom="Copyright © ${year} Manuel D. Rossetti. All Rights Reserved."
+            additionalparam="-breakiterator">
+            <packageset dir="${src}" defaultexcludes="yes">
+                <include name="**"/>
+            </packageset>
+            <doclet
+                name="ydoc.doclets.YStandard"
+                path="${ydocjar}${ps}${ydocresources}${ps}${ydocdoc}">
+                <param name="-author"/>
+                <param name="-generic"/>
+                <param name="-umlautogen"/>
+                <param name="-filterpath" value="${ydocjar}"/>
+                <param name="-filter"     value="ydoc.filters.ExcludeFilter"/>
+                <param name="-tag" value="y.precondition"/>
+                <param name="-tag" value="y.postcondition"/>
+                <param name="-tag" value="y.complexity"/>
+                <param name="-tag" value="param"/>
+                <param name="-tag" value="return"/>
+                <param name="-tag" value="see"/>
+                <param name="-tag" value="y.uml"/>
+            </doclet>
+        </javadoc>
+    </target>
+    
+    <target 
+    	name="jsl-docs" 
+    	depends = "jsl-javadoc,jsl-umldoc,jsl-ydoc"
+    	description="generates all javadocs for JSL">
+     
+	</target>
+</project>

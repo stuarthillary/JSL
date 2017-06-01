@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../RandomIfc.html" title="jsl.utilities.random.RandomIfc" alt="" coords="161,11,252,61"/>
+<area shape="rect" id="node1" href="../RandomIfc.html" title="&lt;TABLE&gt;" alt="" coords="151,5,263,67"/>
+<area shape="rect" id="node2_1" href="../AbstractRandom.html" title="jsl.utilities.random.AbstractRandom" alt="" coords="16,121,123,157"/>
+<area shape="rect" id="node2" href="../AbstractRandom.html" title="&lt;TABLE&gt;" alt="" coords="5,115,133,163"/>
+<area shape="rect" id="node3_2" href="../rng/RngIfc.html" title="jsl.utilities.random.rng.RngIfc" alt="" coords="292,312,399,363"/>
+<area shape="rect" id="node3" href="../rng/RngIfc.html" title="&lt;TABLE&gt;" alt="" coords="281,307,409,368"/>
+<area shape="rect" id="node4_3" href="./BatchOnOffProcess.html" title="jsl.utilities.random.sp.BatchOnOffProcess" alt="" coords="145,223,269,247"/>
+<area shape="rect" id="node4" href="./BatchOnOffProcess.html" title="&lt;TABLE&gt;" alt="" coords="134,211,279,259"/>
+<area shape="rect" id="node5_4" href="./BatchOnOffProcess.State.html" title="jsl.utilities.random.sp.BatchOnOffProcess.State" alt="" coords="148,318,247,357"/>
+<area shape="rect" id="node5" href="./BatchOnOffProcess.State.html" title="&lt;TABLE&gt;" alt="" coords="137,313,257,362"/>
+</map>

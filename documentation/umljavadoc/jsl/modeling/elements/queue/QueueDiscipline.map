@@ -1,0 +1,20 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../../ModelElement.html" title="jsl.modeling.ModelElement" alt="" coords="437,107,531,143"/>
+<area shape="rect" id="node1" href="../../ModelElement.html" title="&lt;TABLE&gt;" alt="" coords="426,101,542,149"/>
+<area shape="rect" id="node2_1" href="./RankedQDiscipline.html" title="jsl.modeling.elements.queue.RankedQDiscipline" alt="" coords="443,401,563,425"/>
+<area shape="rect" id="node2" href="./RankedQDiscipline.html" title="&lt;TABLE&gt;" alt="" coords="432,389,573,437"/>
+<area shape="rect" id="node3_2" href="./RandomDiscipline.html" title="jsl.modeling.elements.queue.RandomDiscipline" alt="" coords="608,401,723,425"/>
+<area shape="rect" id="node3" href="./RandomDiscipline.html" title="&lt;TABLE&gt;" alt="" coords="597,389,733,437"/>
+<area shape="rect" id="node4_3" href="./QueueDiscipline.html" title="jsl.modeling.elements.queue.QueueDiscipline" alt="" coords="250,305,355,329"/>
+<area shape="rect" id="node4" href="./QueueDiscipline.html" title="&lt;TABLE&gt;" alt="" coords="239,293,366,341"/>
+<area shape="rect" id="node5_4" href="./Queue.html" title="jsl.modeling.elements.queue.Queue" alt="" coords="275,209,330,233"/>
+<area shape="rect" id="node5" href="./Queue.html" title="&lt;TABLE&gt;" alt="" coords="265,197,341,245"/>
+<area shape="rect" id="node6_5" href="./LIFODiscipline.html" title="jsl.modeling.elements.queue.LIFODiscipline" alt="" coords="157,401,253,425"/>
+<area shape="rect" id="node6" href="./LIFODiscipline.html" title="&lt;TABLE&gt;" alt="" coords="147,389,264,437"/>
+<area shape="rect" id="node7_6" href="./FIFODiscipline.html" title="jsl.modeling.elements.queue.FIFODiscipline" alt="" coords="299,401,397,425"/>
+<area shape="rect" id="node7" href="./FIFODiscipline.html" title="&lt;TABLE&gt;" alt="" coords="289,389,407,437"/>
+<area shape="rect" id="node8_7" href="../resource/ResourceProvider.html" title="jsl.modeling.elements.resource.ResourceProvider" alt="" coords="15,107,161,143"/>
+<area shape="rect" id="node8" href="../resource/ResourceProvider.html" title="&lt;TABLE&gt;" alt="" coords="5,101,171,149"/>
+<area shape="rect" id="node9_8" href="../spatial/transporter/TransporterProvider.html" title="jsl.modeling.elements.spatial.transporter.TransporterProvider" alt="" coords="207,107,391,143"/>
+<area shape="rect" id="node9" href="../spatial/transporter/TransporterProvider.html" title="&lt;TABLE&gt;" alt="" coords="196,101,401,149"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../queue/Queue.html" title="jsl.modeling.elements.queue.Queue" alt="" coords="49,11,183,47"/>
+<area shape="rect" id="node1" href="../queue/Queue.html" title="&lt;TABLE&gt;" alt="" coords="38,5,194,53"/>
+<area shape="rect" id="node2_1" href="./AveragePerTimeWeightedVariable.html" title="jsl.modeling.elements.variable.AveragePerTimeWeightedVariable" alt="" coords="16,209,216,233"/>
+<area shape="rect" id="node2" href="./AveragePerTimeWeightedVariable.html" title="&lt;TABLE&gt;" alt="" coords="5,197,227,245"/>
+<area shape="rect" id="node3_2" href="./AggregateTimeWeightedVariable.html" title="jsl.modeling.elements.variable.AggregateTimeWeightedVariable" alt="" coords="92,113,284,137"/>
+<area shape="rect" id="node3" href="./AggregateTimeWeightedVariable.html" title="&lt;TABLE&gt;" alt="" coords="81,101,295,149"/>
+</map>

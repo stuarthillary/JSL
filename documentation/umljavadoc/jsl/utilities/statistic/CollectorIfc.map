@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../IdentityIfc.html" title="jsl.utilities.IdentityIfc" alt="" coords="17,11,95,61"/>
+<area shape="rect" id="node1" href="../IdentityIfc.html" title="&lt;TABLE&gt;" alt="" coords="7,5,105,67"/>
+<area shape="rect" id="node3_1" href="./CollectorIfc.html" title="jsl.utilities.statistic.CollectorIfc" alt="" coords="17,121,95,159"/>
+<area shape="rect" id="node3" href="./CollectorIfc.html" title="&lt;TABLE&gt;" alt="" coords="6,115,106,165"/>
+<area shape="rect" id="node2_2" href="../GetValueIfc.html" title="jsl.utilities.GetValueIfc" alt="" coords="16,315,96,365"/>
+<area shape="rect" id="node2" href="../GetValueIfc.html" title="&lt;TABLE&gt;" alt="" coords="5,309,107,371"/>
+<area shape="rect" id="node4_3" href="./AbstractCollector.html" title="jsl.utilities.statistic.AbstractCollector" alt="" coords="53,225,163,249"/>
+<area shape="rect" id="node4" href="./AbstractCollector.html" title="&lt;TABLE&gt;" alt="" coords="43,213,173,261"/>
+</map>

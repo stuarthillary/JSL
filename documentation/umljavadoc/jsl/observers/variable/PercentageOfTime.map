@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../../modeling/ModelElement.html" title="jsl.modeling.ModelElement" alt="" coords="15,203,110,239"/>
+<area shape="rect" id="node1" href="../../modeling/ModelElement.html" title="&lt;TABLE&gt;" alt="" coords="5,197,121,245"/>
+<area shape="rect" id="node2_1" href="../../modeling/elements/variable/TimeWeighted.html" title="jsl.modeling.elements.variable.TimeWeighted" alt="" coords="156,203,297,239"/>
+<area shape="rect" id="node2" href="../../modeling/elements/variable/TimeWeighted.html" title="&lt;TABLE&gt;" alt="" coords="145,197,308,245"/>
+<area shape="rect" id="node3_2" href="../ModelElementObserver.html" title="jsl.observers.ModelElementObserver" alt="" coords="176,11,320,47"/>
+<area shape="rect" id="node3" href="../ModelElementObserver.html" title="&lt;TABLE&gt;" alt="" coords="165,5,331,53"/>
+<area shape="rect" id="node4_3" href="./PercentageOfTime.html" title="jsl.observers.variable.PercentageOfTime" alt="" coords="257,113,375,137"/>
+<area shape="rect" id="node4" href="./PercentageOfTime.html" title="&lt;TABLE&gt;" alt="" coords="246,101,386,149"/>
+<area shape="rect" id="node5_4" href="../../utilities/statistic/WeightedProportion.html" title="jsl.utilities.statistic.WeightedProportion" alt="" coords="343,203,467,239"/>
+<area shape="rect" id="node5" href="../../utilities/statistic/WeightedProportion.html" title="&lt;TABLE&gt;" alt="" coords="333,197,478,245"/>
+<area shape="rect" id="node6_5" href="../../utilities/statistic/Statistic.html" title="jsl.utilities.statistic.Statistic" alt="" coords="415,299,505,335"/>
+<area shape="rect" id="node6" href="../../utilities/statistic/Statistic.html" title="&lt;TABLE&gt;" alt="" coords="404,293,516,341"/>
+</map>

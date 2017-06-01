@@ -1,0 +1,24 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../../modeling/elements/queue/Queue.html" title="jsl.modeling.elements.queue.Queue" alt="" coords="249,107,383,143"/>
+<area shape="rect" id="node1" href="../../modeling/elements/queue/Queue.html" title="&lt;TABLE&gt;" alt="" coords="238,101,394,149"/>
+<area shape="rect" id="node5_1" href="../../modeling/elements/variable/ResponseVariableAverageObserver.html" title="jsl.modeling.elements.variable.ResponseVariableAverageObserver" alt="" coords="211,203,421,239"/>
+<area shape="rect" id="node5" href="../../modeling/elements/variable/ResponseVariableAverageObserver.html" title="&lt;TABLE&gt;" alt="" coords="201,197,431,245"/>
+<area shape="rect" id="node6_2" href="../../modeling/elements/variable/ResponseVariable.html" title="jsl.modeling.elements.variable.ResponseVariable" alt="" coords="16,306,157,342"/>
+<area shape="rect" id="node6" href="../../modeling/elements/variable/ResponseVariable.html" title="&lt;TABLE&gt;" alt="" coords="5,300,168,348"/>
+<area shape="rect" id="node7_3" href="../../modeling/elements/variable/AggregateTimeWeightedVariable.html" title="jsl.modeling.elements.variable.AggregateTimeWeightedVariable" alt="" coords="484,203,676,239"/>
+<area shape="rect" id="node7" href="../../modeling/elements/variable/AggregateTimeWeightedVariable.html" title="&lt;TABLE&gt;" alt="" coords="473,197,687,245"/>
+<area shape="rect" id="node9_4" href="./WeightedStatisticIfc.html" title="jsl.utilities.statistic.WeightedStatisticIfc" alt="" coords="587,409,709,447"/>
+<area shape="rect" id="node9" href="./WeightedStatisticIfc.html" title="&lt;TABLE&gt;" alt="" coords="576,403,720,453"/>
+<area shape="rect" id="node2_5" href="../../modeling/elements/station/SingleQueueStation.html" title="jsl.modeling.elements.station.SingleQueueStation" alt="" coords="525,11,661,47"/>
+<area shape="rect" id="node2" href="../../modeling/elements/station/SingleQueueStation.html" title="&lt;TABLE&gt;" alt="" coords="515,5,672,53"/>
+<area shape="rect" id="node3_6" href="../../modeling/elements/station/DelayStation.html" title="jsl.modeling.elements.station.DelayStation" alt="" coords="203,306,339,342"/>
+<area shape="rect" id="node3" href="../../modeling/elements/station/DelayStation.html" title="&lt;TABLE&gt;" alt="" coords="192,300,349,348"/>
+<area shape="rect" id="node4_7" href="../../modeling/elements/variable/WithinReplicationStatisticIfc.html" title="jsl.modeling.elements.variable.WithinReplicationStatisticIfc" alt="" coords="384,299,549,349"/>
+<area shape="rect" id="node4" href="../../modeling/elements/variable/WithinReplicationStatisticIfc.html" title="&lt;TABLE&gt;" alt="" coords="373,293,560,355"/>
+<area shape="rect" id="node10_8" href="./WeightedStatistic.html" title="jsl.utilities.statistic.WeightedStatistic" alt="" coords="593,513,703,537"/>
+<area shape="rect" id="node10" href="./WeightedStatistic.html" title="&lt;TABLE&gt;" alt="" coords="582,501,714,549"/>
+<area shape="rect" id="node8_9" href="../IdentityIfc.html" title="jsl.utilities.IdentityIfc" alt="" coords="696,299,773,349"/>
+<area shape="rect" id="node8" href="../IdentityIfc.html" title="&lt;TABLE&gt;" alt="" coords="685,293,784,355"/>
+<area shape="rect" id="node11_10" href="./GetCSVStatisticIfc.html" title="jsl.utilities.statistic.GetCSVStatisticIfc" alt="" coords="920,305,1037,343"/>
+<area shape="rect" id="node11" href="./GetCSVStatisticIfc.html" title="&lt;TABLE&gt;" alt="" coords="909,299,1048,349"/>
+</map>

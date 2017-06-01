@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./ResourcedActivity.html" title="jsl.modeling.elements.resource.ResourcedActivity" alt="" coords="185,113,300,137"/>
+<area shape="rect" id="node1" href="./ResourcedActivity.html" title="&lt;TABLE&gt;" alt="" coords="175,101,311,149"/>
+<area shape="rect" id="node2_1" href="./EntityReceiver.html" title="jsl.modeling.elements.resource.EntityReceiver" alt="" coords="44,113,140,137"/>
+<area shape="rect" id="node2" href="./EntityReceiver.html" title="&lt;TABLE&gt;" alt="" coords="33,101,151,149"/>
+<area shape="rect" id="node3_2" href="./CompositeEntityReceiver.html" title="jsl.modeling.elements.resource.CompositeEntityReceiver" alt="" coords="15,17,169,41"/>
+<area shape="rect" id="node3" href="./CompositeEntityReceiver.html" title="&lt;TABLE&gt;" alt="" coords="5,5,179,53"/>
+<area shape="rect" id="node4_3" href="./CompositeEntityReceiver.Exit.html" title="jsl.modeling.elements.resource.CompositeEntityReceiver.Exit" alt="" coords="201,209,239,233"/>
+<area shape="rect" id="node4" href="./CompositeEntityReceiver.Exit.html" title="&lt;TABLE&gt;" alt="" coords="184,197,256,245"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./TextReport.html" title="jsl.utilities.reporting.TextReport" alt="" coords="15,17,91,41"/>
+<area shape="rect" id="node1" href="./TextReport.html" title="&lt;TABLE&gt;" alt="" coords="5,5,102,53"/>
+<area shape="rect" id="node2_1" href="./TextIO.html" title="jsl.utilities.reporting.TextIO" alt="" coords="137,17,189,41"/>
+<area shape="rect" id="node2" href="./TextIO.html" title="&lt;TABLE&gt;" alt="" coords="126,5,199,53"/>
+<area shape="rect" id="node3_2" href="./LogPrintWriter.html" title="jsl.utilities.reporting.LogPrintWriter" alt="" coords="234,17,329,41"/>
+<area shape="rect" id="node3" href="./LogPrintWriter.html" title="&lt;TABLE&gt;" alt="" coords="223,5,339,53"/>
+<area shape="rect" id="node4_3" href="./LogFormatter.html" title="jsl.utilities.reporting.LogFormatter" alt="" coords="375,17,465,41"/>
+<area shape="rect" id="node4" href="./LogFormatter.html" title="&lt;TABLE&gt;" alt="" coords="364,5,476,53"/>
+<area shape="rect" id="node5_4" href="./JSL.html" title="jsl.utilities.reporting.JSL" alt="" coords="517,17,555,41"/>
+<area shape="rect" id="node5" href="./JSL.html" title="&lt;TABLE&gt;" alt="" coords="500,5,572,53"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../processview/description/commands/Assign.html" title="jsl.modeling.elements.processview.description.commands.Assign" alt="" coords="55,11,311,47"/>
+<area shape="rect" id="node1" href="../processview/description/commands/Assign.html" title="&lt;TABLE&gt;" alt="" coords="44,5,321,53"/>
+<area shape="rect" id="node2_1" href="../processview/description/commands/Assign.Assignment.html" title="jsl.modeling.elements.processview.description.commands.Assign.Assignment" alt="" coords="15,107,302,143"/>
+<area shape="rect" id="node2" href="../processview/description/commands/Assign.Assignment.html" title="&lt;TABLE&gt;" alt="" coords="5,101,313,149"/>
+<area shape="rect" id="node8_2" href="./SetValueIfc.html" title="jsl.modeling.elements.variable.SetValueIfc" alt="" coords="362,203,441,242"/>
+<area shape="rect" id="node8" href="./SetValueIfc.html" title="&lt;TABLE&gt;" alt="" coords="351,198,451,247"/>
+<area shape="rect" id="node3_3" href="../resource/AttributeIfc.html" title="jsl.modeling.elements.resource.AttributeIfc" alt="" coords="250,301,395,352"/>
+<area shape="rect" id="node3" href="../resource/AttributeIfc.html" title="&lt;TABLE&gt;" alt="" coords="239,296,406,357"/>
+<area shape="rect" id="node4_4" href="../resource/Assignments.html" title="jsl.modeling.elements.resource.Assignments" alt="" coords="369,11,514,47"/>
+<area shape="rect" id="node4" href="../resource/Assignments.html" title="&lt;TABLE&gt;" alt="" coords="358,5,525,53"/>
+<area shape="rect" id="node5_5" href="../resource/Assignment.html" title="jsl.modeling.elements.resource.Assignment" alt="" coords="450,107,595,143"/>
+<area shape="rect" id="node5" href="../resource/Assignment.html" title="&lt;TABLE&gt;" alt="" coords="439,101,606,149"/>
+<area shape="rect" id="node6_6" href="../resource/AssignAttributes.html" title="jsl.modeling.elements.resource.AssignAttributes" alt="" coords="565,11,710,47"/>
+<area shape="rect" id="node6" href="../resource/AssignAttributes.html" title="&lt;TABLE&gt;" alt="" coords="554,5,721,53"/>
+<area shape="rect" id="node7_7" href="./VariableIfc.html" title="jsl.modeling.elements.variable.VariableIfc" alt="" coords="441,307,519,346"/>
+<area shape="rect" id="node7" href="./VariableIfc.html" title="&lt;TABLE&gt;" alt="" coords="431,302,529,351"/>
+</map>

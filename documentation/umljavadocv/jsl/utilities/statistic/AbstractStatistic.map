@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./StatisticAccessorIfc.html" title="jsl.utilities.statistic.StatisticAccessorIfc" alt="" coords="118,110,240,149"/>
+<area shape="rect" id="node1" href="./StatisticAccessorIfc.html" title="&lt;TABLE&gt;" alt="" coords="107,105,251,154"/>
+<area shape="rect" id="node9_1" href="./AbstractStatistic.html" title="jsl.utilities.statistic.AbstractStatistic" alt="" coords="236,215,340,239"/>
+<area shape="rect" id="node9" href="./AbstractStatistic.html" title="&lt;TABLE&gt;" alt="" coords="226,203,351,251"/>
+<area shape="rect" id="node2_2" href="./Statistic.html" title="jsl.utilities.statistic.Statistic" alt="" coords="174,503,234,527"/>
+<area shape="rect" id="node2" href="./Statistic.html" title="&lt;TABLE&gt;" alt="" coords="164,491,245,539"/>
+<area shape="rect" id="node3_3" href="./StandardizedTimeSeriesStatistic.html" title="jsl.utilities.statistic.StandardizedTimeSeriesStatistic" alt="" coords="37,407,228,431"/>
+<area shape="rect" id="node3" href="./StandardizedTimeSeriesStatistic.html" title="&lt;TABLE&gt;" alt="" coords="26,395,238,443"/>
+<area shape="rect" id="node4_4" href="./IntegerFrequency.html" title="jsl.utilities.statistic.IntegerFrequency" alt="" coords="180,311,292,335"/>
+<area shape="rect" id="node4" href="./IntegerFrequency.html" title="&lt;TABLE&gt;" alt="" coords="170,299,303,347"/>
+<area shape="rect" id="node5_5" href="./Histogram.html" title="jsl.utilities.statistic.Histogram" alt="" coords="325,407,398,431"/>
+<area shape="rect" id="node5" href="./Histogram.html" title="&lt;TABLE&gt;" alt="" coords="314,395,409,443"/>
+<area shape="rect" id="node6_6" href="./GetCSVStatisticIfc.html" title="jsl.utilities.statistic.GetCSVStatisticIfc" alt="" coords="175,11,292,50"/>
+<area shape="rect" id="node6" href="./GetCSVStatisticIfc.html" title="&lt;TABLE&gt;" alt="" coords="164,6,303,55"/>
+<area shape="rect" id="node7_7" href="./CachedHistogram.html" title="jsl.utilities.statistic.CachedHistogram" alt="" coords="388,311,503,335"/>
+<area shape="rect" id="node7" href="./CachedHistogram.html" title="&lt;TABLE&gt;" alt="" coords="378,299,514,347"/>
+<area shape="rect" id="node8_8" href="./BatchStatistic.html" title="jsl.utilities.statistic.BatchStatistic" alt="" coords="495,407,586,431"/>
+<area shape="rect" id="node8" href="./BatchStatistic.html" title="&lt;TABLE&gt;" alt="" coords="484,395,596,443"/>
+<area shape="rect" id="node10_9" href="./AbstractCollector.html" title="jsl.utilities.statistic.AbstractCollector" alt="" coords="336,117,446,141"/>
+<area shape="rect" id="node10" href="./AbstractCollector.html" title="&lt;TABLE&gt;" alt="" coords="326,105,456,153"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../../modeling/elements/variable/Variable.html" title="jsl.modeling.elements.variable.Variable" alt="" coords="16,18,157,54"/>
+<area shape="rect" id="node1" href="../../modeling/elements/variable/Variable.html" title="&lt;TABLE&gt;" alt="" coords="5,12,168,60"/>
+<area shape="rect" id="node3_1" href="./VariableTraceTextReport.html" title="jsl.observers.variable.VariableTraceTextReport" alt="" coords="168,127,317,151"/>
+<area shape="rect" id="node3" href="./VariableTraceTextReport.html" title="&lt;TABLE&gt;" alt="" coords="157,115,328,163"/>
+<area shape="rect" id="node2_2" href="../ObserverIfc.html" title="jsl.observers.ObserverIfc" alt="" coords="203,11,283,61"/>
+<area shape="rect" id="node2" href="../ObserverIfc.html" title="&lt;TABLE&gt;" alt="" coords="192,5,293,67"/>
+<area shape="rect" id="node4_3" href="../../utilities/reporting/TextReport.html" title="jsl.utilities.reporting.TextReport" alt="" coords="328,18,424,54"/>
+<area shape="rect" id="node4" href="../../utilities/reporting/TextReport.html" title="&lt;TABLE&gt;" alt="" coords="317,12,435,60"/>
+</map>

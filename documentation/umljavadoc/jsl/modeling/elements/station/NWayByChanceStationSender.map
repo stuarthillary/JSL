@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../queue/QObject.html" title="jsl.modeling.elements.queue.QObject" alt="" coords="15,299,150,335"/>
+<area shape="rect" id="node1" href="../queue/QObject.html" title="&lt;TABLE&gt;" alt="" coords="5,293,161,341"/>
+<area shape="rect" id="node2_1" href="./Station.html" title="jsl.modeling.elements.station.Station" alt="" coords="73,17,129,41"/>
+<area shape="rect" id="node2" href="./Station.html" title="&lt;TABLE&gt;" alt="" coords="63,5,140,53"/>
+<area shape="rect" id="node3_2" href="./NWayByChanceStationSender.html" title="jsl.modeling.elements.station.NWayByChanceStationSender" alt="" coords="80,113,261,137"/>
+<area shape="rect" id="node3" href="./NWayByChanceStationSender.html" title="&lt;TABLE&gt;" alt="" coords="69,101,272,149"/>
+<area shape="rect" id="node4_3" href="./NWayByChanceQObjectSender.html" title="jsl.modeling.elements.station.NWayByChanceQObjectSender" alt="" coords="131,209,319,233"/>
+<area shape="rect" id="node4" href="./NWayByChanceQObjectSender.html" title="&lt;TABLE&gt;" alt="" coords="121,197,330,245"/>
+</map>

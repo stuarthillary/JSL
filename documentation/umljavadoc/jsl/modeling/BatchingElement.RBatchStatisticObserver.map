@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./BatchingElement.html" title="jsl.modeling.BatchingElement" alt="" coords="205,17,315,41"/>
+<area shape="rect" id="node1" href="./BatchingElement.html" title="&lt;TABLE&gt;" alt="" coords="195,5,325,53"/>
+<area shape="rect" id="node2_1" href="./BatchingElement.RBatchStatisticObserver.html" title="jsl.modeling.BatchingElement.RBatchStatisticObserver" alt="" coords="63,113,212,137"/>
+<area shape="rect" id="node2" href="./BatchingElement.RBatchStatisticObserver.html" title="&lt;TABLE&gt;" alt="" coords="52,101,223,149"/>
+<area shape="rect" id="node4_2" href="../utilities/statistic/BatchStatistic.html" title="jsl.utilities.statistic.BatchStatistic" alt="" coords="153,203,244,239"/>
+<area shape="rect" id="node4" href="../utilities/statistic/BatchStatistic.html" title="&lt;TABLE&gt;" alt="" coords="143,197,255,245"/>
+<area shape="rect" id="node3_3" href="../observers/ModelElementObserver.html" title="jsl.observers.ModelElementObserver" alt="" coords="16,11,160,47"/>
+<area shape="rect" id="node3" href="../observers/ModelElementObserver.html" title="&lt;TABLE&gt;" alt="" coords="5,5,171,53"/>
+</map>

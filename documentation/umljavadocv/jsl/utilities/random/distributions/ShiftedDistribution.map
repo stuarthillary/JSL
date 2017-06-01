@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./ShiftedLossFunctionDistribution.html" title="jsl.utilities.random.distributions.ShiftedLossFunctionDistribution" alt="" coords="16,212,203,236"/>
+<area shape="rect" id="node1" href="./ShiftedLossFunctionDistribution.html" title="&lt;TABLE&gt;" alt="" coords="5,200,213,248"/>
+<area shape="rect" id="node2_1" href="./ShiftedDistribution.html" title="jsl.utilities.random.distributions.ShiftedDistribution" alt="" coords="289,17,405,41"/>
+<area shape="rect" id="node2" href="./ShiftedDistribution.html" title="&lt;TABLE&gt;" alt="" coords="278,5,415,53"/>
+<area shape="rect" id="node3_2" href="./LossFunctionDistributionIfc.html" title="jsl.utilities.random.distributions.LossFunctionDistributionIfc" alt="" coords="93,107,256,146"/>
+<area shape="rect" id="node3" href="./LossFunctionDistributionIfc.html" title="&lt;TABLE&gt;" alt="" coords="83,102,267,151"/>
+<area shape="rect" id="node4_3" href="./DistributionIfc.html" title="jsl.utilities.random.distributions.DistributionIfc" alt="" coords="301,107,392,146"/>
+<area shape="rect" id="node4" href="./DistributionIfc.html" title="&lt;TABLE&gt;" alt="" coords="291,102,403,151"/>
+<area shape="rect" id="node6_4" href="../rng/RngIfc.html" title="jsl.utilities.random.rng.RngIfc" alt="" coords="365,301,472,352"/>
+<area shape="rect" id="node6" href="../rng/RngIfc.html" title="&lt;TABLE&gt;" alt="" coords="355,296,483,357"/>
+<area shape="rect" id="node5_5" href="./Distribution.html" title="jsl.utilities.random.distributions.Distribution" alt="" coords="379,212,458,236"/>
+<area shape="rect" id="node5" href="./Distribution.html" title="&lt;TABLE&gt;" alt="" coords="369,200,469,248"/>
+</map>

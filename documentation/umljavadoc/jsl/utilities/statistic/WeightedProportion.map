@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../../observers/variable/PercentageOfTime.html" title="jsl.observers.variable.PercentageOfTime" alt="" coords="163,11,282,47"/>
+<area shape="rect" id="node1" href="../../observers/variable/PercentageOfTime.html" title="&lt;TABLE&gt;" alt="" coords="153,5,293,53"/>
+<area shape="rect" id="node4_1" href="./WeightedProportion.html" title="jsl.utilities.statistic.WeightedProportion" alt="" coords="257,113,381,137"/>
+<area shape="rect" id="node4" href="./WeightedProportion.html" title="&lt;TABLE&gt;" alt="" coords="246,101,391,149"/>
+<area shape="rect" id="node6_2" href="./Statistic.html" title="jsl.utilities.statistic.Statistic" alt="" coords="15,209,75,233"/>
+<area shape="rect" id="node6" href="./Statistic.html" title="&lt;TABLE&gt;" alt="" coords="5,197,86,245"/>
+<area shape="rect" id="node2_3" href="../random/distributions/DEmpirical.html" title="jsl.utilities.random.distributions.DEmpirical" alt="" coords="121,203,263,239"/>
+<area shape="rect" id="node2" href="../random/distributions/DEmpirical.html" title="&lt;TABLE&gt;" alt="" coords="110,197,274,245"/>
+<area shape="rect" id="node3_4" href="../rootfinding/Interval.html" title="jsl.utilities.rootfinding.Interval" alt="" coords="406,203,509,239"/>
+<area shape="rect" id="node3" href="../rootfinding/Interval.html" title="&lt;TABLE&gt;" alt="" coords="395,197,519,245"/>
+<area shape="rect" id="node5_5" href="./WeightedProportion.Cell.html" title="jsl.utilities.statistic.WeightedProportion.Cell" alt="" coords="315,209,354,233"/>
+<area shape="rect" id="node5" href="./WeightedProportion.Cell.html" title="&lt;TABLE&gt;" alt="" coords="299,197,371,245"/>
+<area shape="rect" id="node7_6" href="./AbstractStatistic.html" title="jsl.utilities.statistic.AbstractStatistic" alt="" coords="328,17,432,41"/>
+<area shape="rect" id="node7" href="./AbstractStatistic.html" title="&lt;TABLE&gt;" alt="" coords="317,5,443,53"/>
+</map>

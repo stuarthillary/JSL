@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./WithinReplicationStatisticIfc.html" title="jsl.modeling.elements.variable.WithinReplicationStatisticIfc" alt="" coords="87,155,252,194"/>
+<area shape="rect" id="node1" href="./WithinReplicationStatisticIfc.html" title="&lt;TABLE&gt;" alt="" coords="76,150,263,199"/>
+<area shape="rect" id="node2_1" href="./ResponseStatisticsIfc.html" title="jsl.modeling.elements.variable.ResponseStatisticsIfc" alt="" coords="16,259,149,298"/>
+<area shape="rect" id="node2" href="./ResponseStatisticsIfc.html" title="&lt;TABLE&gt;" alt="" coords="5,254,160,303"/>
+<area shape="rect" id="node4_2" href="../../../utilities/statistic/WeightedStatisticIfc.html" title="jsl.utilities.statistic.WeightedStatisticIfc" alt="" coords="195,253,317,304"/>
+<area shape="rect" id="node4" href="../../../utilities/statistic/WeightedStatisticIfc.html" title="&lt;TABLE&gt;" alt="" coords="184,248,328,309"/>
+<area shape="rect" id="node3_3" href="../../../utilities/Responses.html" title="jsl.utilities.Responses" alt="" coords="130,59,209,95"/>
+<area shape="rect" id="node3" href="../../../utilities/Responses.html" title="&lt;TABLE&gt;" alt="" coords="119,53,219,101"/>
+</map>

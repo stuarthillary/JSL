@@ -1,0 +1,24 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./SQSRWorkStation.Release.html" title="jsl.modeling.elements.resource.SQSRWorkStation.Release" alt="" coords="226,353,289,377"/>
+<area shape="rect" id="node1" href="./SQSRWorkStation.Release.html" title="&lt;TABLE&gt;" alt="" coords="215,341,299,389"/>
+<area shape="rect" id="node2_1" href="./EntityType.html" title="jsl.modeling.elements.resource.EntityType" alt="" coords="232,161,307,185"/>
+<area shape="rect" id="node2" href="./EntityType.html" title="&lt;TABLE&gt;" alt="" coords="221,149,317,197"/>
+<area shape="rect" id="node5_2" href="./EntityReceiverAbstract.html" title="jsl.modeling.elements.resource.EntityReceiverAbstract" alt="" coords="199,257,339,281"/>
+<area shape="rect" id="node5" href="./EntityReceiverAbstract.html" title="&lt;TABLE&gt;" alt="" coords="189,245,350,293"/>
+<area shape="rect" id="node3_3" href="./EntityType.Destination.html" title="jsl.modeling.elements.resource.EntityType.Destination" alt="" coords="353,161,431,185"/>
+<area shape="rect" id="node3" href="./EntityType.Destination.html" title="&lt;TABLE&gt;" alt="" coords="342,149,442,197"/>
+<area shape="rect" id="node4_4" href="./EntityType.CDestination.html" title="jsl.modeling.elements.resource.EntityType.CDestination" alt="" coords="477,161,563,185"/>
+<area shape="rect" id="node4" href="./EntityType.CDestination.html" title="&lt;TABLE&gt;" alt="" coords="466,149,574,197"/>
+<area shape="rect" id="node7_5" href="./EntityReceiver.Receiver.html" title="jsl.modeling.elements.resource.EntityReceiver.Receiver" alt="" coords="91,353,157,377"/>
+<area shape="rect" id="node7" href="./EntityReceiver.Receiver.html" title="&lt;TABLE&gt;" alt="" coords="81,341,167,389"/>
+<area shape="rect" id="node9_6" href="./EntityGenerator.Receiver.html" title="jsl.modeling.elements.resource.EntityGenerator.Receiver" alt="" coords="557,353,622,377"/>
+<area shape="rect" id="node9" href="./EntityGenerator.Receiver.html" title="&lt;TABLE&gt;" alt="" coords="546,341,633,389"/>
+<area shape="rect" id="node11_7" href="./DisposeEntity.html" title="jsl.modeling.elements.resource.DisposeEntity" alt="" coords="334,353,426,377"/>
+<area shape="rect" id="node11" href="./DisposeEntity.html" title="&lt;TABLE&gt;" alt="" coords="323,341,437,389"/>
+<area shape="rect" id="node6_8" href="./EntityReceiver.html" title="jsl.modeling.elements.resource.EntityReceiver" alt="" coords="16,161,112,185"/>
+<area shape="rect" id="node6" href="./EntityReceiver.html" title="&lt;TABLE&gt;" alt="" coords="5,149,123,197"/>
+<area shape="rect" id="node8_9" href="./EntityGenerator.html" title="jsl.modeling.elements.resource.EntityGenerator" alt="" coords="561,65,663,89"/>
+<area shape="rect" id="node8" href="./EntityGenerator.html" title="&lt;TABLE&gt;" alt="" coords="550,53,674,101"/>
+<area shape="rect" id="node10_10" href="./Entity.html" title="jsl.modeling.elements.resource.Entity" alt="" coords="148,65,196,89"/>
+<area shape="rect" id="node10" href="./Entity.html" title="&lt;TABLE&gt;" alt="" coords="136,53,208,101"/>
+</map>

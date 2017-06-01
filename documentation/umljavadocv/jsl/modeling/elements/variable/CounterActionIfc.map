@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./CounterActionIfc.html" title="jsl.modeling.elements.variable.CounterActionIfc" alt="" coords="16,11,123,50"/>
+<area shape="rect" id="node1" href="./CounterActionIfc.html" title="&lt;TABLE&gt;" alt="" coords="5,6,133,55"/>
+<area shape="rect" id="node2_1" href="./Counter.html" title="jsl.modeling.elements.variable.Counter" alt="" coords="39,212,100,236"/>
+<area shape="rect" id="node2" href="./Counter.html" title="&lt;TABLE&gt;" alt="" coords="28,200,111,248"/>
+<area shape="rect" id="node3_2" href="./AggregateCounter.html" title="jsl.modeling.elements.variable.AggregateCounter" alt="" coords="65,116,181,140"/>
+<area shape="rect" id="node3" href="./AggregateCounter.html" title="&lt;TABLE&gt;" alt="" coords="54,104,191,152"/>
+</map>

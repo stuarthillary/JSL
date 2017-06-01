@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./ResponseVariable.html" title="jsl.modeling.elements.variable.ResponseVariable" alt="" coords="16,116,131,140"/>
+<area shape="rect" id="node1" href="./ResponseVariable.html" title="&lt;TABLE&gt;" alt="" coords="5,104,141,152"/>
+<area shape="rect" id="node2_1" href="./DefaultReportingOptionIfc.html" title="jsl.modeling.elements.variable.DefaultReportingOptionIfc" alt="" coords="129,11,285,50"/>
+<area shape="rect" id="node2" href="./DefaultReportingOptionIfc.html" title="&lt;TABLE&gt;" alt="" coords="118,6,295,55"/>
+<area shape="rect" id="node3_2" href="./Counter.html" title="jsl.modeling.elements.variable.Counter" alt="" coords="176,116,237,140"/>
+<area shape="rect" id="node3" href="./Counter.html" title="&lt;TABLE&gt;" alt="" coords="165,104,248,152"/>
+<area shape="rect" id="node4_3" href="./Aggregate.html" title="jsl.modeling.elements.variable.Aggregate" alt="" coords="283,116,357,140"/>
+<area shape="rect" id="node4" href="./Aggregate.html" title="&lt;TABLE&gt;" alt="" coords="273,104,367,152"/>
+</map>

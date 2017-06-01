@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./GetEntityReceiverIfc.html" title="jsl.modeling.elements.resource.GetEntityReceiverIfc" alt="" coords="115,11,243,50"/>
+<area shape="rect" id="node1" href="./GetEntityReceiverIfc.html" title="&lt;TABLE&gt;" alt="" coords="104,6,253,55"/>
+<area shape="rect" id="node5_1" href="./DestinationIfc.html" title="jsl.modeling.elements.resource.DestinationIfc" alt="" coords="137,110,228,149"/>
+<area shape="rect" id="node5" href="./DestinationIfc.html" title="&lt;TABLE&gt;" alt="" coords="127,105,239,154"/>
+<area shape="rect" id="node2_2" href="./EntityType.html" title="jsl.modeling.elements.resource.EntityType" alt="" coords="288,19,363,43"/>
+<area shape="rect" id="node2" href="./EntityType.html" title="&lt;TABLE&gt;" alt="" coords="277,7,373,55"/>
+<area shape="rect" id="node6_3" href="../../../utilities/GetValueIfc.html" title="jsl.utilities.GetValueIfc" alt="" coords="235,304,315,355"/>
+<area shape="rect" id="node6" href="../../../utilities/GetValueIfc.html" title="&lt;TABLE&gt;" alt="" coords="224,299,325,360"/>
+<area shape="rect" id="node3_4" href="./EntityType.Destination.html" title="jsl.modeling.elements.resource.EntityType.Destination" alt="" coords="15,215,94,239"/>
+<area shape="rect" id="node3" href="./EntityType.Destination.html" title="&lt;TABLE&gt;" alt="" coords="5,203,105,251"/>
+<area shape="rect" id="node4_5" href="./EntityType.CDestination.html" title="jsl.modeling.elements.resource.EntityType.CDestination" alt="" coords="139,215,226,239"/>
+<area shape="rect" id="node4" href="./EntityType.CDestination.html" title="&lt;TABLE&gt;" alt="" coords="129,203,237,251"/>
+</map>

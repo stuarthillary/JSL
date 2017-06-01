@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../../IdentityIfc.html" title="jsl.utilities.IdentityIfc" alt="" coords="184,11,261,61"/>
+<area shape="rect" id="node1" href="../../IdentityIfc.html" title="&lt;TABLE&gt;" alt="" coords="173,5,272,67"/>
+<area shape="rect" id="node2_1" href="./IntermittentDemandStatistic.html" title="jsl.utilities.random.sp.IntermittentDemandStatistic" alt="" coords="137,127,303,151"/>
+<area shape="rect" id="node2" href="./IntermittentDemandStatistic.html" title="&lt;TABLE&gt;" alt="" coords="127,115,313,163"/>
+<area shape="rect" id="node3_2" href="../../rootfinding/Interval.html" title="jsl.utilities.rootfinding.Interval" alt="" coords="26,217,129,253"/>
+<area shape="rect" id="node3" href="../../rootfinding/Interval.html" title="&lt;TABLE&gt;" alt="" coords="15,211,139,259"/>
+<area shape="rect" id="node5_3" href="../../statistic/Statistic.html" title="jsl.utilities.statistic.Statistic" alt="" coords="175,217,265,253"/>
+<area shape="rect" id="node5" href="../../statistic/Statistic.html" title="&lt;TABLE&gt;" alt="" coords="164,211,276,259"/>
+<area shape="rect" id="node4_4" href="../../statistic/StatisticAccessorIfc.html" title="jsl.utilities.statistic.StatisticAccessorIfc" alt="" coords="16,11,139,61"/>
+<area shape="rect" id="node4" href="../../statistic/StatisticAccessorIfc.html" title="&lt;TABLE&gt;" alt="" coords="5,5,149,67"/>
+</map>

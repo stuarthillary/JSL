@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../modeling/ModelElement.html" title="jsl.modeling.ModelElement" alt="" coords="450,107,545,143"/>
+<area shape="rect" id="node1" href="../modeling/ModelElement.html" title="&lt;TABLE&gt;" alt="" coords="439,101,555,149"/>
+<area shape="rect" id="node5_1" href="./Responses.html" title="jsl.utilities.Responses" alt="" coords="458,209,537,233"/>
+<area shape="rect" id="node5" href="./Responses.html" title="&lt;TABLE&gt;" alt="" coords="447,197,547,245"/>
+<area shape="rect" id="node2_2" href="../modeling/elements/variable/WithinReplicationStatisticIfc.html" title="jsl.modeling.elements.variable.WithinReplicationStatisticIfc" alt="" coords="16,299,181,349"/>
+<area shape="rect" id="node2" href="../modeling/elements/variable/WithinReplicationStatisticIfc.html" title="&lt;TABLE&gt;" alt="" coords="5,293,192,355"/>
+<area shape="rect" id="node3_3" href="../modeling/elements/variable/BatchStatisticsIfc.html" title="jsl.modeling.elements.variable.BatchStatisticsIfc" alt="" coords="227,299,368,349"/>
+<area shape="rect" id="node3" href="../modeling/elements/variable/BatchStatisticsIfc.html" title="&lt;TABLE&gt;" alt="" coords="216,293,379,355"/>
+<area shape="rect" id="node7_4" href="./statistic/StatisticAccessorIfc.html" title="jsl.utilities.statistic.StatisticAccessorIfc" alt="" coords="591,408,713,459"/>
+<area shape="rect" id="node7" href="./statistic/StatisticAccessorIfc.html" title="&lt;TABLE&gt;" alt="" coords="580,403,724,464"/>
+<area shape="rect" id="node4_5" href="../modeling/elements/variable/AcrossReplicationStatisticIfc.html" title="jsl.modeling.elements.variable.AcrossReplicationStatisticIfc" alt="" coords="413,299,581,349"/>
+<area shape="rect" id="node4" href="../modeling/elements/variable/AcrossReplicationStatisticIfc.html" title="&lt;TABLE&gt;" alt="" coords="403,293,592,355"/>
+<area shape="rect" id="node6_6" href="./ResponseMakerIfc.html" title="jsl.utilities.ResponseMakerIfc" alt="" coords="627,305,746,343"/>
+<area shape="rect" id="node6" href="./ResponseMakerIfc.html" title="&lt;TABLE&gt;" alt="" coords="617,299,757,349"/>
+</map>

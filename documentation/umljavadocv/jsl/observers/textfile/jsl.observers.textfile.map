@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./StatisticalReport.html" title="jsl.observers.textfile.StatisticalReport" alt="" coords="15,17,121,41"/>
+<area shape="rect" id="node1" href="./StatisticalReport.html" title="&lt;TABLE&gt;" alt="" coords="5,5,131,53"/>
+<area shape="rect" id="node2_1" href="./MSummaryReport.html" title="jsl.observers.textfile.MSummaryReport" alt="" coords="166,17,282,41"/>
+<area shape="rect" id="node2" href="./MSummaryReport.html" title="&lt;TABLE&gt;" alt="" coords="155,5,293,53"/>
+<area shape="rect" id="node3_2" href="./MReplicationReport.html" title="jsl.observers.textfile.MReplicationReport" alt="" coords="327,17,451,41"/>
+<area shape="rect" id="node3" href="./MReplicationReport.html" title="&lt;TABLE&gt;" alt="" coords="317,5,462,53"/>
+<area shape="rect" id="node4_3" href="./LogReport.html" title="jsl.observers.textfile.LogReport" alt="" coords="497,17,572,41"/>
+<area shape="rect" id="node4" href="./LogReport.html" title="&lt;TABLE&gt;" alt="" coords="487,5,583,53"/>
+<area shape="rect" id="node5_4" href="./IPLogReport.html" title="jsl.observers.textfile.IPLogReport" alt="" coords="617,17,703,41"/>
+<area shape="rect" id="node5" href="./IPLogReport.html" title="&lt;TABLE&gt;" alt="" coords="607,5,713,53"/>
+<area shape="rect" id="node6_5" href="./CSVReport.html" title="jsl.observers.textfile.CSVReport" alt="" coords="749,17,827,41"/>
+<area shape="rect" id="node6" href="./CSVReport.html" title="&lt;TABLE&gt;" alt="" coords="738,5,838,53"/>
+<area shape="rect" id="node7_6" href="./CSVReplicationReport.html" title="jsl.observers.textfile.CSVReplicationReport" alt="" coords="625,113,764,137"/>
+<area shape="rect" id="node7" href="./CSVReplicationReport.html" title="&lt;TABLE&gt;" alt="" coords="615,101,775,149"/>
+<area shape="rect" id="node8_7" href="./CSVExperimentReport.html" title="jsl.observers.textfile.CSVExperimentReport" alt="" coords="810,113,950,137"/>
+<area shape="rect" id="node8" href="./CSVExperimentReport.html" title="&lt;TABLE&gt;" alt="" coords="799,101,961,149"/>
+</map>

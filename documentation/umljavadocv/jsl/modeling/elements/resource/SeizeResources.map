@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./SQSeize.html" title="jsl.modeling.elements.resource.SQSeize" alt="" coords="15,259,81,283"/>
+<area shape="rect" id="node1" href="./SQSeize.html" title="&lt;TABLE&gt;" alt="" coords="5,247,91,295"/>
+<area shape="rect" id="node2_1" href="./SeizeResources.html" title="jsl.modeling.elements.resource.SeizeResources" alt="" coords="217,161,322,185"/>
+<area shape="rect" id="node2" href="./SeizeResources.html" title="&lt;TABLE&gt;" alt="" coords="206,149,333,197"/>
+<area shape="rect" id="node3_2" href="./SeizeResources.RequirementOption.html" title="jsl.modeling.elements.resource.SeizeResources.RequirementOption" alt="" coords="127,251,249,290"/>
+<area shape="rect" id="node3" href="./SeizeResources.RequirementOption.html" title="&lt;TABLE&gt;" alt="" coords="116,246,260,295"/>
+<area shape="rect" id="node4_3" href="./SeizeResources.AllocationListener.html" title="jsl.modeling.elements.resource.SeizeResources.AllocationListener" alt="" coords="295,259,407,283"/>
+<area shape="rect" id="node4" href="./SeizeResources.AllocationListener.html" title="&lt;TABLE&gt;" alt="" coords="284,247,417,295"/>
+<area shape="rect" id="node5_4" href="./SeizeRequirement.html" title="jsl.modeling.elements.resource.SeizeRequirement" alt="" coords="452,259,569,283"/>
+<area shape="rect" id="node5" href="./SeizeRequirement.html" title="&lt;TABLE&gt;" alt="" coords="441,247,580,295"/>
+<area shape="rect" id="node6_5" href="./EntityReceiver.html" title="jsl.modeling.elements.resource.EntityReceiver" alt="" coords="221,65,317,89"/>
+<area shape="rect" id="node6" href="./EntityReceiver.html" title="&lt;TABLE&gt;" alt="" coords="211,53,328,101"/>
+</map>

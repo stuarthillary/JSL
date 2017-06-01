@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../../JSLEvent.html" title="jsl.modeling.JSLEvent" alt="" coords="97,305,167,341"/>
+<area shape="rect" id="node1" href="../../JSLEvent.html" title="&lt;TABLE&gt;" alt="" coords="87,299,177,347"/>
+<area shape="rect" id="node2_1" href="../EventGenerator.html" title="jsl.modeling.elements.EventGenerator" alt="" coords="16,13,123,49"/>
+<area shape="rect" id="node2" href="../EventGenerator.html" title="&lt;TABLE&gt;" alt="" coords="5,7,133,55"/>
+<area shape="rect" id="node9_2" href="./EntityGenerator.html" title="jsl.modeling.elements.resource.EntityGenerator" alt="" coords="503,116,606,140"/>
+<area shape="rect" id="node9" href="./EntityGenerator.html" title="&lt;TABLE&gt;" alt="" coords="493,104,617,152"/>
+<area shape="rect" id="node3_3" href="../processview/description/EntityProcessGenerator.html" title="jsl.modeling.elements.processview.description.EntityProcessGenerator" alt="" coords="180,207,388,243"/>
+<area shape="rect" id="node3" href="../processview/description/EntityProcessGenerator.html" title="&lt;TABLE&gt;" alt="" coords="169,201,399,249"/>
+<area shape="rect" id="node4_4" href="./GetEntityTypeIfc.html" title="jsl.modeling.elements.resource.GetEntityTypeIfc" alt="" coords="433,206,540,245"/>
+<area shape="rect" id="node4" href="./GetEntityTypeIfc.html" title="&lt;TABLE&gt;" alt="" coords="423,201,551,250"/>
+<area shape="rect" id="node5_5" href="./GetEntityReceiverIfc.html" title="jsl.modeling.elements.resource.GetEntityReceiverIfc" alt="" coords="491,11,619,50"/>
+<area shape="rect" id="node5" href="./GetEntityReceiverIfc.html" title="&lt;TABLE&gt;" alt="" coords="480,6,629,55"/>
+<area shape="rect" id="node6_6" href="./EntityType.html" title="jsl.modeling.elements.resource.EntityType" alt="" coords="585,213,660,237"/>
+<area shape="rect" id="node6" href="./EntityType.html" title="&lt;TABLE&gt;" alt="" coords="575,201,671,249"/>
+<area shape="rect" id="node8_7" href="./EntityReceiverAbstract.html" title="jsl.modeling.elements.resource.EntityReceiverAbstract" alt="" coords="714,311,854,335"/>
+<area shape="rect" id="node8" href="./EntityReceiverAbstract.html" title="&lt;TABLE&gt;" alt="" coords="703,299,865,347"/>
+<area shape="rect" id="node7_8" href="./EntityType.SendOption.html" title="jsl.modeling.elements.resource.EntityType.SendOption" alt="" coords="705,206,804,245"/>
+<area shape="rect" id="node7" href="./EntityType.SendOption.html" title="&lt;TABLE&gt;" alt="" coords="695,201,815,250"/>
+<area shape="rect" id="node10_9" href="./EntityGenerator.Receiver.html" title="jsl.modeling.elements.resource.EntityGenerator.Receiver" alt="" coords="810,407,875,431"/>
+<area shape="rect" id="node10" href="./EntityGenerator.Receiver.html" title="&lt;TABLE&gt;" alt="" coords="799,395,886,443"/>
+</map>

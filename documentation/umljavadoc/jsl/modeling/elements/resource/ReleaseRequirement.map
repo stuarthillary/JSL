@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./ReleaseResourceSetRequirement.html" title="jsl.modeling.elements.resource.ReleaseResourceSetRequirement" alt="" coords="16,209,216,233"/>
+<area shape="rect" id="node1" href="./ReleaseResourceSetRequirement.html" title="&lt;TABLE&gt;" alt="" coords="5,197,227,245"/>
+<area shape="rect" id="node2_1" href="./ReleaseResources.html" title="jsl.modeling.elements.resource.ReleaseResources" alt="" coords="175,17,295,41"/>
+<area shape="rect" id="node2" href="./ReleaseResources.html" title="&lt;TABLE&gt;" alt="" coords="164,5,305,53"/>
+<area shape="rect" id="node4_2" href="./ReleaseRequirement.html" title="jsl.modeling.elements.resource.ReleaseRequirement" alt="" coords="169,113,300,137"/>
+<area shape="rect" id="node4" href="./ReleaseRequirement.html" title="&lt;TABLE&gt;" alt="" coords="159,101,311,149"/>
+<area shape="rect" id="node3_3" href="./ReleaseResourceRequirement.html" title="jsl.modeling.elements.resource.ReleaseResourceRequirement" alt="" coords="262,209,445,233"/>
+<area shape="rect" id="node3" href="./ReleaseResourceRequirement.html" title="&lt;TABLE&gt;" alt="" coords="251,197,455,245"/>
+</map>

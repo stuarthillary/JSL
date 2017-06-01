@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../../ModelElement.html" title="jsl.modeling.ModelElement" alt="" coords="15,113,110,149"/>
+<area shape="rect" id="node1" href="../../ModelElement.html" title="&lt;TABLE&gt;" alt="" coords="5,107,121,155"/>
+<area shape="rect" id="node2_1" href="./Variable.html" title="jsl.modeling.elements.variable.Variable" alt="" coords="56,317,117,341"/>
+<area shape="rect" id="node2" href="./Variable.html" title="&lt;TABLE&gt;" alt="" coords="45,305,128,353"/>
+<area shape="rect" id="node6_2" href="./Aggregatable.html" title="jsl.modeling.elements.variable.Aggregatable" alt="" coords="159,221,249,245"/>
+<area shape="rect" id="node6" href="./Aggregatable.html" title="&lt;TABLE&gt;" alt="" coords="149,209,259,257"/>
+<area shape="rect" id="node3_3" href="./PreviousValueIfc.html" title="jsl.modeling.elements.variable.PreviousValueIfc" alt="" coords="156,111,263,150"/>
+<area shape="rect" id="node3" href="./PreviousValueIfc.html" title="&lt;TABLE&gt;" alt="" coords="145,106,273,155"/>
+<area shape="rect" id="node4_4" href="./Counter.html" title="jsl.modeling.elements.variable.Counter" alt="" coords="287,317,348,341"/>
+<area shape="rect" id="node4" href="./Counter.html" title="&lt;TABLE&gt;" alt="" coords="276,305,359,353"/>
+<area shape="rect" id="node5_5" href="./Aggregate.html" title="jsl.modeling.elements.variable.Aggregate" alt="" coords="167,317,241,341"/>
+<area shape="rect" id="node5" href="./Aggregate.html" title="&lt;TABLE&gt;" alt="" coords="157,305,251,353"/>
+<area shape="rect" id="node7_6" href="../../../utilities/GetValueIfc.html" title="jsl.utilities.GetValueIfc" alt="" coords="308,105,388,156"/>
+<area shape="rect" id="node7" href="../../../utilities/GetValueIfc.html" title="&lt;TABLE&gt;" alt="" coords="297,100,399,161"/>
+</map>

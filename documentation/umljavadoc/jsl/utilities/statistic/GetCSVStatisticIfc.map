@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./WeightedStatisticIfc.html" title="jsl.utilities.statistic.WeightedStatisticIfc" alt="" coords="16,110,139,149"/>
+<area shape="rect" id="node1" href="./WeightedStatisticIfc.html" title="&lt;TABLE&gt;" alt="" coords="5,105,149,154"/>
+<area shape="rect" id="node2_1" href="./WeightedStatistic.html" title="jsl.utilities.statistic.WeightedStatistic" alt="" coords="54,215,165,239"/>
+<area shape="rect" id="node2" href="./WeightedStatistic.html" title="&lt;TABLE&gt;" alt="" coords="43,203,175,251"/>
+<area shape="rect" id="node3_2" href="./StatisticAccessorIfc.html" title="jsl.utilities.statistic.StatisticAccessorIfc" alt="" coords="235,110,357,149"/>
+<area shape="rect" id="node3" href="./StatisticAccessorIfc.html" title="&lt;TABLE&gt;" alt="" coords="224,105,368,154"/>
+<area shape="rect" id="node5_3" href="./AbstractStatistic.html" title="jsl.utilities.statistic.AbstractStatistic" alt="" coords="299,215,403,239"/>
+<area shape="rect" id="node5" href="./AbstractStatistic.html" title="&lt;TABLE&gt;" alt="" coords="288,203,413,251"/>
+<area shape="rect" id="node4_4" href="./GetCSVStatisticIfc.html" title="jsl.utilities.statistic.GetCSVStatisticIfc" alt="" coords="183,11,300,50"/>
+<area shape="rect" id="node4" href="./GetCSVStatisticIfc.html" title="&lt;TABLE&gt;" alt="" coords="172,6,311,55"/>
+</map>

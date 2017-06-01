@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./SQSeize.html" title="jsl.modeling.elements.resource.SQSeize" alt="" coords="15,209,81,233"/>
+<area shape="rect" id="node1" href="./SQSeize.html" title="&lt;TABLE&gt;" alt="" coords="5,197,91,245"/>
+<area shape="rect" id="node2_1" href="./ResourcedActivity.html" title="jsl.modeling.elements.resource.ResourcedActivity" alt="" coords="195,113,309,137"/>
+<area shape="rect" id="node2" href="./ResourcedActivity.html" title="&lt;TABLE&gt;" alt="" coords="184,101,320,149"/>
+<area shape="rect" id="node3_2" href="./ReleaseResources.html" title="jsl.modeling.elements.resource.ReleaseResources" alt="" coords="127,209,247,233"/>
+<area shape="rect" id="node3" href="./ReleaseResources.html" title="&lt;TABLE&gt;" alt="" coords="116,197,257,245"/>
+<area shape="rect" id="node4_3" href="./Delay.html" title="jsl.modeling.elements.resource.Delay" alt="" coords="293,209,342,233"/>
+<area shape="rect" id="node4" href="./Delay.html" title="&lt;TABLE&gt;" alt="" coords="281,197,353,245"/>
+<area shape="rect" id="node6_4" href="../../../utilities/random/RandomIfc.html" title="jsl.utilities.random.RandomIfc" alt="" coords="308,299,399,349"/>
+<area shape="rect" id="node6" href="../../../utilities/random/RandomIfc.html" title="&lt;TABLE&gt;" alt="" coords="297,293,409,355"/>
+<area shape="rect" id="node5_5" href="./CompositeEntityReceiver.html" title="jsl.modeling.elements.resource.CompositeEntityReceiver" alt="" coords="175,17,329,41"/>
+<area shape="rect" id="node5" href="./CompositeEntityReceiver.html" title="&lt;TABLE&gt;" alt="" coords="165,5,339,53"/>
+</map>

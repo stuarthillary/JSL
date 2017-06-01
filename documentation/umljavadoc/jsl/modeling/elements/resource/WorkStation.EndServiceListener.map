@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../../JSLEvent.html" title="jsl.modeling.JSLEvent" alt="" coords="76,11,145,47"/>
+<area shape="rect" id="node1" href="../../JSLEvent.html" title="&lt;TABLE&gt;" alt="" coords="65,5,156,53"/>
+<area shape="rect" id="node2_1" href="../../EventActionIfc.html" title="jsl.modeling.EventActionIfc" alt="" coords="15,107,110,157"/>
+<area shape="rect" id="node2" href="../../EventActionIfc.html" title="&lt;TABLE&gt;" alt="" coords="5,101,121,163"/>
+<area shape="rect" id="node4_2" href="./WorkStation.EndServiceListener.html" title="jsl.modeling.elements.resource.WorkStation.EndServiceListener" alt="" coords="97,223,220,247"/>
+<area shape="rect" id="node4" href="./WorkStation.EndServiceListener.html" title="&lt;TABLE&gt;" alt="" coords="87,211,231,259"/>
+<area shape="rect" id="node3_3" href="./WorkStation.html" title="jsl.modeling.elements.resource.WorkStation" alt="" coords="207,120,289,144"/>
+<area shape="rect" id="node3" href="./WorkStation.html" title="&lt;TABLE&gt;" alt="" coords="196,108,300,156"/>
+</map>

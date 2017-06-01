@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./WithinReplicationStatisticIfc.html" title="jsl.modeling.elements.variable.WithinReplicationStatisticIfc" alt="" coords="16,11,181,50"/>
+<area shape="rect" id="node1" href="./WithinReplicationStatisticIfc.html" title="&lt;TABLE&gt;" alt="" coords="5,6,192,55"/>
+<area shape="rect" id="node3_1" href="./ResponseStatisticsIfc.html" title="jsl.modeling.elements.variable.ResponseStatisticsIfc" alt="" coords="137,110,271,149"/>
+<area shape="rect" id="node3" href="./ResponseStatisticsIfc.html" title="&lt;TABLE&gt;" alt="" coords="127,105,281,154"/>
+<area shape="rect" id="node2_2" href="./ResponseVariable.html" title="jsl.modeling.elements.variable.ResponseVariable" alt="" coords="147,215,261,239"/>
+<area shape="rect" id="node2" href="./ResponseVariable.html" title="&lt;TABLE&gt;" alt="" coords="136,203,272,251"/>
+<area shape="rect" id="node4_3" href="./AcrossReplicationStatisticIfc.html" title="jsl.modeling.elements.variable.AcrossReplicationStatisticIfc" alt="" coords="227,11,395,50"/>
+<area shape="rect" id="node4" href="./AcrossReplicationStatisticIfc.html" title="&lt;TABLE&gt;" alt="" coords="216,6,405,55"/>
+</map>

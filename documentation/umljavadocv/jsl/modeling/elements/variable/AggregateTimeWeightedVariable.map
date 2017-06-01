@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../queue/Queue.html" title="jsl.modeling.elements.queue.Queue" alt="" coords="241,11,375,47"/>
+<area shape="rect" id="node1" href="../queue/Queue.html" title="&lt;TABLE&gt;" alt="" coords="230,5,386,53"/>
+<area shape="rect" id="node2_1" href="./TimeWeighted.html" title="jsl.modeling.elements.variable.TimeWeighted" alt="" coords="15,312,110,336"/>
+<area shape="rect" id="node2" href="./TimeWeighted.html" title="&lt;TABLE&gt;" alt="" coords="5,300,121,348"/>
+<area shape="rect" id="node3_2" href="./AveragePerTimeWeightedVariable.html" title="jsl.modeling.elements.variable.AveragePerTimeWeightedVariable" alt="" coords="156,312,356,336"/>
+<area shape="rect" id="node3" href="./AveragePerTimeWeightedVariable.html" title="&lt;TABLE&gt;" alt="" coords="145,300,367,348"/>
+<area shape="rect" id="node4_3" href="./AggregateTimeWeightedVariable.html" title="jsl.modeling.elements.variable.AggregateTimeWeightedVariable" alt="" coords="225,209,417,233"/>
+<area shape="rect" id="node4" href="./AggregateTimeWeightedVariable.html" title="&lt;TABLE&gt;" alt="" coords="215,197,428,245"/>
+<area shape="rect" id="node5_4" href="./Aggregate.html" title="jsl.modeling.elements.variable.Aggregate" alt="" coords="314,113,387,137"/>
+<area shape="rect" id="node5" href="./Aggregate.html" title="&lt;TABLE&gt;" alt="" coords="303,101,398,149"/>
+<area shape="rect" id="node6_5" href="../../../observers/ObserverIfc.html" title="jsl.observers.ObserverIfc" alt="" coords="401,299,481,349"/>
+<area shape="rect" id="node6" href="../../../observers/ObserverIfc.html" title="&lt;TABLE&gt;" alt="" coords="391,293,492,355"/>
+<area shape="rect" id="node7_6" href="../../../utilities/statistic/WeightedStatisticIfc.html" title="jsl.utilities.statistic.WeightedStatisticIfc" alt="" coords="527,299,649,349"/>
+<area shape="rect" id="node7" href="../../../utilities/statistic/WeightedStatisticIfc.html" title="&lt;TABLE&gt;" alt="" coords="516,293,660,355"/>
+</map>

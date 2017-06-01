@@ -1,0 +1,24 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../../../State.html" title="jsl.modeling.State" alt="" coords="377,107,442,143"/>
+<area shape="rect" id="node1" href="../../../State.html" title="&lt;TABLE&gt;" alt="" coords="366,101,453,149"/>
+<area shape="rect" id="node4_1" href="./Transporter.TransporterState.html" title="jsl.modeling.elements.spatial.transporter.Transporter.TransporterState" alt="" coords="302,209,410,233"/>
+<area shape="rect" id="node4" href="./Transporter.TransporterState.html" title="&lt;TABLE&gt;" alt="" coords="291,197,421,245"/>
+<area shape="rect" id="node2_2" href="../CoordinateIfc.html" title="jsl.modeling.elements.spatial.CoordinateIfc" alt="" coords="312,395,448,445"/>
+<area shape="rect" id="node2" href="../CoordinateIfc.html" title="&lt;TABLE&gt;" alt="" coords="301,389,459,451"/>
+<area shape="rect" id="node3_3" href="./Transporter.html" title="jsl.modeling.elements.spatial.transporter.Transporter" alt="" coords="369,17,449,41"/>
+<area shape="rect" id="node3" href="./Transporter.html" title="&lt;TABLE&gt;" alt="" coords="359,5,460,53"/>
+<area shape="rect" id="node5_4" href="./Transporter.Created.html" title="jsl.modeling.elements.spatial.transporter.Transporter.Created" alt="" coords="128,305,189,329"/>
+<area shape="rect" id="node5" href="./Transporter.Created.html" title="&lt;TABLE&gt;" alt="" coords="117,293,200,341"/>
+<area shape="rect" id="node6_5" href="./Transporter.Inactive.html" title="jsl.modeling.elements.spatial.transporter.Transporter.Inactive" alt="" coords="235,305,295,329"/>
+<area shape="rect" id="node6" href="./Transporter.Inactive.html" title="&lt;TABLE&gt;" alt="" coords="225,293,306,341"/>
+<area shape="rect" id="node7_6" href="./Transporter.Idle.html" title="jsl.modeling.elements.spatial.transporter.Transporter.Idle" alt="" coords="399,305,436,329"/>
+<area shape="rect" id="node7" href="./Transporter.Idle.html" title="&lt;TABLE&gt;" alt="" coords="381,293,453,341"/>
+<area shape="rect" id="node8_7" href="./Transporter.MovingIdle.html" title="jsl.modeling.elements.spatial.transporter.Transporter.MovingIdle" alt="" coords="489,305,565,329"/>
+<area shape="rect" id="node8" href="./Transporter.MovingIdle.html" title="&lt;TABLE&gt;" alt="" coords="478,293,575,341"/>
+<area shape="rect" id="node9_8" href="./Transporter.Allocated.html" title="jsl.modeling.elements.spatial.transporter.Transporter.Allocated" alt="" coords="16,305,83,329"/>
+<area shape="rect" id="node9" href="./Transporter.Allocated.html" title="&lt;TABLE&gt;" alt="" coords="5,293,93,341"/>
+<area shape="rect" id="node10_9" href="./Transporter.AllocatedMovingEmpty.html" title="jsl.modeling.elements.spatial.transporter.Transporter.AllocatedMovingEmpty" alt="" coords="610,305,750,329"/>
+<area shape="rect" id="node10" href="./Transporter.AllocatedMovingEmpty.html" title="&lt;TABLE&gt;" alt="" coords="599,293,761,341"/>
+<area shape="rect" id="node11_10" href="./Transporter.AllocatedMovingLoaded.html" title="jsl.modeling.elements.spatial.transporter.Transporter.AllocatedMovingLoaded" alt="" coords="795,305,941,329"/>
+<area shape="rect" id="node11" href="./Transporter.AllocatedMovingLoaded.html" title="&lt;TABLE&gt;" alt="" coords="785,293,951,341"/>
+</map>

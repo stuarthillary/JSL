@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./EntityType.SendOption.html" title="jsl.modeling.elements.resource.EntityType.SendOption" alt="" coords="87,155,185,194"/>
+<area shape="rect" id="node1" href="./EntityType.SendOption.html" title="&lt;TABLE&gt;" alt="" coords="76,150,196,199"/>
+<area shape="rect" id="node2_1" href="./EntityReceiver.html" title="jsl.modeling.elements.resource.EntityReceiver" alt="" coords="16,65,112,89"/>
+<area shape="rect" id="node2" href="./EntityReceiver.html" title="&lt;TABLE&gt;" alt="" coords="5,53,123,101"/>
+<area shape="rect" id="node3_2" href="./EntityGenerator.html" title="jsl.modeling.elements.resource.EntityGenerator" alt="" coords="158,65,261,89"/>
+<area shape="rect" id="node3" href="./EntityGenerator.html" title="&lt;TABLE&gt;" alt="" coords="147,53,271,101"/>
+</map>

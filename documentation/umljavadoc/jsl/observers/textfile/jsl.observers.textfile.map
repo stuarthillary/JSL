@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./MSummaryReport.html" title="jsl.observers.textfile.MSummaryReport" alt="" coords="15,17,131,41"/>
+<area shape="rect" id="node1" href="./MSummaryReport.html" title="&lt;TABLE&gt;" alt="" coords="5,5,142,53"/>
+<area shape="rect" id="node2_1" href="./MReplicationReport.html" title="jsl.observers.textfile.MReplicationReport" alt="" coords="177,17,301,41"/>
+<area shape="rect" id="node2" href="./MReplicationReport.html" title="&lt;TABLE&gt;" alt="" coords="166,5,311,53"/>
+<area shape="rect" id="node3_2" href="./LogReport.html" title="jsl.observers.textfile.LogReport" alt="" coords="347,17,421,41"/>
+<area shape="rect" id="node3" href="./LogReport.html" title="&lt;TABLE&gt;" alt="" coords="336,5,432,53"/>
+<area shape="rect" id="node4_3" href="./IPLogReport.html" title="jsl.observers.textfile.IPLogReport" alt="" coords="467,17,552,41"/>
+<area shape="rect" id="node4" href="./IPLogReport.html" title="&lt;TABLE&gt;" alt="" coords="456,5,563,53"/>
+<area shape="rect" id="node5_4" href="./CSVReport.html" title="jsl.observers.textfile.CSVReport" alt="" coords="598,17,677,41"/>
+<area shape="rect" id="node5" href="./CSVReport.html" title="&lt;TABLE&gt;" alt="" coords="587,5,687,53"/>
+<area shape="rect" id="node6_5" href="./CSVReplicationReport.html" title="jsl.observers.textfile.CSVReplicationReport" alt="" coords="475,113,613,137"/>
+<area shape="rect" id="node6" href="./CSVReplicationReport.html" title="&lt;TABLE&gt;" alt="" coords="464,101,624,149"/>
+<area shape="rect" id="node7_6" href="./CSVExperimentReport.html" title="jsl.observers.textfile.CSVExperimentReport" alt="" coords="659,113,799,137"/>
+<area shape="rect" id="node7" href="./CSVExperimentReport.html" title="&lt;TABLE&gt;" alt="" coords="649,101,810,149"/>
+</map>

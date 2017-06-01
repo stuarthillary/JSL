@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./SeizeResources.AllocationSetListener.html" title="jsl.modeling.elements.resource.SeizeResources.AllocationSetListener" alt="" coords="93,17,224,41"/>
+<area shape="rect" id="node1" href="./SeizeResources.AllocationSetListener.html" title="&lt;TABLE&gt;" alt="" coords="83,5,235,53"/>
+<area shape="rect" id="node2_1" href="./Request.html" title="jsl.modeling.elements.resource.Request" alt="" coords="15,113,78,137"/>
+<area shape="rect" id="node2" href="./Request.html" title="&lt;TABLE&gt;" alt="" coords="5,101,89,149"/>
+<area shape="rect" id="node4_2" href="./Allocation.html" title="jsl.modeling.elements.resource.Allocation" alt="" coords="124,113,193,137"/>
+<area shape="rect" id="node4" href="./Allocation.html" title="&lt;TABLE&gt;" alt="" coords="113,101,204,149"/>
+<area shape="rect" id="node3_3" href="./AllocationListenerIfc.html" title="jsl.modeling.elements.resource.AllocationListenerIfc" alt="" coords="81,203,207,242"/>
+<area shape="rect" id="node3" href="./AllocationListenerIfc.html" title="&lt;TABLE&gt;" alt="" coords="71,198,217,247"/>
+</map>

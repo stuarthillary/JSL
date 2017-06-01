@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../ObserverIfc.html" title="jsl.observers.ObserverIfc" alt="" coords="16,11,96,61"/>
+<area shape="rect" id="node1" href="../ObserverIfc.html" title="&lt;TABLE&gt;" alt="" coords="5,5,107,67"/>
+<area shape="rect" id="node2_1" href="../ModelElementObserver.html" title="jsl.observers.ModelElementObserver" alt="" coords="85,217,229,253"/>
+<area shape="rect" id="node2" href="../ModelElementObserver.html" title="&lt;TABLE&gt;" alt="" coords="75,211,240,259"/>
+<area shape="rect" id="node3_2" href="./StatisticalReport.html" title="jsl.observers.textfile.StatisticalReport" alt="" coords="105,127,210,151"/>
+<area shape="rect" id="node3" href="./StatisticalReport.html" title="&lt;TABLE&gt;" alt="" coords="94,115,221,163"/>
+<area shape="rect" id="node4_3" href="../../utilities/reporting/TextReport.html" title="jsl.utilities.reporting.TextReport" alt="" coords="141,18,237,54"/>
+<area shape="rect" id="node4" href="../../utilities/reporting/TextReport.html" title="&lt;TABLE&gt;" alt="" coords="131,12,248,60"/>
+</map>

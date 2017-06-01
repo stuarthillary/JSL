@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../modeling/elements/variable/PreviousValueIfc.html" title="jsl.modeling.elements.variable.PreviousValueIfc" alt="" coords="16,11,157,61"/>
+<area shape="rect" id="node1" href="../modeling/elements/variable/PreviousValueIfc.html" title="&lt;TABLE&gt;" alt="" coords="5,5,168,67"/>
+<area shape="rect" id="node5_1" href="./DataSource.html" title="jsl.utilities.DataSource" alt="" coords="201,127,282,151"/>
+<area shape="rect" id="node5" href="./DataSource.html" title="&lt;TABLE&gt;" alt="" coords="190,115,293,163"/>
+<area shape="rect" id="node2_2" href="./IterativeDataSource.html" title="jsl.utilities.IterativeDataSource" alt="" coords="179,223,303,247"/>
+<area shape="rect" id="node2" href="./IterativeDataSource.html" title="&lt;TABLE&gt;" alt="" coords="169,211,314,259"/>
+<area shape="rect" id="node3_3" href="./IdentityIfc.html" title="jsl.utilities.IdentityIfc" alt="" coords="203,17,280,55"/>
+<area shape="rect" id="node3" href="./IdentityIfc.html" title="&lt;TABLE&gt;" alt="" coords="192,11,291,61"/>
+<area shape="rect" id="node4_4" href="./GetValueIfc.html" title="jsl.utilities.GetValueIfc" alt="" coords="325,17,405,55"/>
+<area shape="rect" id="node4" href="./GetValueIfc.html" title="&lt;TABLE&gt;" alt="" coords="315,11,416,61"/>
+</map>

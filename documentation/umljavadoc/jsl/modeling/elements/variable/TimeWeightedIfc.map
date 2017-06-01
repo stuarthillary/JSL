@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./VariableIfc.html" title="jsl.modeling.elements.variable.VariableIfc" alt="" coords="175,209,252,247"/>
+<area shape="rect" id="node1" href="./VariableIfc.html" title="&lt;TABLE&gt;" alt="" coords="164,203,263,253"/>
+<area shape="rect" id="node2_1" href="./TimeWeightedIfc.html" title="jsl.modeling.elements.variable.TimeWeightedIfc" alt="" coords="160,110,267,149"/>
+<area shape="rect" id="node2" href="./TimeWeightedIfc.html" title="&lt;TABLE&gt;" alt="" coords="149,105,277,154"/>
+<area shape="rect" id="node3_2" href="./GetWeightIfc.html" title="jsl.modeling.elements.variable.GetWeightIfc" alt="" coords="15,11,102,50"/>
+<area shape="rect" id="node3" href="./GetWeightIfc.html" title="&lt;TABLE&gt;" alt="" coords="5,6,113,55"/>
+<area shape="rect" id="node4_3" href="./GetTimeOfChangeIfc.html" title="jsl.modeling.elements.variable.GetTimeOfChangeIfc" alt="" coords="148,11,279,50"/>
+<area shape="rect" id="node4" href="./GetTimeOfChangeIfc.html" title="&lt;TABLE&gt;" alt="" coords="137,6,289,55"/>
+<area shape="rect" id="node5_4" href="./GetPreviousTimeOfChangeIfc.html" title="jsl.modeling.elements.variable.GetPreviousTimeOfChangeIfc" alt="" coords="325,11,502,50"/>
+<area shape="rect" id="node5" href="./GetPreviousTimeOfChangeIfc.html" title="&lt;TABLE&gt;" alt="" coords="314,6,513,55"/>
+</map>

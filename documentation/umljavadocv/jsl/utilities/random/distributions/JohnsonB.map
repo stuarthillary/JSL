@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../AbstractRandom.html" title="jsl.utilities.random.AbstractRandom" alt="" coords="16,11,123,47"/>
+<area shape="rect" id="node1" href="../AbstractRandom.html" title="&lt;TABLE&gt;" alt="" coords="5,5,133,53"/>
+<area shape="rect" id="node2_1" href="./JohnsonB.html" title="jsl.utilities.random.distributions.JohnsonB" alt="" coords="33,113,105,137"/>
+<area shape="rect" id="node2" href="./JohnsonB.html" title="&lt;TABLE&gt;" alt="" coords="23,101,116,149"/>
+<area shape="rect" id="node3_2" href="../rng/RngIfc.html" title="jsl.utilities.random.rng.RngIfc" alt="" coords="16,203,123,253"/>
+<area shape="rect" id="node3" href="../rng/RngIfc.html" title="&lt;TABLE&gt;" alt="" coords="5,197,133,259"/>
+</map>

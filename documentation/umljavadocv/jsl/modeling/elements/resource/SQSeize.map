@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../queue/Queue.html" title="jsl.modeling.elements.queue.Queue" alt="" coords="78,203,213,239"/>
+<area shape="rect" id="node1" href="../queue/Queue.html" title="&lt;TABLE&gt;" alt="" coords="67,197,223,245"/>
+<area shape="rect" id="node2_1" href="./SQSeize.html" title="jsl.modeling.elements.resource.SQSeize" alt="" coords="113,113,178,137"/>
+<area shape="rect" id="node2" href="./SQSeize.html" title="&lt;TABLE&gt;" alt="" coords="102,101,189,149"/>
+<area shape="rect" id="node3_2" href="./SeizeResources.html" title="jsl.modeling.elements.resource.SeizeResources" alt="" coords="15,17,121,41"/>
+<area shape="rect" id="node3" href="./SeizeResources.html" title="&lt;TABLE&gt;" alt="" coords="5,5,131,53"/>
+<area shape="rect" id="node4_3" href="./ResourcedActivity.html" title="jsl.modeling.elements.resource.ResourcedActivity" alt="" coords="167,17,281,41"/>
+<area shape="rect" id="node4" href="./ResourcedActivity.html" title="&lt;TABLE&gt;" alt="" coords="156,5,292,53"/>
+</map>

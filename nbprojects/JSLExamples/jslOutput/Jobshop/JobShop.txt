@@ -1,0 +1,511 @@
+-------------------------------------------------------
+
+Tue Jan 10 13:35:01 CST 2017
+Simulation Results for Model: Jobshop_Model
+
+-------------------------------------------------------
+ID 19
+Name w1Q : Number In Q
+Number 30.0
+Average 13.67653329736177
+Standard Deviation 3.5319509536386264
+Standard Error 0.6448430697699196
+Half-width 1.3188521524409227
+Confidence Level 0.95
+Confidence Interval [12.357681144920846, 14.995385449802694]
+Minimum 7.979073666080849
+Maximum 23.080002887826314
+Sum 410.2959989208531
+Variance 12.474677538908804
+Weighted Average 13.676533297361772
+Weighted Sum 410.29599892085315
+Sum of Weights 30.0
+Weighted Sum of Squares 5973.192539643709
+Deviation Sum of Squares 361.7656486283553
+Last value collected 8.801714342571795
+Last weighted collected 1.0
+Kurtosis 0.7107222882774076
+Skewness 0.9186158640491446
+Lag 1 Covariance -0.9298907859611802
+Lag 1 Correlation -0.07711269349261497
+Von Neumann Lag 1 Test Statistic -0.2339891189553541
+Number of missing observations 0.0
+Lead-Digit Rule(1) -1
+
+ID 20
+Name w1Q : Time In Q
+Number 30.0
+Average 3.4221966733527127
+Standard Deviation 0.8687484408664679
+Standard Error 0.15861103928666911
+Half-width 0.32439599705824934
+Confidence Level 0.95
+Confidence Interval [3.0978006762944634, 3.746592670410962]
+Minimum 2.0311031486434397
+Maximum 5.715475905143473
+Sum 102.66590020058138
+Variance 0.7547238535079187
+Weighted Average 3.4221966733527127
+Weighted Sum 102.66590020058138
+Sum of Weights 30.0
+Weighted Sum of Squares 373.2298938849209
+Deviation Sum of Squares 21.886991751729642
+Last value collected 2.204899761056062
+Last weighted collected 1.0
+Kurtosis 0.6441996014365569
+Skewness 0.900632216809551
+Lag 1 Covariance -0.053557722730148666
+Lag 1 Correlation -0.07341034803366646
+Von Neumann Lag 1 Test Statistic -0.20752075845440052
+Number of missing observations 0.0
+Lead-Digit Rule(1) -1
+
+ID 21
+Name w1NB
+Number 30.0
+Average 2.8758951079831316
+Standard Deviation 0.023825841980267094
+Standard Error 0.004349983701381948
+Half-width 0.008896715552355203
+Confidence Level 0.95
+Confidence Interval [2.8669983924307765, 2.884791823535487]
+Minimum 2.8364624170342503
+Maximum 2.947550690408097
+Sum 86.27685323949395
+Variance 5.676707460686579E-4
+Weighted Average 2.8758951079831316
+Weighted Sum 86.27685323949395
+Sum of Weights 30.0
+Weighted Sum of Squares 248.13964261527528
+Deviation Sum of Squares 0.01646245163599108
+Last value collected 2.8579186712641733
+Last weighted collected 1.0
+Kurtosis 1.4110992150394255
+Skewness 0.7198594842073806
+Lag 1 Covariance -1.117549020638838E-4
+Lag 1 Correlation -0.20365417837199778
+Von Neumann Lag 1 Test Statistic -1.0128584937674636
+Number of missing observations 0.0
+Lead-Digit Rule(1) -3
+
+ID 22
+Name w2Q : Number In Q
+Number 30.0
+Average 62.29835798302867
+Standard Deviation 48.52045019735169
+Standard Error 8.858581691131837
+Half-width 18.11783374688594
+Confidence Level 0.95
+Confidence Interval [44.18052423614273, 80.41619172991462]
+Minimum 21.97968533133904
+Maximum 243.9245345449448
+Sum 1868.95073949086
+Variance 2354.234087353686
+Weighted Average 62.2983579830287
+Weighted Sum 1868.950739490861
+Sum of Weights 30.0
+Weighted Sum of Squares 184705.35075470476
+Deviation Sum of Squares 68272.7885332569
+Last value collected 32.82675261350749
+Last weighted collected 1.0
+Kurtosis 6.537154513138716
+Skewness 2.3696225201445635
+Lag 1 Covariance -376.6559834296508
+Lag 1 Correlation -0.1655078069264045
+Von Neumann Lag 1 Test Statistic -0.8679005134874535
+Number of missing observations 0.0
+Lead-Digit Rule(1) 0
+
+ID 23
+Name w2Q : Time In Q
+Number 30.0
+Average 31.049564491730624
+Standard Deviation 23.879755527694716
+Standard Error 4.359826923409026
+Half-width 8.916847201691214
+Confidence Level 0.95
+Confidence Interval [22.13271729003941, 39.96641169342184]
+Minimum 10.977714355436657
+Maximum 120.36332012445622
+Sum 931.4869347519187
+Variance 570.2427240624663
+Weighted Average 31.049564491730635
+Weighted Sum 931.4869347519191
+Sum of Weights 30.0
+Weighted Sum of Squares 45459.30265159569
+Deviation Sum of Squares 16537.038997811524
+Last value collected 16.271276289530604
+Last weighted collected 1.0
+Kurtosis 6.504256977992204
+Skewness 2.3619170304789634
+Lag 1 Covariance -92.3231320358459
+Lag 1 Correlation -0.16748427342052663
+Von Neumann Lag 1 Test Statistic -0.877421351055303
+Number of missing observations 0.0
+Lead-Digit Rule(1) 0
+
+ID 24
+Name w2NB
+Number 30.0
+Average 1.9770590162453563
+Standard Deviation 0.020074122676441545
+Standard Error 0.0036650166040043375
+Half-width 0.0074958005498104805
+Confidence Level 0.95
+Confidence Interval [1.9695632156955458, 1.9845548167951668]
+Minimum 1.913312619277474
+Maximum 2.0
+Sum 59.31177048736069
+Variance 4.029704012288247E-4
+Weighted Average 1.9770590162453563
+Weighted Sum 59.31177048736069
+Sum of Weights 30.0
+Weighted Sum of Squares 117.27455675314734
+Deviation Sum of Squares 0.011686141635635916
+Last value collected 1.9799022424192827
+Last weighted collected 1.0
+Kurtosis 1.998569400532859
+Skewness -1.0606447645205068
+Lag 1 Covariance -1.489830725377376E-4
+Lag 1 Correlation -0.3824608938935657
+Von Neumann Lag 1 Test Statistic -2.1019209015980302
+Number of missing observations 0.0
+Lead-Digit Rule(1) -3
+
+ID 25
+Name w3Q : Number In Q
+Number 30.0
+Average 0.7353067474014536
+Standard Deviation 0.05100481005318071
+Standard Error 0.009312161669131114
+Half-width 0.01904550895707606
+Confidence Level 0.95
+Confidence Interval [0.7162612384443776, 0.7543522563585296]
+Minimum 0.625767661112571
+Maximum 0.8352052603282641
+Sum 22.059202422043608
+Variance 0.002601490648561044
+Weighted Average 0.7353067474014536
+Weighted Sum 22.059202422043608
+Sum of Weights 30.0
+Weighted Sum of Squares 16.295723612031427
+Deviation Sum of Squares 0.07544322880827027
+Last value collected 0.7627500706321596
+Last weighted collected 1.0
+Kurtosis -0.3635075920272976
+Skewness -0.3351517358623518
+Lag 1 Covariance -0.0010394425527744167
+Lag 1 Correlation -0.41333433199791836
+Von Neumann Lag 1 Test Statistic -2.2985441364439176
+Number of missing observations 0.0
+Lead-Digit Rule(1) -3
+
+ID 26
+Name w3Q : Time In Q
+Number 30.0
+Average 0.18404683089751736
+Standard Deviation 0.012006165076285522
+Standard Error 0.0021920158138041047
+Half-width 0.004483175689942012
+Confidence Level 0.95
+Confidence Interval [0.17956365520757533, 0.1885300065874594]
+Minimum 0.1583159146945534
+Maximum 0.207783177512256
+Sum 5.521404926925521
+Variance 1.4414799983901815E-4
+Weighted Average 0.18404683089751733
+Weighted Sum 5.52140492692552
+Sum of Weights 30.0
+Weighted Sum of Squares 1.0203773708979116
+Deviation Sum of Squares 0.0041802919953315264
+Last value collected 0.1910792300797033
+Last weighted collected 1.0
+Kurtosis -0.3963255313066771
+Skewness -0.3228776049000582
+Lag 1 Covariance -5.6005070127779685E-5
+Lag 1 Correlation -0.4019221876629081
+Von Neumann Lag 1 Test Statistic -2.230821924353848
+Number of missing observations 0.0
+Lead-Digit Rule(1) -3
+
+ID 27
+Name w3NB
+Number 30.0
+Average 2.8894624815765164
+Standard Deviation 0.022530443791186728
+Standard Error 0.004113477431678395
+Half-width 0.008413005922079426
+Confidence Level 0.95
+Confidence Interval [2.881049475654437, 2.8978754874985957]
+Minimum 2.840798555048643
+Maximum 2.939838945456949
+Sum 86.6838744472955
+Variance 5.076208974278246E-4
+Weighted Average 2.889462481576516
+Weighted Sum 86.68387444729548
+Sum of Weights 30.0
+Weighted Sum of Squares 250.48452397917507
+Deviation Sum of Squares 0.014721006025406913
+Last value collected 2.8757560390206836
+Last weighted collected 1.0
+Kurtosis 0.06901209261254218
+Skewness 0.018383011948586485
+Lag 1 Covariance -1.2532758598382543E-4
+Lag 1 Correlation -0.25540561378928145
+Von Neumann Lag 1 Test Statistic -1.4096587244535363
+Number of missing observations 0.0
+Lead-Digit Rule(1) -3
+
+ID 28
+Name w4Q : Number In Q
+Number 30.0
+Average 21.26203704036762
+Standard Deviation 11.418338628460779
+Standard Error 2.0846938786801896
+Half-width 4.263677688369626
+Confidence Level 0.95
+Confidence Interval [16.998359351997994, 25.525714728737245]
+Minimum 8.553722304400717
+Maximum 68.6650123722616
+Sum 637.8611112110286
+Variance 130.37845703419958
+Weighted Average 21.262037040367613
+Weighted Sum 637.8611112110284
+Sum of Weights 30.0
+Weighted Sum of Squares 17343.201827170724
+Deviation Sum of Squares 3780.9752539917877
+Last value collected 16.076022393349373
+Last weighted collected 1.0
+Kurtosis 9.866248506099417
+Skewness 2.7610899741988493
+Lag 1 Covariance 7.325146896692941
+Lag 1 Correlation 0.058121091025068516
+Von Neumann Lag 1 Test Statistic 0.36756234746645927
+Number of missing observations 0.0
+Lead-Digit Rule(1) 0
+
+ID 29
+Name w4Q : Time In Q
+Number 30.0
+Average 7.6090149139660985
+Standard Deviation 4.112119092580328
+Standard Error 0.7507667953846401
+Half-width 1.5354904944973553
+Confidence Level 0.95
+Confidence Interval [6.073524419468743, 9.144505408463454]
+Minimum 3.122870302643397
+Maximum 24.739004952342672
+Sum 228.27044741898297
+Variance 16.909523431563663
+Weighted Average 7.609014913966097
+Weighted Sum 228.2704474189829
+Sum of Weights 30.0
+Weighted Sum of Squares 2227.289418344102
+Deviation Sum of Squares 490.3761795153462
+Last value collected 5.7769233841272625
+Last weighted collected 1.0
+Kurtosis 10.02796048613448
+Skewness 2.7940077001977732
+Lag 1 Covariance 1.0178153696532963
+Lag 1 Correlation 0.06226742318474162
+Von Neumann Lag 1 Test Statistic 0.3895554991174239
+Number of missing observations 0.0
+Lead-Digit Rule(1) -1
+
+ID 30
+Name w4NB
+Number 30.0
+Average 2.9119935209571004
+Standard Deviation 0.02434901722500166
+Standard Error 0.004445501995738417
+Half-width 0.009092072398098248
+Confidence Level 0.95
+Confidence Interval [2.9029014485590023, 2.9210855933551985]
+Minimum 2.848817616328594
+Maximum 2.9501934154332976
+Sum 87.35980562871302
+Variance 5.928746398234275E-4
+Weighted Average 2.911993520957101
+Weighted Sum 87.35980562871302
+Sum of Weights 30.0
+Weighted Sum of Squares 254.40838134743873
+Deviation Sum of Squares 0.0171933645548794
+Last value collected 2.9131178399768416
+Last weighted collected 1.0
+Kurtosis 0.7478843531743126
+Skewness -0.798687408971263
+Lag 1 Covariance -1.4079803051127252E-4
+Lag 1 Correlation -0.24567273623820418
+Von Neumann Lag 1 Test Statistic -1.3666809009482421
+Number of missing observations 0.0
+Lead-Digit Rule(1) -3
+
+ID 31
+Name w5Q : Number In Q
+Number 30.0
+Average 1.971443135373078
+Standard Deviation 0.16353512197037703
+Standard Error 0.029857291749178064
+Half-width 0.061065017731383786
+Confidence Level 0.95
+Confidence Interval [1.910378117641694, 2.0325081531044615]
+Minimum 1.5524355757229094
+Maximum 2.2733221961381473
+Sum 59.143294061192336
+Variance 0.02674373611786609
+Weighted Average 1.9714431353730775
+Weighted Sum 59.14329406119232
+Sum of Weights 30.0
+Weighted Sum of Squares 117.37320942770704
+Deviation Sum of Squares 0.7755683474181165
+Last value collected 1.8326463329793343
+Last weighted collected 1.0
+Kurtosis -0.1491189101442649
+Skewness -0.3973646856036448
+Lag 1 Covariance 0.0034948019829213806
+Lag 1 Correlation 0.13518352036499365
+Von Neumann Lag 1 Test Statistic 0.9040298068372502
+Number of missing observations 0.0
+Lead-Digit Rule(1) -2
+
+ID 32
+Name w5Q : Time In Q
+Number 30.0
+Average 0.9866634987481742
+Standard Deviation 0.07775731770179696
+Standard Error 0.01419647897212332
+Half-width 0.029035059423291213
+Confidence Level 0.95
+Confidence Interval [0.957628439324883, 1.0156985581714655]
+Minimum 0.7891387060815577
+Maximum 1.1371269906530497
+Sum 29.599904962445226
+Variance 0.006046200456178188
+Weighted Average 0.9866634987481739
+Weighted Sum 29.59990496244522
+Sum of Weights 30.0
+Weighted Sum of Squares 29.380485606088804
+Deviation Sum of Squares 0.17533981322916745
+Last value collected 0.9163831615986805
+Last weighted collected 1.0
+Kurtosis -0.032248338520468475
+Skewness -0.3191913178354032
+Lag 1 Covariance 6.634370135403318E-4
+Lag 1 Correlation 0.11351164370294374
+Von Neumann Lag 1 Test Statistic 0.7965989100500687
+Number of missing observations 0.0
+Lead-Digit Rule(1) -2
+
+ID 33
+Name w5NB
+Number 30.0
+Average 0.7991855915286641
+Standard Deviation 0.009762786360428021
+Standard Error 0.0017824327712367295
+Half-width 0.0036454843156887053
+Confidence Level 0.95
+Confidence Interval [0.7955401072129754, 0.8028310758443528]
+Minimum 0.7790064427253414
+Maximum 0.8171962032000504
+Sum 23.975567745859923
+Variance 9.531199751935943E-5
+Weighted Average 0.7991855915286641
+Weighted Sum 23.975567745859923
+Sum of Weights 30.0
+Weighted Sum of Squares 19.16369233913869
+Deviation Sum of Squares 0.0027640479280614232
+Last value collected 0.8021875791287877
+Last weighted collected 1.0
+Kurtosis -0.6284531765860628
+Skewness -0.1708373443623959
+Lag 1 Covariance 7.110216423041512E-9
+Lag 1 Correlation 7.717177785728512E-5
+Von Neumann Lag 1 Test Statistic 0.054114641969836466
+Number of missing observations 0.0
+Lead-Digit Rule(1) -3
+
+ID 34
+Name ASystemTime
+Number 30.0
+Average 38.21293320578718
+Standard Deviation 24.402999636001915
+Standard Error 4.455357790476202
+Half-width 9.112229761514717
+Confidence Level 0.95
+Confidence Interval [29.10070344427246, 47.3251629673019]
+Minimum 17.290314824115207
+Maximum 130.29312659877044
+Sum 1146.3879961736154
+Variance 595.5063912347096
+Weighted Average 38.21293320578717
+Weighted Sum 1146.387996173615
+Sum of Weights 30.0
+Weighted Sum of Squares 61076.53327150516
+Deviation Sum of Squares 17269.685345806578
+Last value collected 22.14133673930064
+Last weighted collected 1.0
+Kurtosis 6.704527564235038
+Skewness 2.384095339996105
+Lag 1 Covariance -92.95303170041619
+Lag 1 Correlation -0.1614731765619349
+Von Neumann Lag 1 Test Statistic -0.8422836840388996
+Number of missing observations 0.0
+Lead-Digit Rule(1) 0
+
+ID 35
+Name BSystemTime
+Number 30.0
+Average 13.854110407914858
+Standard Deviation 4.391507930559034
+Standard Error 0.8017759850100046
+Half-width 1.639816000477721
+Confidence Level 0.95
+Confidence Interval [12.214294407437137, 15.493926408392579]
+Minimum 7.925334254503561
+Maximum 31.39556763450031
+Sum 415.62331223744576
+Variance 19.28534190416289
+Weighted Average 13.854110407914858
+Weighted Sum 415.62331223744576
+Sum of Weights 30.0
+Weighted Sum of Squares 6317.366171061566
+Deviation Sum of Squares 559.2749152207239
+Last value collected 10.805471794872695
+Last weighted collected 1.0
+Kurtosis 8.088052789600779
+Skewness 2.355117956881751
+Lag 1 Covariance 0.38554867040235763
+Lag 1 Correlation 0.02068117091843088
+Von Neumann Lag 1 Test Statistic 0.18839964351867225
+Number of missing observations 0.0
+Lead-Digit Rule(1) -1
+
+ID 36
+Name CSystemTime
+Number 30.0
+Average 47.16731413193788
+Standard Deviation 24.743713791774354
+Standard Error 4.517563400068833
+Half-width 9.239454517352465
+Confidence Level 0.95
+Confidence Interval [37.927859614585415, 56.40676864929034]
+Minimum 23.40767614373814
+Maximum 138.38315905976003
+Sum 1415.0194239581363
+Variance 612.2513722092443
+Weighted Average 47.167314131937886
+Weighted Sum 1415.0194239581365
+Sum of Weights 30.0
+Weighted Sum of Squares 84497.95546669528
+Deviation Sum of Squares 17755.289794068085
+Last value collected 29.207362769298374
+Last weighted collected 1.0
+Kurtosis 6.398806039192251
+Skewness 2.341739048922878
+Lag 1 Covariance -61.33604232013795
+Lag 1 Correlation -0.1036356652550327
+Von Neumann Lag 1 Test Statistic -0.5117832484321486
+Number of missing observations 0.0
+Lead-Digit Rule(1) 0
+
+-------------------------------------------------------

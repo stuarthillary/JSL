@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../ParametersIfc.html" title="jsl.utilities.random.ParametersIfc" alt="" coords="219,11,312,61"/>
+<area shape="rect" id="node1" href="../ParametersIfc.html" title="&lt;TABLE&gt;" alt="" coords="208,5,323,67"/>
+<area shape="rect" id="node5_1" href="./CDFIfc.html" title="jsl.utilities.random.distributions.CDFIfc" alt="" coords="227,121,304,159"/>
+<area shape="rect" id="node5" href="./CDFIfc.html" title="&lt;TABLE&gt;" alt="" coords="216,115,315,165"/>
+<area shape="rect" id="node2_2" href="./DistributionFunctionIfc.html" title="jsl.utilities.random.distributions.DistributionFunctionIfc" alt="" coords="15,219,153,258"/>
+<area shape="rect" id="node2" href="./DistributionFunctionIfc.html" title="&lt;TABLE&gt;" alt="" coords="5,214,163,263"/>
+<area shape="rect" id="node3_3" href="./DiscreteDistributionIfc.html" title="jsl.utilities.random.distributions.DiscreteDistributionIfc" alt="" coords="198,219,333,258"/>
+<area shape="rect" id="node3" href="./DiscreteDistributionIfc.html" title="&lt;TABLE&gt;" alt="" coords="187,214,343,263"/>
+<area shape="rect" id="node4_4" href="./ContinuousDistributionIfc.html" title="jsl.utilities.random.distributions.ContinuousDistributionIfc" alt="" coords="379,219,531,258"/>
+<area shape="rect" id="node4" href="./ContinuousDistributionIfc.html" title="&lt;TABLE&gt;" alt="" coords="368,214,541,263"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../../ModelElement.html" title="jsl.modeling.ModelElement" alt="" coords="49,206,144,242"/>
+<area shape="rect" id="node1" href="../../ModelElement.html" title="&lt;TABLE&gt;" alt="" coords="38,200,154,248"/>
+<area shape="rect" id="node2_1" href="../queue/Queue.html" title="jsl.modeling.elements.queue.Queue" alt="" coords="29,302,164,338"/>
+<area shape="rect" id="node2" href="../queue/Queue.html" title="&lt;TABLE&gt;" alt="" coords="18,296,174,344"/>
+<area shape="rect" id="node3_2" href="./ResourceProvider.html" title="jsl.modeling.elements.resource.ResourceProvider" alt="" coords="59,17,174,41"/>
+<area shape="rect" id="node3" href="./ResourceProvider.html" title="&lt;TABLE&gt;" alt="" coords="48,5,184,53"/>
+<area shape="rect" id="node4_3" href="./EntitySelectionRuleIfc.html" title="jsl.modeling.elements.resource.EntitySelectionRuleIfc" alt="" coords="49,107,184,146"/>
+<area shape="rect" id="node4" href="./EntitySelectionRuleIfc.html" title="&lt;TABLE&gt;" alt="" coords="38,102,194,151"/>
+</map>

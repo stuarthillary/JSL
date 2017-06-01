@@ -1,0 +1,32 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../../Model.html" title="jsl.modeling.Model" alt="" coords="232,11,297,47"/>
+<area shape="rect" id="node1" href="../../Model.html" title="&lt;TABLE&gt;" alt="" coords="221,5,308,53"/>
+<area shape="rect" id="node7_1" href="../resource/EntityType.html" title="jsl.modeling.elements.resource.EntityType" alt="" coords="192,107,337,143"/>
+<area shape="rect" id="node7" href="../resource/EntityType.html" title="&lt;TABLE&gt;" alt="" coords="181,101,348,149"/>
+<area shape="rect" id="node12_2" href="./TimeWeighted.html" title="jsl.modeling.elements.variable.TimeWeighted" alt="" coords="865,305,960,329"/>
+<area shape="rect" id="node12" href="./TimeWeighted.html" title="&lt;TABLE&gt;" alt="" coords="854,293,970,341"/>
+<area shape="rect" id="node13_3" href="./ResponseVariable.html" title="jsl.modeling.elements.variable.ResponseVariable" alt="" coords="340,209,455,233"/>
+<area shape="rect" id="node13" href="./ResponseVariable.html" title="&lt;TABLE&gt;" alt="" coords="330,197,466,245"/>
+<area shape="rect" id="node2_4" href="../../BatchingElement.html" title="jsl.modeling.BatchingElement" alt="" coords="36,107,146,143"/>
+<area shape="rect" id="node2" href="../../BatchingElement.html" title="&lt;TABLE&gt;" alt="" coords="26,101,156,149"/>
+<area shape="rect" id="node3_5" href="../queue/Queue.html" title="jsl.modeling.elements.queue.Queue" alt="" coords="509,107,644,143"/>
+<area shape="rect" id="node3" href="../queue/Queue.html" title="&lt;TABLE&gt;" alt="" coords="498,101,654,149"/>
+<area shape="rect" id="node14_6" href="./AggregateTimeWeightedVariable.html" title="jsl.modeling.elements.variable.AggregateTimeWeightedVariable" alt="" coords="551,209,743,233"/>
+<area shape="rect" id="node14" href="./AggregateTimeWeightedVariable.html" title="&lt;TABLE&gt;" alt="" coords="540,197,754,245"/>
+<area shape="rect" id="node4_7" href="../resource/ResourceSet.html" title="jsl.modeling.elements.resource.ResourceSet" alt="" coords="880,107,1025,143"/>
+<area shape="rect" id="node4" href="../resource/ResourceSet.html" title="&lt;TABLE&gt;" alt="" coords="869,101,1036,149"/>
+<area shape="rect" id="node6_8" href="../resource/Resource.html" title="jsl.modeling.elements.resource.Resource" alt="" coords="840,203,985,239"/>
+<area shape="rect" id="node6" href="../resource/Resource.html" title="&lt;TABLE&gt;" alt="" coords="829,197,996,245"/>
+<area shape="rect" id="node5_9" href="../resource/ResourceProvider.html" title="jsl.modeling.elements.resource.ResourceProvider" alt="" coords="692,11,837,47"/>
+<area shape="rect" id="node5" href="../resource/ResourceProvider.html" title="&lt;TABLE&gt;" alt="" coords="681,5,848,53"/>
+<area shape="rect" id="node8_10" href="../resource/EntityReceiver.html" title="jsl.modeling.elements.resource.EntityReceiver" alt="" coords="689,107,834,143"/>
+<area shape="rect" id="node8" href="../resource/EntityReceiver.html" title="&lt;TABLE&gt;" alt="" coords="678,101,845,149"/>
+<area shape="rect" id="node9_11" href="../spatial/transporter/TransporterSet.html" title="jsl.modeling.elements.spatial.transporter.TransporterSet" alt="" coords="1207,203,1391,239"/>
+<area shape="rect" id="node9" href="../spatial/transporter/TransporterSet.html" title="&lt;TABLE&gt;" alt="" coords="1196,197,1402,245"/>
+<area shape="rect" id="node10_12" href="../station/SingleQueueStation.html" title="jsl.modeling.elements.station.SingleQueueStation" alt="" coords="1079,11,1215,47"/>
+<area shape="rect" id="node10" href="../station/SingleQueueStation.html" title="&lt;TABLE&gt;" alt="" coords="1068,5,1226,53"/>
+<area shape="rect" id="node11_13" href="../station/DelayStation.html" title="jsl.modeling.elements.station.DelayStation" alt="" coords="1436,203,1572,239"/>
+<area shape="rect" id="node11" href="../station/DelayStation.html" title="&lt;TABLE&gt;" alt="" coords="1426,197,1583,245"/>
+<area shape="rect" id="node15_14" href="../../../observers/variable/PercentageOfTime.html" title="jsl.observers.variable.PercentageOfTime" alt="" coords="1618,203,1737,239"/>
+<area shape="rect" id="node15" href="../../../observers/variable/PercentageOfTime.html" title="&lt;TABLE&gt;" alt="" coords="1608,197,1748,245"/>
+</map>

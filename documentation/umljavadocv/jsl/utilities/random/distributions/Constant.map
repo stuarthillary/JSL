@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./VConstant.html" title="jsl.utilities.random.distributions.VConstant" alt="" coords="49,212,124,236"/>
+<area shape="rect" id="node1" href="./VConstant.html" title="&lt;TABLE&gt;" alt="" coords="39,200,135,248"/>
+<area shape="rect" id="node5_1" href="../rng/RngIfc.html" title="jsl.utilities.random.rng.RngIfc" alt="" coords="149,301,256,352"/>
+<area shape="rect" id="node5" href="../rng/RngIfc.html" title="&lt;TABLE&gt;" alt="" coords="139,296,267,357"/>
+<area shape="rect" id="node2_2" href="./Distribution.html" title="jsl.utilities.random.distributions.Distribution" alt="" coords="195,19,274,43"/>
+<area shape="rect" id="node2" href="./Distribution.html" title="&lt;TABLE&gt;" alt="" coords="185,7,285,55"/>
+<area shape="rect" id="node4_3" href="./Constant.html" title="jsl.utilities.random.distributions.Constant" alt="" coords="80,116,147,140"/>
+<area shape="rect" id="node4" href="./Constant.html" title="&lt;TABLE&gt;" alt="" coords="69,104,157,152"/>
+<area shape="rect" id="node3_4" href="./DiscreteDistributionIfc.html" title="jsl.utilities.random.distributions.DiscreteDistributionIfc" alt="" coords="15,11,150,50"/>
+<area shape="rect" id="node3" href="./DiscreteDistributionIfc.html" title="&lt;TABLE&gt;" alt="" coords="5,6,161,55"/>
+</map>
