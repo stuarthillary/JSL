@@ -1,0 +1,301 @@
+SimName,ModelName,ExpName,RepNum,ResponseType,ResponseID,ResponseName,Statistic Name,Count,Average,Minimum,Maximum,Weighted Sum,Sum of Weights,Weighted sum of squares
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,1,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,5025.0,0.5227013525641844,0.0,10.0,7840.520288462766,15000.0,25616.235133055456
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,1,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2511.0,3.122469250682105,0.0,42.00742266541238,7840.520288462766,2511.0,107322.03416278228
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,1,TimeWeighted,13,NumBusy,NumBusy,5024.0,0.49656663672829254,0.0,1.0,7448.499550924388,15000.0,7448.499550924388
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,1,TimeWeighted,14,# in System,# in System,5024.0,1.019267989292477,0.0,11.0,15289.019839387154,15000.0,48745.77526090546
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,1,ResponseVariable,15,System Time,System Time,2511.0,6.088817140337377,9.67556205978326E-4,45.168773056360806,15289.019839387154,2511.0,201822.0240020632
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,2,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4945.0,0.4869099345261065,0.0,8.0,7303.649017891597,15000.0,19731.06487598676
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,2,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2471.0,2.955746263816915,0.0,39.95369632616894,7303.649017891597,2471.0,80726.80730206968
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,2,TimeWeighted,13,NumBusy,NumBusy,4944.0,0.5016144718356705,0.0,1.0,7524.217077535059,15000.0,7524.217077535059
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,2,TimeWeighted,14,# in System,# in System,4944.0,0.9885244063617771,0.0,9.0,14827.866095426656,15000.0,41862.579989305
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,2,ResponseVariable,15,System Time,System Time,2471.0,6.000755198472949,0.00177030179384019,42.48408401806773,14827.866095426656,2471.0,169261.64709555262
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,3,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4844.0,0.39542055729909753,0.0,9.0,5931.308359486463,15000.0,14633.149290545472
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,3,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2420.0,2.4507318912791964,0.0,37.935435124914875,5930.771176895655,2420.0,61255.18201739237
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,3,TimeWeighted,13,NumBusy,NumBusy,4841.0,0.46747379050192855,0.0,1.0,7012.106857528928,15000.0,7012.106857528928
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,3,TimeWeighted,14,# in System,# in System,4842.0,0.8628943478010261,0.0,10.0,12943.415217015392,15000.0,33507.87286704728
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,3,ResponseVariable,15,System Time,System Time,2419.0,5.346726746345075,9.333367233921308E-4,40.86836840235446,12933.731999408736,2419.0,138642.063946296
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,4,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4919.0,0.49903675469551756,0.0,12.0,7485.5513204327635,15000.0,24777.371559910276
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,4,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2458.0,3.0453829619335897,0.0,41.52491816910333,7485.5513204327635,2458.0,96841.86312581236
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,4,TimeWeighted,13,NumBusy,NumBusy,4919.0,0.4914334218794771,0.0,1.0,7371.5013281921565,15000.0,7371.5013281921565
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,4,TimeWeighted,14,# in System,# in System,4919.0,0.9904701765749947,0.0,13.0,14857.05264862492,15000.0,47119.97552896799
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,4,ResponseVariable,15,System Time,System Time,2459.0,6.042510168292357,1.1429432197473943E-4,47.26263860437757,14858.532503830906,2459.0,185992.82750838267
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,5,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4974.0,0.46483635934554196,0.0,7.0,6972.54539018313,15000.0,18333.88016234479
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,5,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2486.0,2.8049517658851686,0.0,37.59033522168647,6973.11008999053,2486.0,74227.1689316304
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,5,TimeWeighted,13,NumBusy,NumBusy,4974.0,0.4995437102134247,0.0,1.0,7493.15565320137,15000.0,7493.15565320137
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,5,TimeWeighted,14,# in System,# in System,4973.0,0.9643800695589667,0.0,8.0,14465.7010433845,15000.0,39772.12659591243
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,5,ResponseVariable,15,System Time,System Time,2486.0,5.819753254273115,0.003994438373410958,39.02334126493952,14467.906590122964,2486.0,159236.8743236898
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,6,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4935.0,0.465561769033801,0.0,8.0,6983.426535507015,15000.0,18991.123634284675
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,6,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2466.0,2.8318842398649693,0.0,31.318148346156704,6983.426535507015,2466.0,78005.62444056386
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,6,TimeWeighted,13,NumBusy,NumBusy,4933.0,0.4942320861491084,0.0,1.0,7413.481292236626,15000.0,7413.481292236626
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,6,TimeWeighted,14,# in System,# in System,4933.0,0.9597938551829094,0.0,9.0,14396.90782774364,15000.0,40371.45799753514
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,6,ResponseVariable,15,System Time,System Time,2465.0,5.840072261910414,0.004511184128205059,34.01579126759407,14395.778125609171,2465.0,164372.31985452332
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,7,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4949.0,0.4986475252044768,0.0,9.0,7479.712878067152,15000.0,23447.378162527315
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,7,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2473.0,3.0245502944064504,0.0,39.41942355293759,7479.712878067152,2473.0,92299.11355184636
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,7,TimeWeighted,13,NumBusy,NumBusy,4949.0,0.4823508473105577,0.0,1.0,7235.262709658366,15000.0,7235.262709658366
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,7,TimeWeighted,14,# in System,# in System,4949.0,0.9809983725150345,0.0,10.0,14714.975587725517,15000.0,45642.06662832004
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,7,ResponseVariable,15,System Time,System Time,2474.0,5.947863834336777,7.597788571729325E-4,46.703207668469986,14715.015126149186,2474.0,179160.5486197775
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,8,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,5181.0,0.6209089832962584,0.0,10.0,9313.634749443876,15000.0,30512.49927432699
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,8,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2587.0,3.591959616423727,0.0,47.81873605711007,9292.399527688181,2587.0,122202.34189452254
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,8,TimeWeighted,13,NumBusy,NumBusy,5175.0,0.5275289885567683,0.0,1.0,7912.9348283515255,15000.0,7912.9348283515255
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,8,TimeWeighted,14,# in System,# in System,5179.0,1.1484379718530269,0.0,11.0,17226.569577795402,15000.0,57052.7036015663
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,8,ResponseVariable,15,System Time,System Time,2586.0,6.6500689500158945,9.150187161139911E-4,49.59472378407736,17197.078304741102,2586.0,227511.38865643917
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,9,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4904.0,0.42054213239836447,0.0,10.0,6308.131985975467,15000.0,17105.93297229677
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,9,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2450.0,2.5741060324090674,0.0,34.515839520901864,6306.559779402215,2450.0,62536.89658211121
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,9,TimeWeighted,13,NumBusy,NumBusy,4901.0,0.48383843630790146,0.0,1.0,7257.576544618522,15000.0,7257.576544618522
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,9,TimeWeighted,14,# in System,# in System,4902.0,0.9043805687062659,0.0,11.0,13565.708530593989,15000.0,36979.773488866296
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,9,ResponseVariable,15,System Time,System Time,2449.0,5.532995064478796,3.550700657797279E-4,48.25350313832496,13550.304912908572,2449.0,141467.0143302179
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,10,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,5004.0,0.5190799262839236,0.0,9.0,7786.198894258855,15000.0,23651.43747861705
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,10,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2499.0,3.10569846159838,0.0,43.865016086443575,7761.1404555343515,2499.0,93675.68772321436
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,10,TimeWeighted,13,NumBusy,NumBusy,4999.0,0.49143138523649255,0.0,1.0,7371.470778547388,15000.0,7371.470778547388
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,10,TimeWeighted,14,# in System,# in System,5002.0,1.0105113115204163,0.0,10.0,15157.669672806243,15000.0,46595.30604568224
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,10,ResponseVariable,15,System Time,System Time,2498.0,6.053694259347304,0.0025392509378434625,57.21544700065897,15122.128259849565,2498.0,183021.396533641
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,11,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4893.0,0.4927965568160344,0.0,8.0,7391.948352240516,15000.0,19454.71062685819
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,11,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2445.0,3.0232917596075732,0.0,33.944685904071775,7391.948352240516,2445.0,81120.23175860889
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,11,TimeWeighted,13,NumBusy,NumBusy,4891.0,0.5069861261956193,0.0,1.0,7604.7918929342895,15000.0,7604.7918929342895
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,11,TimeWeighted,14,# in System,# in System,4891.0,0.9997826830116537,0.0,9.0,14996.740245174806,15000.0,41843.39922427354
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,11,ResponseVariable,15,System Time,System Time,2444.0,6.135376673328359,0.005047535385529045,35.34427599279752,14994.860589614509,2444.0,172903.30873606823
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,12,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,5085.0,0.5878660568336483,0.0,13.0,8817.990852504725,15000.0,31469.93780086963
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,12,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2541.0,3.4702836885103205,0.0,47.36547018730016,8817.990852504725,2541.0,124268.20390089642
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,12,TimeWeighted,13,NumBusy,NumBusy,5084.0,0.5168119587486762,0.0,1.0,7752.179381230144,15000.0,7752.179381230144
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,12,TimeWeighted,14,# in System,# in System,5084.0,1.1046780155823246,0.0,14.0,16570.17023373487,15000.0,56858.0988871093
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,12,ResponseVariable,15,System Time,System Time,2541.0,6.521121697652448,0.0015536660666839452,49.52390963828293,16570.17023373487,2541.0,226407.4071051949
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,13,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,5062.0,0.5468003566587262,0.0,9.0,8202.005349880892,15000.0,25142.2377335127
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,13,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2529.0,3.242909783086085,0.0,41.65622405013346,8201.318841424709,2529.0,101255.50133465268
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,13,TimeWeighted,13,NumBusy,NumBusy,5060.0,0.5117004773988022,0.0,1.0,7675.507160982033,15000.0,7675.507160982033
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,13,TimeWeighted,14,# in System,# in System,5061.0,1.0585008340575284,0.0,10.0,15877.512510862925,15000.0,49221.75559425656
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,13,ResponseVariable,15,System Time,System Time,2529.0,6.278872858000437,0.0013596383796539158,44.98163149464381,15879.269457883103,2529.0,198067.0455220738
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,14,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4952.0,0.5025761685274378,0.0,9.0,7538.6425279115665,15000.0,23444.31381530495
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,14,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2476.0,3.0572505196622637,0.0,33.15185471044606,7569.752286683765,2476.0,91184.76705399655
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,14,TimeWeighted,13,NumBusy,NumBusy,4954.0,0.4958120276559869,0.0,1.0,7437.180414839804,15000.0,7437.180414839804
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,14,TimeWeighted,14,# in System,# in System,4951.0,0.9983881961834247,0.0,10.0,14975.82294275137,15000.0,45958.77928596795
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,14,ResponseVariable,15,System Time,System Time,2476.0,6.0646755622220665,1.9017116392205935E-4,35.81219219057493,15016.136692061837,2476.0,182247.9511935335
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,15,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4942.0,0.49563828398059684,0.0,8.0,7434.574259708953,15000.0,22321.82372650854
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,15,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2469.0,3.011088988191848,0.0,41.36856084186729,7434.378711845672,2469.0,93943.71804580459
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,15,TimeWeighted,13,NumBusy,NumBusy,4939.0,0.49807072621047144,0.0,1.0,7471.060893157071,15000.0,7471.060893157071
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,15,TimeWeighted,14,# in System,# in System,4940.0,0.9937090101910683,0.0,9.0,14905.635152866023,15000.0,44662.033139083585
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,15,ResponseVariable,15,System Time,System Time,2468.0,6.038076584941047,0.004752028295115451,44.58663820651054,14901.973011634504,2468.0,184526.86434056523
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,16,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,5118.0,0.5942701075740876,0.0,13.0,8914.051613611315,15000.0,33879.529392941244
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,16,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2560.0,3.4896603844814846,0.0,56.66087645723019,8933.530584272601,2560.0,135401.11394036887
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,16,TimeWeighted,13,NumBusy,NumBusy,5122.0,0.5142566694862738,0.0,1.0,7713.850042294107,15000.0,7713.850042294107
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,16,TimeWeighted,14,# in System,# in System,5117.0,1.1085267770603615,0.0,14.0,16627.90165590542,15000.0,59421.48266245788
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,16,ResponseVariable,15,System Time,System Time,2560.0,6.506153578806398,2.3150872766564135E-4,63.30140113818197,16655.75316174438,2560.0,235868.81404445952
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,17,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4976.0,0.5206679834871276,0.0,10.0,7810.019752306914,15000.0,25167.13210507935
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,17,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2486.0,3.1394155032064104,0.0,46.432202566011256,7804.586940971137,2486.0,106222.061678971
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,17,TimeWeighted,13,NumBusy,NumBusy,4974.0,0.5035764217662428,0.0,1.0,7553.646326493642,15000.0,7553.646326493642
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,17,TimeWeighted,14,# in System,# in System,4975.0,1.0242444052533703,0.0,11.0,15363.666078800556,15000.0,48340.817936186795
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,17,ResponseVariable,15,System Time,System Time,2486.0,6.175895229809274,0.004053694043250289,50.03609893932298,15353.275541305857,2486.0,198658.99011860095
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,18,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4885.0,0.3753114860758422,0.0,7.0,5629.672291137633,15000.0,12948.08632791342
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,18,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2441.0,2.3062975383603574,0.0,25.86458371982735,5629.672291137633,2441.0,50958.98784236566
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,18,TimeWeighted,13,NumBusy,NumBusy,4884.0,0.4741189661532845,0.0,1.0,7111.784492299268,15000.0,7111.784492299268
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,18,TimeWeighted,14,# in System,# in System,4884.0,0.8494304522291267,0.0,8.0,12741.4567834369,15000.0,31319.215402487887
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,18,ResponseVariable,15,System Time,System Time,2441.0,5.217393339837763,9.397886115039E-4,30.907880823919186,12735.657142543978,2441.0,123666.01957791556
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,19,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4840.0,0.3834944505059006,0.0,8.0,5752.4167575885085,15000.0,14258.797799584612
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,19,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2418.0,2.3780297495512417,0.0,28.775319636048152,5750.075934414902,2418.0,54541.93261945581
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,19,TimeWeighted,13,NumBusy,NumBusy,4837.0,0.4614750462168948,0.0,1.0,6922.125693253422,15000.0,6922.125693253422
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,19,TimeWeighted,14,# in System,# in System,4838.0,0.8449694967227953,0.0,9.0,12674.54245084193,15000.0,32685.757008015054
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,19,ResponseVariable,15,System Time,System Time,2417.0,5.239352224379334,4.6191337060008664E-4,30.259984455031372,12663.51432632485,2417.0,126745.3303371327
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,20,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,5151.0,0.5809979811225349,0.0,9.0,8714.969716838023,15000.0,27814.391894261484
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,20,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2574.0,3.3857691207606924,0.0,37.280890188783815,8714.969716838023,2574.0,112546.90080653914
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,20,TimeWeighted,13,NumBusy,NumBusy,5150.0,0.5325820188905996,0.0,1.0,7988.730283358995,15000.0,7988.730283358995
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,20,TimeWeighted,14,# in System,# in System,5150.0,1.1135800000131344,0.0,10.0,16703.700000197015,15000.0,53233.06161129678
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,20,ResponseVariable,15,System Time,System Time,2574.0,6.4897019073363955,0.0011385805191821419,40.14545411589461,16704.492709483882,2574.0,214693.31118778622
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,21,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,5034.0,0.5645648872830238,0.0,14.0,8468.473309245357,15000.0,30843.203099149083
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,21,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2516.0,3.3675890108211624,0.0,42.9612176212795,8472.853951226045,2516.0,111051.88528518876
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,21,TimeWeighted,13,NumBusy,NumBusy,5034.0,0.5064432429525583,0.0,1.0,7596.648644288373,15000.0,7596.648644288373
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,21,TimeWeighted,14,# in System,# in System,5033.0,1.071008130235582,0.0,15.0,16065.121953533731,15000.0,55376.79836192813
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,21,ResponseVariable,15,System Time,System Time,2516.0,6.386731359574239,5.252665378066013E-4,46.939880428553806,16069.016100688785,2516.0,206043.33474242644
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,22,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4879.0,0.4493879647876255,0.0,12.0,6740.819471814382,15000.0,20894.94035599318
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,22,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2438.0,2.7648972402848164,0.0,36.130509654869456,6740.819471814382,2438.0,80920.0287974416
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,22,TimeWeighted,13,NumBusy,NumBusy,4879.0,0.47410923713284353,0.0,1.0,7111.638556992653,15000.0,7111.638556992653
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,22,TimeWeighted,14,# in System,# in System,4879.0,0.923497201920469,0.0,13.0,13852.458028807036,15000.0,41488.21785661459
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,22,ResponseVariable,15,System Time,System Time,2439.0,5.680003004377215,0.0030328926895890618,39.38701957344165,13853.527327676027,2439.0,163056.40062975566
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,23,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,5013.0,0.40693539427715136,0.0,7.0,6104.030914157271,15000.0,14873.694195945222
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,23,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2505.0,2.436738887887134,0.0,27.899795791807264,6104.030914157271,2505.0,57968.256695287535
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,23,TimeWeighted,13,NumBusy,NumBusy,5013.0,0.4878394705312712,0.0,1.0,7317.592057969068,15000.0,7317.592057969068
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,23,TimeWeighted,14,# in System,# in System,5013.0,0.8947748648084226,0.0,8.0,13421.622972126339,15000.0,34399.3480822288
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,23,ResponseVariable,15,System Time,System Time,2506.0,5.355966585909179,0.00235265948867891,34.91762662650035,13422.052264288404,2506.0,136027.88107925298
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,24,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4915.0,0.5231087522203507,0.0,11.0,7846.63128330526,15000.0,24837.55025412782
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,24,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2456.0,3.1948824443425323,0.0,40.26779490397348,7846.63128330526,2456.0,103179.35267832315
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,24,TimeWeighted,13,NumBusy,NumBusy,4913.0,0.5013560238560512,0.0,1.0,7520.340357840768,15000.0,7520.340357840768
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,24,TimeWeighted,14,# in System,# in System,4913.0,1.0244647760764019,0.0,12.0,15366.971641146029,15000.0,48051.15317857916
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,24,ResponseVariable,15,System Time,System Time,2455.0,6.258275473532612,0.0016087949570646742,43.052130955858956,15364.06628752256,2455.0,198391.72729594796
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,25,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4833.0,0.4455257076658875,0.0,8.0,6682.885614988312,15000.0,19229.960692602708
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,25,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2415.0,2.7672404202850154,0.0,43.20049349162491,6682.885614988312,2415.0,80990.29840121909
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,25,TimeWeighted,13,NumBusy,NumBusy,4832.0,0.4810245752315596,0.0,1.0,7215.368628473394,15000.0,7215.368628473394
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,25,TimeWeighted,14,# in System,# in System,4832.0,0.9265502828974471,0.0,9.0,13898.254243461706,15000.0,39811.10055105266
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,25,ResponseVariable,15,System Time,System Time,2415.0,5.754970701226379,6.952043822820997E-4,43.26013632334343,13898.254243461706,2415.0,163912.41062018235
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,26,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,5105.0,0.5632177632834399,0.0,10.0,8448.266449251598,15000.0,26291.435052090088
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,26,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2550.0,3.311222578067526,0.0,39.9991388508206,8443.617574072192,2550.0,106672.27809013982
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,26,TimeWeighted,13,NumBusy,NumBusy,5101.0,0.5146185419593639,0.0,1.0,7719.278129390457,15000.0,7719.278129390457
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,26,TimeWeighted,14,# in System,# in System,5103.0,1.0778363052428037,0.0,11.0,16167.544578642055,15000.0,50907.246079983735
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,26,ResponseVariable,15,System Time,System Time,2549.0,6.339127627869926,0.01727127766571357,41.25921035886586,16158.43632344044,2549.0,204666.53907401583
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,27,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4872.0,0.4972880705104333,0.0,9.0,7459.321057656499,15000.0,19726.236739341657
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,27,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2436.0,3.0652264044573783,0.0,39.25590253435439,7466.891521258173,2436.0,81560.3804083498
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,27,TimeWeighted,13,NumBusy,NumBusy,4875.0,0.4917681805130783,0.0,1.0,7376.522707696175,15000.0,7376.522707696175
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,27,TimeWeighted,14,# in System,# in System,4872.0,0.9890562510235115,0.0,10.0,14835.843765352673,15000.0,42021.40156235063
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,27,ResponseVariable,15,System Time,System Time,2437.0,6.092398272047396,2.6734200218925253E-5,44.46524775049147,14847.174588979506,2437.0,172426.32847643355
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,28,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4931.0,0.42978503715591004,0.0,9.0,6446.77555733865,15000.0,18046.984819572164
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,28,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2464.0,2.616386183984842,0.0,43.197264130805706,6446.77555733865,2464.0,80718.74736952067
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,28,TimeWeighted,13,NumBusy,NumBusy,4930.0,0.4783047663824732,0.0,1.0,7174.571495737098,15000.0,7174.571495737098
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,28,TimeWeighted,14,# in System,# in System,4930.0,0.9080898035383833,0.0,10.0,13621.34705307575,15000.0,38115.10742998661
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,28,ResponseVariable,15,System Time,System Time,2464.0,5.5278229580644425,7.850665861042216E-4,47.41648541164432,13620.555768670785,2464.0,162867.95224067138
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,29,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4979.0,0.4556489845964735,0.0,8.0,6834.734768947103,15000.0,18333.081778438926
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,29,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2488.0,2.7470798910559093,0.0,30.266787364013,6834.734768947103,2488.0,71033.5371441272
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,29,TimeWeighted,13,NumBusy,NumBusy,4978.0,0.4882873686323809,0.0,1.0,7324.310529485714,15000.0,7324.310529485714
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,29,TimeWeighted,14,# in System,# in System,4978.0,0.9439363532288545,0.0,9.0,14159.045298432817,15000.0,39326.86184581885
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,29,ResponseVariable,15,System Time,System Time,2488.0,5.692244192423899,2.224821309937397E-4,32.21772318697367,14162.30355075066,2488.0,153459.05228770938
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,30,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4977.0,0.41742200517250366,0.0,9.0,6261.330077587555,15000.0,16098.397717052849
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,30,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2487.0,2.517623674140553,0.0,40.546688121139596,6261.330077587555,2487.0,65915.13611991648
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,30,TimeWeighted,13,NumBusy,NumBusy,4976.0,0.48307292514159783,0.0,1.0,7246.093877123967,15000.0,7246.093877123967
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,30,TimeWeighted,14,# in System,# in System,4976.0,0.9004949303141014,0.0,10.0,13507.423954711521,15000.0,35867.15174935197
+Drive Through Pharmacy,Drive Through Pharmacy_Model,1st Run,30,ResponseVariable,15,System Time,System Time,2487.0,5.431211883679744,0.0033316051467409125,46.69820575306949,13507.423954711523,2487.0,145783.32534238006
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,1,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4865.0,0.026808164176128777,0.0,4.0,402.12246264193163,15000.0,575.6018492799321
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,1,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2431.0,0.16541442313530713,0.0,8.415272487169204,402.12246264193163,2431.0,1233.8854904454167
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,1,TimeWeighted,13,NumBusy,NumBusy,4863.0,0.4774946742984322,0.0,2.0,7162.420114476483,15000.0,9878.729693866715
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,1,TimeWeighted,14,# in System,# in System,4863.0,0.5043028384745609,0.0,6.0,7564.542577118415,15000.0,12062.821393714374
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,1,ResponseVariable,15,System Time,System Time,2430.0,3.111502802984633,9.021856276376639E-4,28.59152482420177,7560.951811252658,2430.0,46529.924734358654
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,2,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4905.0,0.03103096439683547,0.0,3.0,465.464465952532,15000.0,685.8880626084092
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,2,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2451.0,0.1899079828447703,0.0,7.161143969675322,465.464465952532,2451.0,1506.060002731523
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,2,TimeWeighted,13,NumBusy,NumBusy,4905.0,0.5030393855434105,0.0,2.0,7545.590783151158,15000.0,10660.166678067057
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,2,TimeWeighted,14,# in System,# in System,4905.0,0.5340703499402459,0.0,5.0,8011.05524910369,15000.0,13207.912604485595
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,2,ResponseVariable,15,System Time,System Time,2452.0,3.26832675425944,5.502791282196995E-4,28.52450558623059,8013.937201444146,2452.0,50970.26955431057
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,3,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4827.0,0.031476375980135585,0.0,4.0,472.1456397020338,15000.0,687.4310212061191
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,3,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2412.0,0.19574860684163922,0.0,8.52310489492811,472.1456397020338,2412.0,1617.6587445104929
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,3,TimeWeighted,13,NumBusy,NumBusy,4826.0,0.47321694486811966,0.0,2.0,7098.2541730217945,15000.0,9827.818714312649
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,3,TimeWeighted,14,# in System,# in System,4826.0,0.5046933208482552,0.0,6.0,7570.399812723828,15000.0,12403.832294326903
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,3,ResponseVariable,15,System Time,System Time,2412.0,3.1386400550264626,0.0010445027346577263,21.046318100412464,7570.399812723828,2412.0,47074.06232600678
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,4,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,5201.0,0.026887572567561437,0.0,5.0,403.31358851342156,15000.0,606.6909925770742
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,4,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2599.0,0.15518029569581437,0.0,6.859685836201606,403.31358851342156,2599.0,1189.6842999257356
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,4,TimeWeighted,13,NumBusy,NumBusy,5200.0,0.5072378877163535,0.0,2.0,7608.568315745301,15000.0,10639.118023003542
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,4,TimeWeighted,14,# in System,# in System,5200.0,0.5341254602839148,0.0,7.0,8011.881904258723,15000.0,12859.063369634305
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,4,ResponseVariable,15,System Time,System Time,2599.0,3.079716566849488,5.237268669588957E-5,22.929723123334043,8004.18335724182,2599.0,48296.55398572306
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,5,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4823.0,0.02947704436937553,0.0,4.0,442.155665540633,15000.0,661.2884334420542
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,5,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2410.0,0.1834670811371921,0.0,12.808823471954383,442.155665540633,2410.0,1701.0519653047222
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,5,TimeWeighted,13,NumBusy,NumBusy,4821.0,0.49547206214528905,0.0,2.0,7432.080932179336,15000.0,10316.027514342259
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,5,TimeWeighted,14,# in System,# in System,4821.0,0.5249491065146646,0.0,6.0,7874.236597719969,15000.0,12745.938609946847
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,5,ResponseVariable,15,System Time,System Time,2409.0,3.268285616609657,3.7248278749757446E-4,24.135577395238215,7873.300050412664,2409.0,49857.893197114376
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,6,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4993.0,0.03716574623153107,0.0,5.0,557.4861934729661,15000.0,1031.7829438336767
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,6,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2495.0,0.22344136010940524,0.0,11.767615003446735,557.4861934729661,2495.0,2495.6000306355686
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,6,TimeWeighted,13,NumBusy,NumBusy,4993.0,0.4920790787995135,0.0,2.0,7381.186181992703,15000.0,10283.453480707347
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,6,TimeWeighted,14,# in System,# in System,4993.0,0.5292448250310445,0.0,7.0,7938.672375465669,15000.0,13545.181198432887
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,6,ResponseVariable,15,System Time,System Time,2496.0,3.181253533041043,3.5600266346591525E-4,25.250576546438424,7940.408818470444,2496.0,49205.12423083723
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,7,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4995.0,0.03024180748137181,0.0,4.0,453.62711222057715,15000.0,725.0775855397378
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,7,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2496.0,0.18174163149862865,0.0,8.569281899726775,453.62711222057715,2496.0,1661.5150201571437
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,7,TimeWeighted,13,NumBusy,NumBusy,4994.0,0.49633254220246253,0.0,2.0,7444.988133036938,15000.0,10397.25080064463
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,7,TimeWeighted,14,# in System,# in System,4994.0,0.5265743496838343,0.0,6.0,7898.615245257515,15000.0,12936.836835066675
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,7,ResponseVariable,15,System Time,System Time,2496.0,3.16469369128095,9.651973377913237E-4,25.217194873901462,7899.075453437252,2496.0,49161.05231620727
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,8,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,5167.0,0.04555456250380679,0.0,7.0,683.3184375571018,15000.0,1616.6568474923897
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,8,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2582.0,0.26464695490205337,0.0,16.27441552522032,683.3184375571018,2582.0,4132.64864828192
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,8,TimeWeighted,13,NumBusy,NumBusy,5165.0,0.5247286549576456,0.0,2.0,7870.9298243646845,15000.0,11202.484925807452
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,8,TimeWeighted,14,# in System,# in System,5165.0,0.5702832174614524,0.0,9.0,8554.248261921786,15000.0,15552.415523528249
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,8,ResponseVariable,15,System Time,System Time,2581.0,3.3124614272849007,7.895318194641732E-4,35.22508255368666,8549.46294382233,2581.0,55738.96597342395
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,9,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,5061.0,0.03463498114874546,0.0,4.0,519.524717231182,15000.0,821.6688284215697
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,9,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2529.0,0.20542693445282006,0.0,10.50525058680978,519.524717231182,2529.0,1886.9819188344882
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,9,TimeWeighted,13,NumBusy,NumBusy,5060.0,0.510631751453795,0.0,2.0,7659.476271806926,15000.0,10763.039981629681
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,9,TimeWeighted,14,# in System,# in System,5060.0,0.5452667326025405,0.0,6.0,8179.000989038108,15000.0,13662.807678975978
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,9,ResponseVariable,15,System Time,System Time,2529.0,3.2340850095049856,0.007810297371179331,28.363559286102827,8179.000989038108,2529.0,52483.279862596246
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,10,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4983.0,0.03190182138877984,0.0,6.0,478.5273208316976,15000.0,880.7660418558262
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,10,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2490.0,0.19217964692036046,0.0,9.574742435258486,478.5273208316976,2490.0,1889.442599881918
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,10,TimeWeighted,13,NumBusy,NumBusy,4982.0,0.4905238428625022,0.0,2.0,7357.8576429375335,15000.0,10285.743024887548
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,10,TimeWeighted,14,# in System,# in System,4982.0,0.5224256642512821,0.0,8.0,7836.384963769231,15000.0,13080.618350070165
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,10,ResponseVariable,15,System Time,System Time,2490.0,3.147142555730615,0.003501904138829559,23.91313537893984,7836.384963769231,2490.0,48581.92979271514
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,11,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4915.0,0.029860858870737018,0.0,5.0,447.91288306105525,15000.0,669.7621125088826
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,11,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2456.0,0.18237495238642315,0.0,13.417220533836371,447.91288306105525,2456.0,1874.462922038296
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,11,TimeWeighted,13,NumBusy,NumBusy,4914.0,0.4688189752701309,0.0,2.0,7032.284629051964,15000.0,9766.893420163698
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,11,TimeWeighted,14,# in System,# in System,4914.0,0.4986798341408679,0.0,7.0,7480.197512113019,15000.0,12228.3070649168
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,11,ResponseVariable,15,System Time,System Time,2456.0,3.0456830261046495,0.002860113835595257,29.368333956226707,7480.197512113019,2456.0,45924.28134959575
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,12,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,5085.0,0.03686553027504639,0.0,4.0,552.9829541256959,15000.0,926.0842406508973
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,12,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2541.0,0.21762414566143087,0.0,11.148549192654173,552.9829541256959,2541.0,2179.579854069278
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,12,TimeWeighted,13,NumBusy,NumBusy,5082.0,0.5230864380402891,0.0,2.0,7846.296570604336,15000.0,11117.541772814742
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,12,TimeWeighted,14,# in System,# in System,5082.0,0.5599519683153354,0.0,6.0,8399.279524730031,15000.0,14255.557829968424
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,12,ResponseVariable,15,System Time,System Time,2539.0,3.3066301572620334,9.597704083716962E-4,20.89781472269351,8395.533969288303,2539.0,53841.6425493274
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,13,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,5121.0,0.03165944136406864,0.0,4.0,474.89162046102956,15000.0,746.563363824248
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,13,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2559.0,0.1855770302700389,0.0,10.75834423631568,474.89162046102956,2559.0,1603.9901927215403
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,13,TimeWeighted,13,NumBusy,NumBusy,5119.0,0.5139916614077044,0.0,2.0,7709.874921115565,15000.0,10845.569811813872
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,13,TimeWeighted,14,# in System,# in System,5119.0,0.545651102771773,0.0,6.0,8184.766541576594,15000.0,13491.699657482239
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,13,ResponseVariable,15,System Time,System Time,2558.0,3.198522967174266,1.911499202833511E-5,23.69032098556636,8181.821750031772,2558.0,50481.61836260398
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,14,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4941.0,0.02823455760051808,0.0,4.0,423.5183640077712,15000.0,640.9604176788171
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,14,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2469.0,0.17153437181359707,0.0,10.615563020317495,423.5183640077712,2469.0,1585.358961683868
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,14,TimeWeighted,13,NumBusy,NumBusy,4941.0,0.4871198679384127,0.0,2.0,7306.798019076191,15000.0,10239.915482155517
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,14,TimeWeighted,14,# in System,# in System,4941.0,0.5153544255389308,0.0,6.0,7730.316383083962,15000.0,12574.94935586542
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,14,ResponseVariable,15,System Time,System Time,2470.0,3.1304521504266987,4.2501077587075997E-4,19.969883011695856,7732.216811553946,2470.0,46090.94174542979
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,15,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4969.0,0.031471949463019885,0.0,4.0,472.07924194529824,15000.0,739.9250202949488
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,15,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2483.0,0.19012454367511003,0.0,7.734706544402798,472.07924194529824,2483.0,1567.5481991854197
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,15,TimeWeighted,13,NumBusy,NumBusy,4967.0,0.4880548147717924,0.0,2.0,7320.8222215768865,15000.0,10204.012341466954
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,15,TimeWeighted,14,# in System,# in System,4967.0,0.5195267642348124,0.0,6.0,7792.901463522185,15000.0,12832.254329543095
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,15,ResponseVariable,15,System Time,System Time,2482.0,3.1368819747893766,6.87712026774534E-4,23.281371197921544,7785.741061427232,2482.0,48311.827566629
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,16,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,5003.0,0.03399308132696024,0.0,5.0,509.89621990440355,15000.0,974.512751035083
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,16,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2500.0,0.20395848796176141,0.0,16.9304459466548,509.89621990440355,2500.0,2481.378055013907
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,16,TimeWeighted,13,NumBusy,NumBusy,5002.0,0.49255285903209844,0.0,2.0,7388.292885481476,15000.0,10279.801320915123
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,16,TimeWeighted,14,# in System,# in System,5002.0,0.5265459403590587,0.0,7.0,7898.18910538588,15000.0,13293.89895156782
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,16,ResponseVariable,15,System Time,System Time,2500.0,3.159275642154352,5.01588496263139E-4,31.149508173362847,7898.18910538588,2500.0,48212.85612932965
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,17,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4963.0,0.0326739742412894,0.0,4.0,490.10961361934096,15000.0,798.3662613701199
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,17,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2480.0,0.19762484420134716,0.0,10.655396901438507,490.10961361934096,2480.0,1893.2554548358944
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,17,TimeWeighted,13,NumBusy,NumBusy,4961.0,0.5070838789660138,0.0,2.0,7606.258184490207,15000.0,10661.602047316206
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,17,TimeWeighted,14,# in System,# in System,4961.0,0.5397578532073032,0.0,6.0,8096.367798109548,15000.0,13420.40676316369
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,17,ResponseVariable,15,System Time,System Time,2479.0,3.265827078469217,1.5424426237586886E-4,25.46609742948749,8095.98532752519,2479.0,50089.112930483294
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,18,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4929.0,0.024277510366610477,0.0,4.0,364.16265549915715,15000.0,568.9441444965641
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,18,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2463.0,0.14785329090505772,0.0,9.740500690018962,364.16265549915715,2463.0,1308.3668814747898
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,18,TimeWeighted,13,NumBusy,NumBusy,4928.0,0.48663484355051523,0.0,2.0,7299.522653257728,15000.0,10100.846359624837
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,18,TimeWeighted,14,# in System,# in System,4928.0,0.5109123539171256,0.0,6.0,7663.685308756885,15000.0,12126.441126118028
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,18,ResponseVariable,15,System Time,System Time,2463.0,3.1115246888984514,5.177403745619813E-4,23.011870535183334,7663.685308756885,2463.0,45469.70693121207
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,19,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4929.0,0.022147945556398554,0.0,3.0,332.2191833459783,15000.0,450.35224521036434
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,19,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2463.0,0.13488395588549668,0.0,9.754808837577002,332.2191833459783,2463.0,1050.4204028551837
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,19,TimeWeighted,13,NumBusy,NumBusy,4927.0,0.48291051640873056,0.0,2.0,7243.657746130958,15000.0,9860.307477623279
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,19,TimeWeighted,14,# in System,# in System,4927.0,0.505058461965129,0.0,5.0,7575.876929476936,15000.0,11639.536456217556
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,19,ResponseVariable,15,System Time,System Time,2462.0,3.0783364141986516,1.736955327942269E-4,19.423063247806567,7578.86425175708,2462.0,44706.42059186105
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,20,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,5053.0,0.03573843686921076,0.0,5.0,536.0765530381614,15000.0,845.3344436185562
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,20,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2525.0,0.21230754575768768,0.0,9.99151497904495,536.0765530381614,2525.0,2023.1049724257502
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,20,TimeWeighted,13,NumBusy,NumBusy,5052.0,0.5187660679206512,0.0,2.0,7781.491018809767,15000.0,11063.721629207505
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,20,TimeWeighted,14,# in System,# in System,5052.0,0.5545045047898619,0.0,7.0,8317.567571847929,15000.0,14053.362284978706
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,20,ResponseVariable,15,System Time,System Time,2525.0,3.2940861670684867,0.0019560916771297343,23.407095417382152,8317.567571847929,2525.0,52746.01069494103
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,21,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,5015.0,0.026403767717000846,0.0,4.0,396.0565157550127,15000.0,580.7621175328159
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,21,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2506.0,0.15804330237630196,0.0,9.952609645040866,396.0565157550127,2506.0,1340.4605475597568
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,21,TimeWeighted,13,NumBusy,NumBusy,5015.0,0.4843050632040669,0.0,2.0,7264.575948061004,15000.0,10082.076894507623
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,21,TimeWeighted,14,# in System,# in System,5015.0,0.5107088309210678,0.0,6.0,7660.632463816017,15000.0,12247.065075060491
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,21,ResponseVariable,15,System Time,System Time,2507.0,3.0560615260808204,0.001133073619712377,18.771100561570165,7661.546245884617,2507.0,44506.64518207117
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,22,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4827.0,0.034225520874152426,0.0,6.0,513.3828131122864,15000.0,992.8139376550589
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,22,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2412.0,0.2128452790681121,0.0,16.369187305054766,513.3828131122864,2412.0,2550.815172990436
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,22,TimeWeighted,13,NumBusy,NumBusy,4826.0,0.4731274968829079,0.0,2.0,7096.912453243618,15000.0,9756.872439794135
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,22,TimeWeighted,14,# in System,# in System,4826.0,0.5073530177570603,0.0,8.0,7610.2952663559045,15000.0,12803.21762989834
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,22,ResponseVariable,15,System Time,System Time,2412.0,3.1551804586881858,0.0013044323086432996,24.003597961025662,7610.2952663559045,2412.0,47456.83772780051
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,23,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4973.0,0.03242508694919877,0.0,4.0,486.37630423798146,15000.0,751.5915000170953
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,23,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2484.0,0.19428025108032707,0.0,11.046196908683669,482.5921436835324,2484.0,1845.238082976629
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,23,TimeWeighted,13,NumBusy,NumBusy,4968.0,0.5063605130106825,0.0,2.0,7595.407695160238,15000.0,10646.445883713224
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,23,TimeWeighted,14,# in System,# in System,4970.0,0.5387855999598813,0.0,6.0,8081.78399939822,15000.0,13343.542600682245
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,23,ResponseVariable,15,System Time,System Time,2482.0,3.249920457944165,9.452022277400829E-4,24.319534974090857,8066.302576617418,2482.0,51217.199258658744
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,24,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,5041.0,0.034393002614923535,0.0,4.0,515.895039223853,15000.0,822.4435626584745
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,24,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2519.0,0.20480152410633307,0.0,14.000255387218203,515.895039223853,2519.0,2266.8505706151955
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,24,TimeWeighted,13,NumBusy,NumBusy,5039.0,0.5103877419297601,0.0,2.0,7655.8161289464015,15000.0,10733.653908737484
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,24,TimeWeighted,14,# in System,# in System,5039.0,0.5447807445446836,0.0,6.0,8171.7111681702545,15000.0,13619.677628291369
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,24,ResponseVariable,15,System Time,System Time,2518.0,3.245048287175323,6.547728571604239E-4,31.368197192636217,8171.031587107463,2518.0,53599.94193864111
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,25,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,5129.0,0.030921551165187217,0.0,3.0,463.82326747780826,15000.0,632.9314543949058
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,25,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2563.0,0.18096889093944918,0.0,9.198468956741635,463.82326747780826,2563.0,1679.5927665092938
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,25,TimeWeighted,13,NumBusy,NumBusy,5127.0,0.5111832946037825,0.0,2.0,7667.749419056739,15000.0,10708.31706462778
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,25,TimeWeighted,14,# in System,# in System,5127.0,0.5421048457689698,0.0,5.0,8131.572686534547,15000.0,13196.541588933917
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,25,ResponseVariable,15,System Time,System Time,2562.0,3.172790343747635,6.980185607972089E-4,28.832931277105672,8128.68886068144,2562.0,51406.171349274955
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,26,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,5053.0,0.03345141910952413,0.0,4.0,501.7712866428619,15000.0,846.1773274302168
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,26,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2525.0,0.1987213016407374,0.0,11.434301212688297,501.7712866428619,2525.0,2239.5684148172772
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,26,TimeWeighted,13,NumBusy,NumBusy,5051.0,0.5112747887883659,0.0,2.0,7669.121831825488,15000.0,10841.665643153068
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,26,TimeWeighted,14,# in System,# in System,5051.0,0.54472620789789,0.0,6.0,8170.89311846835,15000.0,13694.928117154734
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,26,ResponseVariable,15,System Time,System Time,2524.0,3.2361146266902328,1.2895067447971087E-4,33.585437053102396,8167.953317766147,2524.0,53408.339684736115
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,27,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4949.0,0.03898250233656242,0.0,5.0,584.7375350484363,15000.0,1075.559363773551
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,27,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2473.0,0.23644865954243277,0.0,10.289949335870915,584.7375350484363,2473.0,2478.375498000161
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,27,TimeWeighted,13,NumBusy,NumBusy,4947.0,0.5133049605093711,0.0,2.0,7699.574407640566,15000.0,10820.787397633034
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,27,TimeWeighted,14,# in System,# in System,4947.0,0.5522874628459336,0.0,7.0,8284.311942689003,15000.0,14235.29690160033
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,27,ResponseVariable,15,System Time,System Time,2472.0,3.3512233301683674,5.81216281716479E-4,25.07946198502941,8284.224072176205,2472.0,55217.42115174196
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,28,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4867.0,0.03601899267398779,0.0,4.0,540.2848901098168,15000.0,876.5992265289187
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,28,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2432.0,0.22215661599910233,0.0,10.750373206325094,540.2848901098168,2432.0,2151.4144192190665
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,28,TimeWeighted,13,NumBusy,NumBusy,4868.0,0.4976444312229176,0.0,2.0,7464.666468343765,15000.0,10326.11435775582
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,28,TimeWeighted,14,# in System,# in System,4868.0,0.5336634238969055,0.0,6.0,8004.951358453582,15000.0,13363.853144724006
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,28,ResponseVariable,15,System Time,System Time,2434.0,3.2911314570856285,9.501400290901074E-4,27.445476271812367,8010.61396654642,2434.0,51067.17072559845
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,29,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4933.0,0.028734696952740887,0.0,4.0,431.0204542911133,15000.0,670.9653709986442
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,29,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2465.0,0.17485616806941717,0.0,11.789417829411832,431.0204542911133,2465.0,1677.7926938985222
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,29,TimeWeighted,13,NumBusy,NumBusy,4933.0,0.4915701761938926,0.0,2.0,7373.552642908389,15000.0,10124.480837754874
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,29,TimeWeighted,14,# in System,# in System,4933.0,0.5203048731466335,0.0,6.0,7804.573097199503,15000.0,12519.528025917973
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,29,ResponseVariable,15,System Time,System Time,2466.0,3.1656488396743954,3.440039654378779E-4,32.55249025059129,7806.490038637059,2466.0,49150.30595884391
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,30,TimeWeighted,11,PharmacyQ:Num In Q,PharmacyQ:Num In Q,4795.0,0.02880905735229359,0.0,3.0,432.13586028440386,15000.0,612.018959432874
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,30,ResponseVariable,12,PharmacyQ:Time In Q,PharmacyQ:Time In Q,2396.0,0.18035720379148742,0.0,10.018860697244236,432.13586028440386,2396.0,1535.7890157714132
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,30,TimeWeighted,13,NumBusy,NumBusy,4793.0,0.47334250233014635,0.0,2.0,7100.137534952195,15000.0,9818.347618414826
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,30,TimeWeighted,14,# in System,# in System,4793.0,0.50215155968244,0.0,5.0,7532.273395236599,15000.0,12158.910018985316
+Drive Through Pharmacy,Drive Through Pharmacy_Model,2st Run,30,ResponseVariable,15,System Time,System Time,2395.0,3.138421689629281,5.975139029033016E-4,27.767201581402333,7516.519946662128,2395.0,46012.19264502187

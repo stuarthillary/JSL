@@ -1,0 +1,34 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix} Copyright (C) ${date?date?string("yyyy")} ${user}
+${licensePrefix}
+${licensePrefix} Contact:
+${licensePrefix}	Manuel D. Rossetti, Ph.D., P.E.
+${licensePrefix}	Department of Industrial Engineering
+${licensePrefix}	University of Arkansas
+${licensePrefix}	4207 Bell Engineering Center
+${licensePrefix}	Fayetteville, AR 72701
+${licensePrefix}	Phone: (479) 575-6756
+${licensePrefix}	Email: rossetti@uark.edu
+${licensePrefix}	Web: www.uark.edu/~rossetti
+${licensePrefix}
+${licensePrefix} This file is part of the JSL (a Java Simulation Library). The JSL is a framework
+${licensePrefix} of Java classes that permit the easy development and execution of discrete event
+${licensePrefix} simulation programs.
+${licensePrefix}
+${licensePrefix} The JSL is free software; you can redistribute it and/or modify
+${licensePrefix} it under the terms of the GNU General Public License as published by
+${licensePrefix} the Free Software Foundation; either version 2 of the License, or
+${licensePrefix} (at your option) any later version.
+${licensePrefix}
+${licensePrefix} The JSL is distributed in the hope that it will be useful,
+${licensePrefix} but WITHOUT ANY WARRANTY; without even the implied warranty of
+${licensePrefix} MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+${licensePrefix} GNU General Public License for more details.
+${licensePrefix}
+${licensePrefix} You should have received a copy of the GNU General Public License
+${licensePrefix} along with this program.  If not, see <http://www.gnu.org/licenses/>.
+<#if licenseLast??>
+${licenseLast}
+</#if>
